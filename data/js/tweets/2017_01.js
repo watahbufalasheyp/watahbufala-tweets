@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 22:09:29 +0000 2017",
+		"id": 819305254147813400,
+		"id_str": "819305254147813377",
+		"text": "RT @Nirbion: It's happening soon, the Hype machine is ON! #Switchmas https://t.co/SxDuUul8h4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Switchmas",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nirbion",
+					"name": "Nirbion 피자",
+					"id": 104911187,
+					"id_str": "104911187",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 818497501179289600,
+					"id_str": "818497501179289600",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+					"url": "https://t.co/SxDuUul8h4",
+					"display_url": "pic.twitter.com/SxDuUul8h4",
+					"expanded_url": "https://twitter.com/Nirbion/status/818497882030534658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818497882030534700,
+					"source_status_id_str": "818497882030534658",
+					"source_user_id": 104911187,
+					"source_user_id_str": "104911187"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 818497501179289600,
+					"id_str": "818497501179289600",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+					"url": "https://t.co/SxDuUul8h4",
+					"display_url": "pic.twitter.com/SxDuUul8h4",
+					"expanded_url": "https://twitter.com/Nirbion/status/818497882030534658/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818497882030534700,
+					"source_status_id_str": "818497882030534658",
+					"source_user_id": 104911187,
+					"source_user_id_str": "104911187",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C1vjJAdWIAAFaJl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1269,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1954,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 09 16:41:16 +0000 2017",
+			"id": 818497882030534700,
+			"id_str": "818497882030534658",
+			"text": "It's happening soon, the Hype machine is ON! #Switchmas https://t.co/SxDuUul8h4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Switchmas",
+						"indices": [
+							45,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 818497501179289600,
+						"id_str": "818497501179289600",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+						"url": "https://t.co/SxDuUul8h4",
+						"display_url": "pic.twitter.com/SxDuUul8h4",
+						"expanded_url": "https://twitter.com/Nirbion/status/818497882030534658/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818497501179289600,
+						"id_str": "818497501179289600",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1vjJAdWIAAFaJl.jpg",
+						"url": "https://t.co/SxDuUul8h4",
+						"display_url": "pic.twitter.com/SxDuUul8h4",
+						"expanded_url": "https://twitter.com/Nirbion/status/818497882030534658/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C1vjJAdWIAAFaJl.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104911187,
+				"id_str": "104911187",
+				"name": "Nirbion 피자",
+				"screen_name": "Nirbion",
+				"location": "In Your Fridge! [Germany]",
+				"description": "やらないか? ● Loves Videogames & Animation ● BIG Kirby fan ● BIG nerdy weirdo ● Designer for @AllSourceGaming ● Knödel of Love ● Say No to Drugs, Say Yes to Pizza!",
+				"url": "https://t.co/Za2Ejbzw5B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Za2Ejbzw5B",
+								"expanded_url": "http://www.sourcegaming.info",
+								"display_url": "sourcegaming.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 916,
+				"friends_count": 458,
+				"listed_count": 47,
+				"created_at": "Thu Jan 14 19:46:24 +0000 2010",
+				"favourites_count": 20025,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35936,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685953161836802049/hicrJRZ9.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685953161836802049/hicrJRZ9.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757320296298901504/--TV2fkH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757320296298901504/--TV2fkH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104911187/1478353615",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 229,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 11 19:46:18 +0000 2017",
 		"id": 819269222635360300,
 		"id_str": "819269222635360263",
