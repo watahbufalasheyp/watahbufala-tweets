@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 15:01:55 +0000 2017",
+		"id": 819197653150011400,
+		"id_str": "819197653150011393",
+		"text": "RT @Tracker_TD: A'ight here's my Nintendo Switch event bingo sheet thing. This'll be a fun one. https://t.co/MoMorFymoS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tracker_TD",
+					"name": "Tracker",
+					"id": 158759728,
+					"id_str": "158759728",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 818956777723142100,
+					"id_str": "818956777723142148",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+					"url": "https://t.co/MoMorFymoS",
+					"display_url": "pic.twitter.com/MoMorFymoS",
+					"expanded_url": "https://twitter.com/Tracker_TD/status/818956836212789249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1180,
+							"h": 1529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818956836212789200,
+					"source_status_id_str": "818956836212789249",
+					"source_user_id": 158759728,
+					"source_user_id_str": "158759728"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 818956777723142100,
+					"id_str": "818956777723142148",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+					"url": "https://t.co/MoMorFymoS",
+					"display_url": "pic.twitter.com/MoMorFymoS",
+					"expanded_url": "https://twitter.com/Tracker_TD/status/818956836212789249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1180,
+							"h": 1529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818956836212789200,
+					"source_status_id_str": "818956836212789249",
+					"source_user_id": 158759728,
+					"source_user_id_str": "158759728"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1253,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1909,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2136,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 10 23:04:59 +0000 2017",
+			"id": 818956836212789200,
+			"id_str": "818956836212789249",
+			"text": "A'ight here's my Nintendo Switch event bingo sheet thing. This'll be a fun one. https://t.co/MoMorFymoS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 818956777723142100,
+						"id_str": "818956777723142148",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+						"url": "https://t.co/MoMorFymoS",
+						"display_url": "pic.twitter.com/MoMorFymoS",
+						"expanded_url": "https://twitter.com/Tracker_TD/status/818956836212789249/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1180,
+								"h": 1529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 926,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818956777723142100,
+						"id_str": "818956777723142148",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C12E2a6WIAQ4k07.jpg",
+						"url": "https://t.co/MoMorFymoS",
+						"display_url": "pic.twitter.com/MoMorFymoS",
+						"expanded_url": "https://twitter.com/Tracker_TD/status/818956836212789249/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1180,
+								"h": 1529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 926,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158759728,
+				"id_str": "158759728",
+				"name": "Tracker",
+				"screen_name": "Tracker_TD",
+				"location": "UK",
+				"description": "I'm Tracker. Or Liam. SEGASONIC fan. I talk about games and Toradora. And I draw stuff. Let's be friends! :: Contact: thisistracker(at)gmail(dot)com",
+				"url": "https://t.co/PGuY3rnnpw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PGuY3rnnpw",
+								"expanded_url": "https://pixiv.me/tracker_td",
+								"display_url": "pixiv.me/tracker_td",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2790,
+				"friends_count": 936,
+				"listed_count": 100,
+				"created_at": "Wed Jun 23 14:51:56 +0000 2010",
+				"favourites_count": 103353,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 153564,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D0D0D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662385743730487296/Z9MV2R28.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662385743730487296/Z9MV2R28.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813929394435739648/fdZOhV1I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813929394435739648/fdZOhV1I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158759728/1475366392",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "85D4FF",
+				"profile_text_color": "3C00FF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "525d0fce978fc4bf",
+				"url": "https://api.twitter.com/1.1/geo/id/525d0fce978fc4bf.json",
+				"place_type": "city",
+				"name": "Heywood",
+				"full_name": "Heywood, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.2600551,
+								53.576735
+							],
+							[
+								-2.197855,
+								53.576735
+							],
+							[
+								-2.197855,
+								53.6034246
+							],
+							[
+								-2.2600551,
+								53.6034246
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 507,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 14:56:41 +0000 2017",
+		"id": 819196337719799800,
+		"id_str": "819196337719799808",
+		"text": "@SilverSoo_Chris is that a different twitter client?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SilverSoo_Chris",
+					"name": "Your♢Best♢Nightmare",
+					"id": 3905219632,
+					"id_str": "3905219632",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 819173547838992400,
+		"in_reply_to_status_id_str": "819173547838992384",
+		"in_reply_to_user_id": 3905219632,
+		"in_reply_to_user_id_str": "3905219632",
+		"in_reply_to_screen_name": "SilverSoo_Chris",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1253,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1909,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2136,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 11 07:50:20 +0000 2017",
 		"id": 819089042298064900,
 		"id_str": "819089042298064900",
