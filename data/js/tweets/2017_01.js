@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 18:14:54 +0000 2017",
+		"id": 819246222091419600,
+		"id_str": "819246222091419648",
+		"text": "@h3h3productions https://t.co/SdJQs1LC83",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "h3h3productions",
+					"name": "Ethan Klein",
+					"id": 1187330941,
+					"id_str": "1187330941",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 819246214109626400,
+					"id_str": "819246214109626368",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C16MF1eWgAAbcly.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C16MF1eWgAAbcly.jpg",
+					"url": "https://t.co/SdJQs1LC83",
+					"display_url": "pic.twitter.com/SdJQs1LC83",
+					"expanded_url": "https://twitter.com/watahbufala/status/819246222091419648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 819246214109626400,
+					"id_str": "819246214109626368",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C16MF1eWgAAbcly.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C16MF1eWgAAbcly.jpg",
+					"url": "https://t.co/SdJQs1LC83",
+					"display_url": "pic.twitter.com/SdJQs1LC83",
+					"expanded_url": "https://twitter.com/watahbufala/status/819246222091419648/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C16MF1eWgAAbcly.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 819242697412276200,
+		"in_reply_to_status_id_str": "819242697412276224",
+		"in_reply_to_user_id": 1187330941,
+		"in_reply_to_user_id_str": "1187330941",
+		"in_reply_to_screen_name": "h3h3productions",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1260,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1949,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Jan 11 17:35:45 +0000 2017",
 		"id": 819236366890504200,
 		"id_str": "819236366890504192",
