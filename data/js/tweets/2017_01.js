@@ -1,6 +1,1195 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 19:46:18 +0000 2017",
+		"id": 819269222635360300,
+		"id_str": "819269222635360263",
+		"text": "RT @ShittySUFanart: https://t.co/suZzklJdVe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShittySUFanart",
+					"name": "Bad SU Fanart",
+					"id": 720702171080171500,
+					"id_str": "720702171080171520",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 818991643500023800,
+					"id_str": "818991643500023808",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+					"url": "https://t.co/suZzklJdVe",
+					"display_url": "pic.twitter.com/suZzklJdVe",
+					"expanded_url": "https://twitter.com/ShittySUFanart/status/818991647098896384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 294,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 294,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818991647098896400,
+					"source_status_id_str": "818991647098896384",
+					"source_user_id": 720702171080171500,
+					"source_user_id_str": "720702171080171520"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 818991643500023800,
+					"id_str": "818991643500023808",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+					"url": "https://t.co/suZzklJdVe",
+					"display_url": "pic.twitter.com/suZzklJdVe",
+					"expanded_url": "https://twitter.com/ShittySUFanart/status/818991647098896384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 294,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 294,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818991647098896400,
+					"source_status_id_str": "818991647098896384",
+					"source_user_id": 720702171080171500,
+					"source_user_id_str": "720702171080171520"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1268,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1951,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 01:23:19 +0000 2017",
+			"id": 818991647098896400,
+			"id_str": "818991647098896384",
+			"text": "https://t.co/suZzklJdVe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 818991643500023800,
+						"id_str": "818991643500023808",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+						"url": "https://t.co/suZzklJdVe",
+						"display_url": "pic.twitter.com/suZzklJdVe",
+						"expanded_url": "https://twitter.com/ShittySUFanart/status/818991647098896384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 400,
+								"h": 294,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 294,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 294,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818991643500023800,
+						"id_str": "818991643500023808",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C12kj4DVEAAqMWf.jpg",
+						"url": "https://t.co/suZzklJdVe",
+						"display_url": "pic.twitter.com/suZzklJdVe",
+						"expanded_url": "https://twitter.com/ShittySUFanart/status/818991647098896384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 400,
+								"h": 294,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 294,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 294,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720702171080171500,
+				"id_str": "720702171080171520",
+				"name": "Bad SU Fanart",
+				"screen_name": "ShittySUFanart",
+				"location": "Hell, MI",
+				"description": "Art Posted isn't ours, Art is mostly subjective. Ask for sources when interested. We will take back SU! Sometimes NSFW Send Submissions",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1418,
+				"friends_count": 9,
+				"listed_count": 15,
+				"created_at": "Thu Apr 14 19:56:02 +0000 2016",
+				"favourites_count": 3489,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17457,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818234767871266816/JJ9qeYpS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818234767871266816/JJ9qeYpS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720702171080171520/1484028273",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jan 11 19:42:37 +0000 2017",
+		"id": 819268296428179500,
+		"id_str": "819268296428179463",
+		"text": "Guys my age: I want a gf\nMe: I want every issue of Nintendo power",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1268,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1951,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 19:41:58 +0000 2017",
+		"id": 819268132850298900,
+		"id_str": "819268132850298880",
+		"text": "RT @MotherToEarthMV: You ever catch the MOTHER 2 references in Scott Pilgrim? https://t.co/c3tIF6RATO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MotherToEarthMV",
+					"name": "Mother to Earth",
+					"id": 4886996461,
+					"id_str": "4886996461",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 814281959019085800,
+					"id_str": "814281959019085824",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+					"url": "https://t.co/c3tIF6RATO",
+					"display_url": "pic.twitter.com/c3tIF6RATO",
+					"expanded_url": "https://twitter.com/MotherToEarthMV/status/814281964895215616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 495,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 495,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 495,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 814281964895215600,
+					"source_status_id_str": "814281964895215616",
+					"source_user_id": 4886996461,
+					"source_user_id_str": "4886996461"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 814281959019085800,
+					"id_str": "814281959019085824",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+					"url": "https://t.co/c3tIF6RATO",
+					"display_url": "pic.twitter.com/c3tIF6RATO",
+					"expanded_url": "https://twitter.com/MotherToEarthMV/status/814281964895215616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 495,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 495,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 495,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 814281964895215600,
+					"source_status_id_str": "814281964895215616",
+					"source_user_id": 4886996461,
+					"source_user_id_str": "4886996461"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1268,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1951,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 29 01:28:43 +0000 2016",
+			"id": 814281964895215600,
+			"id_str": "814281964895215616",
+			"text": "You ever catch the MOTHER 2 references in Scott Pilgrim? https://t.co/c3tIF6RATO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 814281959019085800,
+						"id_str": "814281959019085824",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+						"url": "https://t.co/c3tIF6RATO",
+						"display_url": "pic.twitter.com/c3tIF6RATO",
+						"expanded_url": "https://twitter.com/MotherToEarthMV/status/814281964895215616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 495,
+								"h": 284,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 495,
+								"h": 284,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 495,
+								"h": 284,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 814281959019085800,
+						"id_str": "814281959019085824",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0zpIKJXgAAErOm.jpg",
+						"url": "https://t.co/c3tIF6RATO",
+						"display_url": "pic.twitter.com/c3tIF6RATO",
+						"expanded_url": "https://twitter.com/MotherToEarthMV/status/814281964895215616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 495,
+								"h": 284,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 495,
+								"h": 284,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 495,
+								"h": 284,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4886996461,
+				"id_str": "4886996461",
+				"name": "Mother to Earth",
+				"screen_name": "MotherToEarthMV",
+				"location": "Dallas, TX",
+				"description": "Documentary about #MOTHER / #Earthbound Beginnings 25 year journey to release. Funded by Kickstarter: https://t.co/WSrtpjPMuf Email: mothertoearthmovie@gmail.com",
+				"url": "https://t.co/Drw4WLo0VY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Drw4WLo0VY",
+								"expanded_url": "http://www.mothertoearth.com",
+								"display_url": "mothertoearth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WSrtpjPMuf",
+								"expanded_url": "http://kck.st/26d2gWN",
+								"display_url": "kck.st/26d2gWN",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2690,
+				"friends_count": 3040,
+				"listed_count": 28,
+				"created_at": "Wed Feb 10 07:47:29 +0000 2016",
+				"favourites_count": 10861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7780,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809688721058594816/-TnvHiOl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809688721058594816/-TnvHiOl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4886996461/1481935093",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 154,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 19:38:24 +0000 2017",
+		"id": 819267234434601000,
+		"id_str": "819267234434600968",
+		"text": "RT @MotherToEarthMV: I spend a lot of time wondering where the original clay figurines from MOTHER and Earthbound are. https://t.co/T9Urgcj…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MotherToEarthMV",
+					"name": "Mother to Earth",
+					"id": 4886996461,
+					"id_str": "4886996461",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (they're bad).",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1268,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1951,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 23:47:20 +0000 2016",
+			"id": 809907794627493900,
+			"id_str": "809907794627493888",
+			"text": "I spend a lot of time wondering where the original clay figurines from MOTHER and Earthbound are. https://t.co/T9UrgcjDA2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 809907787815940100,
+						"id_str": "809907787815940097",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz1e14mXcAEQaNf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz1e14mXcAEQaNf.jpg",
+						"url": "https://t.co/T9UrgcjDA2",
+						"display_url": "pic.twitter.com/T9UrgcjDA2",
+						"expanded_url": "https://twitter.com/MotherToEarthMV/status/809907794627493888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 503,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 503,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 503,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 809907787815940100,
+						"id_str": "809907787815940097",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz1e14mXcAEQaNf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz1e14mXcAEQaNf.jpg",
+						"url": "https://t.co/T9UrgcjDA2",
+						"display_url": "pic.twitter.com/T9UrgcjDA2",
+						"expanded_url": "https://twitter.com/MotherToEarthMV/status/809907794627493888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 503,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 503,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 503,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 809907787828437000,
+						"id_str": "809907787828436992",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz1e14pWIAAFq19.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz1e14pWIAAFq19.jpg",
+						"url": "https://t.co/T9UrgcjDA2",
+						"display_url": "pic.twitter.com/T9UrgcjDA2",
+						"expanded_url": "https://twitter.com/MotherToEarthMV/status/809907794627493888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 809907787824238600,
+						"id_str": "809907787824238592",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz1e14oWEAAKPL5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz1e14oWEAAKPL5.jpg",
+						"url": "https://t.co/T9UrgcjDA2",
+						"display_url": "pic.twitter.com/T9UrgcjDA2",
+						"expanded_url": "https://twitter.com/MotherToEarthMV/status/809907794627493888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 809907787866210300,
+						"id_str": "809907787866210304",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz1e14yWgAAn_po.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz1e14yWgAAn_po.jpg",
+						"url": "https://t.co/T9UrgcjDA2",
+						"display_url": "pic.twitter.com/T9UrgcjDA2",
+						"expanded_url": "https://twitter.com/MotherToEarthMV/status/809907794627493888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4886996461,
+				"id_str": "4886996461",
+				"name": "Mother to Earth",
+				"screen_name": "MotherToEarthMV",
+				"location": "Dallas, TX",
+				"description": "Documentary about #MOTHER / #Earthbound Beginnings 25 year journey to release. Funded by Kickstarter: https://t.co/WSrtpjPMuf Email: mothertoearthmovie@gmail.com",
+				"url": "https://t.co/Drw4WLo0VY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Drw4WLo0VY",
+								"expanded_url": "http://www.mothertoearth.com",
+								"display_url": "mothertoearth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WSrtpjPMuf",
+								"expanded_url": "http://kck.st/26d2gWN",
+								"display_url": "kck.st/26d2gWN",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2690,
+				"friends_count": 3040,
+				"listed_count": 28,
+				"created_at": "Wed Feb 10 07:47:29 +0000 2016",
+				"favourites_count": 10861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7780,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809688721058594816/-TnvHiOl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809688721058594816/-TnvHiOl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4886996461/1481935093",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 11 18:14:54 +0000 2017",
 		"id": 819246222091419600,
 		"id_str": "819246222091419648",
