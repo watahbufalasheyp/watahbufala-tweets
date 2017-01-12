@@ -1,6 +1,1054 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 06:48:53 +0000 2017",
+		"id": 819435968767914000,
+		"id_str": "819435968767913984",
+		"text": "@uhsalt he's obviously better than me in every way, there's nothing to do but cry now",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uhsalt",
+					"name": "Assault",
+					"id": 2643374811,
+					"id_str": "2643374811",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 819434849924567000,
+		"in_reply_to_status_id_str": "819434849924567040",
+		"in_reply_to_user_id": 2643374811,
+		"in_reply_to_user_id_str": "2643374811",
+		"in_reply_to_screen_name": "uhsalt",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (theyre all bad things). i make this face allot: -_-",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 1272,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1971,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 06:28:47 +0000 2017",
+		"id": 819430909829148700,
+		"id_str": "819430909829148672",
+		"text": "RT @Somecallmejon: You...can kill Big Boos with a slide...wha...all this time...\n(Credit to Supper Mario Broth) https://t.co/uCi0GsT66x",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Somecallmejon",
+					"name": "SomecallmeJohnny",
+					"id": 876935449,
+					"id_str": "876935449",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 818752264752001000,
+					"id_str": "818752264752001025",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+					"url": "https://t.co/uCi0GsT66x",
+					"display_url": "pic.twitter.com/uCi0GsT66x",
+					"expanded_url": "https://twitter.com/Somecallmejon/status/818752450924580864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818752450924580900,
+					"source_status_id_str": "818752450924580864",
+					"source_user_id": 876935449,
+					"source_user_id_str": "876935449"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 818752264752001000,
+					"id_str": "818752264752001025",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+					"url": "https://t.co/uCi0GsT66x",
+					"display_url": "pic.twitter.com/uCi0GsT66x",
+					"expanded_url": "https://twitter.com/Somecallmejon/status/818752450924580864/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818752450924580900,
+					"source_status_id_str": "818752450924580864",
+					"source_user_id": 876935449,
+					"source_user_id_str": "876935449",
+					"video_info": {
+						"aspect_ratio": [
+							8,
+							7
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C1zK2MuW8AE0DNy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (theyre all bad things). i make this face allot: -_-",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 1272,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1971,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 10 09:32:50 +0000 2017",
+			"id": 818752450924580900,
+			"id_str": "818752450924580864",
+			"text": "You...can kill Big Boos with a slide...wha...all this time...\n(Credit to Supper Mario Broth) https://t.co/uCi0GsT66x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 818752264752001000,
+						"id_str": "818752264752001025",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+						"url": "https://t.co/uCi0GsT66x",
+						"display_url": "pic.twitter.com/uCi0GsT66x",
+						"expanded_url": "https://twitter.com/Somecallmejon/status/818752450924580864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 448,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 298,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818752264752001000,
+						"id_str": "818752264752001025",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1zK2MuW8AE0DNy.jpg",
+						"url": "https://t.co/uCi0GsT66x",
+						"display_url": "pic.twitter.com/uCi0GsT66x",
+						"expanded_url": "https://twitter.com/Somecallmejon/status/818752450924580864/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 448,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 298,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								8,
+								7
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C1zK2MuW8AE0DNy.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 876935449,
+				"id_str": "876935449",
+				"name": "SomecallmeJohnny",
+				"screen_name": "Somecallmejon",
+				"location": "",
+				"description": "I'm a guy who likes to entertain.",
+				"url": "https://t.co/k8XD6nXYjH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k8XD6nXYjH",
+								"expanded_url": "http://www.youtube.com/somecallmejohnny",
+								"display_url": "youtube.com/somecallmejohn…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27510,
+				"friends_count": 133,
+				"listed_count": 57,
+				"created_at": "Sat Oct 13 02:56:15 +0000 2012",
+				"favourites_count": 3005,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7402,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816068148285865989/LyOGzk9b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816068148285865989/LyOGzk9b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/876935449/1460678180",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5723,
+			"favorite_count": 9218,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5723,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 06:26:21 +0000 2017",
+		"id": 819430295850061800,
+		"id_str": "819430295850061824",
+		"text": "RT @TetraTheRipper: She already knows...\n#homestuck https://t.co/n9znhjCjPz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "homestuck",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TetraTheRipper",
+					"name": "tetra",
+					"id": 282849116,
+					"id_str": "282849116",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 819347575455227900,
+					"id_str": "819347575455227906",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+					"url": "https://t.co/n9znhjCjPz",
+					"display_url": "pic.twitter.com/n9znhjCjPz",
+					"expanded_url": "https://twitter.com/TetraTheRipper/status/819347608649027584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819347608649027600,
+					"source_status_id_str": "819347608649027584",
+					"source_user_id": 282849116,
+					"source_user_id_str": "282849116"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 819347575455227900,
+					"id_str": "819347575455227906",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+					"url": "https://t.co/n9znhjCjPz",
+					"display_url": "pic.twitter.com/n9znhjCjPz",
+					"expanded_url": "https://twitter.com/TetraTheRipper/status/819347608649027584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819347608649027600,
+					"source_status_id_str": "819347608649027584",
+					"source_user_id": 282849116,
+					"source_user_id_str": "282849116"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (theyre all bad things). i make this face allot: -_-",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 1272,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1971,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 12 00:57:47 +0000 2017",
+			"id": 819347608649027600,
+			"id_str": "819347608649027584",
+			"text": "She already knows...\n#homestuck https://t.co/n9znhjCjPz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "homestuck",
+						"indices": [
+							21,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 819347575455227900,
+						"id_str": "819347575455227906",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+						"url": "https://t.co/n9znhjCjPz",
+						"display_url": "pic.twitter.com/n9znhjCjPz",
+						"expanded_url": "https://twitter.com/TetraTheRipper/status/819347608649027584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1474,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 864,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 490,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819347575455227900,
+						"id_str": "819347575455227906",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C17oR16WIAIJe0y.jpg",
+						"url": "https://t.co/n9znhjCjPz",
+						"display_url": "pic.twitter.com/n9znhjCjPz",
+						"expanded_url": "https://twitter.com/TetraTheRipper/status/819347608649027584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1474,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 864,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 490,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 282849116,
+				"id_str": "282849116",
+				"name": "tetra",
+				"screen_name": "TetraTheRipper",
+				"location": "[Spanish / English]",
+				"description": "Freelancer illustrator. Spain. [Agender] I'm still Homestuck trash. Bussiness/Commissions contact: tetra.commissions@hotmail.com",
+				"url": "https://t.co/wLVdQwk7rX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wLVdQwk7rX",
+								"expanded_url": "http://tetratheripper.tumblr.com",
+								"display_url": "tetratheripper.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3685,
+				"friends_count": 502,
+				"listed_count": 64,
+				"created_at": "Sat Apr 16 02:10:14 +0000 2011",
+				"favourites_count": 56781,
+				"utc_offset": 3600,
+				"time_zone": "Madrid",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80097,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FBEFF8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/554355072411254787/eudOxnm4.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/554355072411254787/eudOxnm4.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811625956641296384/lRaxIp0V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811625956641296384/lRaxIp0V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/282849116/1472579360",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "B6A6DE",
+				"profile_text_color": "DEA6CE",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 63,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 06:22:57 +0000 2017",
+		"id": 819429441675939800,
+		"id_str": "819429441675939840",
+		"text": "RT @marrieletsgo: I honestly don't find masturbation nor sex as lewd, simply because we have sexual needs and masturbation helps a lot with…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marrieletsgo",
+					"name": "maria",
+					"id": 2386194751,
+					"id_str": "2386194751",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (theyre all bad things). i make this face allot: -_-",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 1272,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1971,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 12 05:54:24 +0000 2017",
+			"id": 819422254421266400,
+			"id_str": "819422254421266432",
+			"text": "I honestly don't find masturbation nor sex as lewd, simply because we have sexual needs and masturbation helps a lot with your genitals",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2386194751,
+				"id_str": "2386194751",
+				"name": "maria",
+				"screen_name": "marrieletsgo",
+				"location": "Raouf/Pedro",
+				"description": "long story short, sexual shenanigans.",
+				"url": "https://t.co/XAwFsZnOpS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XAwFsZnOpS",
+								"expanded_url": "https://myanimelist.net/profile/marrieletsgo",
+								"display_url": "myanimelist.net/profile/marrie…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1566,
+				"friends_count": 292,
+				"listed_count": 57,
+				"created_at": "Thu Mar 13 02:48:41 +0000 2014",
+				"favourites_count": 41871,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 209054,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/521170578858717184/4YIyRLFw.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/521170578858717184/4YIyRLFw.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819415950772432896/SGInl8Rr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819415950772432896/SGInl8Rr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2386194751/1484099360",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 11 23:39:54 +0000 2017",
 		"id": 819328010650341400,
 		"id_str": "819328010650341376",
