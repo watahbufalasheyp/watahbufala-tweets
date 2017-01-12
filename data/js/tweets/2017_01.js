@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 10:04:30 +0000 2017",
+		"id": 819485194793156600,
+		"id_str": "819485194793156610",
+		"text": "Im Draco Malfoy. Discover which #HarryPotter character you are! START QUIZ: https://t.co/JLvBDEa2BT https://t.co/lar6aZcdrm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HarryPotter",
+					"indices": [
+						32,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JLvBDEa2BT",
+					"expanded_url": "http://hyperurl.co/4xu271?CNxz",
+					"display_url": "hyperurl.co/4xu271?CNxz",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 802337052834537500,
+					"id_str": "802337052834537472",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/CyJ5THBWIAAtM1U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyJ5THBWIAAtM1U.jpg",
+					"url": "https://t.co/lar6aZcdrm",
+					"display_url": "pic.twitter.com/lar6aZcdrm",
+					"expanded_url": "https://twitter.com/twittapps10/status/802337060157870080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 594,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802337060157870100,
+					"source_status_id_str": "802337060157870080",
+					"source_user_id": 796537188515283000,
+					"source_user_id_str": "796537188515282944"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 802337052834537500,
+					"id_str": "802337052834537472",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/CyJ5THBWIAAtM1U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyJ5THBWIAAtM1U.jpg",
+					"url": "https://t.co/lar6aZcdrm",
+					"display_url": "pic.twitter.com/lar6aZcdrm",
+					"expanded_url": "https://twitter.com/twittapps10/status/802337060157870080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 594,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802337060157870100,
+					"source_status_id_str": "802337060157870080",
+					"source_user_id": 796537188515283000,
+					"source_user_id_str": "796537188515282944"
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">'Harry Potter'</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things (theyre all bad things). i make this face allot: -_-",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 1274,
+			"listed_count": 6,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 1972,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2182,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 12 07:59:35 +0000 2017",
 		"id": 819453757457043500,
 		"id_str": "819453757457043456",
