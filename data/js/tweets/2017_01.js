@@ -1,6 +1,960 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 14 23:01:13 +0000 2017",
+		"id": 820405436155301900,
+		"id_str": "820405436155301889",
+		"text": "oh shit wind waker! this is my favorite zelda game like ever #AGDQ2017",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AGDQ2017",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820383760864649200,
+		"in_reply_to_status_id_str": "820383760864649216",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2261,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 14 23:00:00 +0000 2017",
+		"id": 820405132563271700,
+		"id_str": "820405132563271681",
+		"text": "i really wanna get more into japanese music",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2261,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 14 22:52:12 +0000 2017",
+		"id": 820403168500744200,
+		"id_str": "820403168500744192",
+		"text": "i have like this microwavable vegetarian shepherds pie. gonna eat that",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820393446326341600,
+		"in_reply_to_status_id_str": "820393446326341632",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2261,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 14 22:40:50 +0000 2017",
+		"id": 820400307104522200,
+		"id_str": "820400307104522240",
+		"text": "RT @Espenartmanz: Hyper Light Drifter Fan Art! #Hyperlightdrifter @HeartMachineZ You can find the process video on my YT channel! :D https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hyperlightdrifter",
+					"indices": [
+						47,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Espenartmanz",
+					"name": "Espenartman",
+					"id": 708239132124975100,
+					"id_str": "708239132124975105",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "HeartMachineZ",
+					"name": "Alx Preston",
+					"id": 1858467265,
+					"id_str": "1858467265",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2261,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 13 17:38:15 +0000 2017",
+			"id": 819961773931581400,
+			"id_str": "819961773931581442",
+			"text": "Hyper Light Drifter Fan Art! #Hyperlightdrifter @HeartMachineZ You can find the process video on my YT channel! :D… https://t.co/8G4zICcpeu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hyperlightdrifter",
+						"indices": [
+							29,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HeartMachineZ",
+						"name": "Alx Preston",
+						"id": 1858467265,
+						"id_str": "1858467265",
+						"indices": [
+							48,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8G4zICcpeu",
+						"expanded_url": "https://twitter.com/i/web/status/819961773931581442",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 708239132124975100,
+				"id_str": "708239132124975105",
+				"name": "Espenartman",
+				"screen_name": "Espenartmanz",
+				"location": "",
+				"description": "Artist/Writer/Gamer & Fool of a Took",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34,
+				"friends_count": 41,
+				"listed_count": 0,
+				"created_at": "Fri Mar 11 10:32:22 +0000 2016",
+				"favourites_count": 28,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19,
+				"lang": "no",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809166349561954309/YDzF23G5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809166349561954309/YDzF23G5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/708239132124975105/1481755319",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 15,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 14 22:20:35 +0000 2017",
+		"id": 820395213705384000,
+		"id_str": "820395213705383936",
+		"text": "changed my discord icon btw https://t.co/daRhBBMk0B",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 820395198182256600,
+					"id_str": "820395198182256640",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/C2KhFgsW8AAC0gd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2KhFgsW8AAC0gd.jpg",
+					"url": "https://t.co/daRhBBMk0B",
+					"display_url": "pic.twitter.com/daRhBBMk0B",
+					"expanded_url": "https://twitter.com/watahbufala/status/820395213705383936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 337,
+							"h": 98,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 98,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 98,
+							"h": 98,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 337,
+							"h": 98,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 820395198182256600,
+					"id_str": "820395198182256640",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/C2KhFgsW8AAC0gd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2KhFgsW8AAC0gd.jpg",
+					"url": "https://t.co/daRhBBMk0B",
+					"display_url": "pic.twitter.com/daRhBBMk0B",
+					"expanded_url": "https://twitter.com/watahbufala/status/820395213705383936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 337,
+							"h": 98,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 98,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 98,
+							"h": 98,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 337,
+							"h": 98,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820077812614832100,
+		"in_reply_to_status_id_str": "820077812614832128",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2261,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 14 22:16:29 +0000 2017",
+		"id": 820394180446998500,
+		"id_str": "820394180446998529",
+		"text": "its official. dont question it. he has a TRIBAL TATTOO https://t.co/l4D0lAH8Mp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l4D0lAH8Mp",
+					"expanded_url": "https://twitter.com/VGArtAndTidbits/status/820356953838862337",
+					"display_url": "twitter.com/VGArtAndTidbit…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2261,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 820356953838862300,
+		"quoted_status_id_str": "820356953838862337",
+		"quoted_status": {
+			"created_at": "Sat Jan 14 19:48:33 +0000 2017",
+			"id": 820356953838862300,
+			"id_str": "820356953838862337",
+			"text": "In 2004 Nintendo ran an ad showing Mario's bare upper arm with a tribal tattoo. We never see his upper arm again. H… https://t.co/7who4YQw4e",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7who4YQw4e",
+						"expanded_url": "https://twitter.com/i/web/status/820356953838862337",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 777293987392598000,
+				"id_str": "777293987392598016",
+				"name": "VideoGameArt&Tidbits",
+				"screen_name": "VGArtAndTidbits",
+				"location": "New York, NY",
+				"description": "A Twitter account posting high quality (official) video game artwork, classic ads, tidbits, and other video game goodies! ~ run by @tanookikuribo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4175,
+				"friends_count": 1,
+				"listed_count": 17,
+				"created_at": "Sat Sep 17 23:51:42 +0000 2016",
+				"favourites_count": 1353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 850,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813403284388151296/ym-mR1wz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813403284388151296/ym-mR1wz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/777293987392598016/1474172248",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 819,
+			"favorite_count": 1312,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 14 22:13:34 +0000 2017",
+		"id": 820393446326341600,
+		"id_str": "820393446326341632",
+		"text": "im really hungry",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2261,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 14 21:35:30 +0000 2017",
 		"id": 820383868461137900,
 		"id_str": "820383868461137920",
