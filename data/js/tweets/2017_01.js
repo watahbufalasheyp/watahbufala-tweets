@@ -1,6 +1,1201 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 01:10:03 +0000 2017",
+		"id": 820437858544656400,
+		"id_str": "820437858544656385",
+		"text": "@IikeClockwork YESSS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IikeClockwork",
+					"name": "Alec",
+					"id": 1191863899,
+					"id_str": "1191863899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 820437701539299300,
+		"in_reply_to_status_id_str": "820437701539299328",
+		"in_reply_to_user_id": 1191863899,
+		"in_reply_to_user_id_str": "1191863899",
+		"in_reply_to_screen_name": "IikeClockwork",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Jan 15 01:09:53 +0000 2017",
+		"id": 820437816257679400,
+		"id_str": "820437816257679360",
+		"text": "RT @IikeClockwork: @watahbufala remember that time her classpect the muse of space represents the ability of homestuck as a whole to inspir…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IikeClockwork",
+					"name": "Alec",
+					"id": 1191863899,
+					"id_str": "1191863899",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "watahbufala",
+					"name": "dan?",
+					"id": 2528303382,
+					"id_str": "2528303382",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 15 01:09:25 +0000 2017",
+			"id": 820437701539299300,
+			"id_str": "820437701539299328",
+			"text": "@watahbufala remember that time her classpect the muse of space represents the ability of homestuck as a whole to inspire people to create",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "watahbufala",
+						"name": "dan?",
+						"id": 2528303382,
+						"id_str": "2528303382",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 820435146625130500,
+			"in_reply_to_status_id_str": "820435146625130497",
+			"in_reply_to_user_id": 2528303382,
+			"in_reply_to_user_id_str": "2528303382",
+			"in_reply_to_screen_name": "watahbufala",
+			"user": {
+				"id": 1191863899,
+				"id_str": "1191863899",
+				"name": "Alec",
+				"screen_name": "IikeClockwork",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 81,
+				"listed_count": 4,
+				"created_at": "Mon Feb 18 02:58:06 +0000 2013",
+				"favourites_count": 878,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1890,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796553887201099777/glmyMfFx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796553887201099777/glmyMfFx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1191863899/1480039541",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 15 01:08:38 +0000 2017",
+		"id": 820437505505955800,
+		"id_str": "820437505505955845",
+		"text": "REMEMBER WHEN SHE WAS JUST THE BIGGEST CUTIE EVER (and had a problem sleuth reference weapon) https://t.co/4pom60HpLj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 820437477865431000,
+					"id_str": "820437477865431040",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C2LHigyWIAA9XDs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C2LHigyWIAA9XDs.jpg",
+					"url": "https://t.co/4pom60HpLj",
+					"display_url": "pic.twitter.com/4pom60HpLj",
+					"expanded_url": "https://twitter.com/watahbufala/status/820437505505955845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 235,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 820437477865431000,
+					"id_str": "820437477865431040",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C2LHigyWIAA9XDs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C2LHigyWIAA9XDs.jpg",
+					"url": "https://t.co/4pom60HpLj",
+					"display_url": "pic.twitter.com/4pom60HpLj",
+					"expanded_url": "https://twitter.com/watahbufala/status/820437505505955845/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 235,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							13,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C2LHigyWIAA9XDs.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820436018319028200,
+		"in_reply_to_status_id_str": "820436018319028228",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 15 01:02:44 +0000 2017",
+		"id": 820436018319028200,
+		"id_str": "820436018319028228",
+		"text": "REMEMBER WHEN SHE WAS STUCK IN THE DREAM BUBBLES, BEIN A FUCKING CUTIE https://t.co/l88OXFBcSq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 820435900400369700,
+					"id_str": "820435900400369669",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C2LGGsRXgAU3G-y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C2LGGsRXgAU3G-y.jpg",
+					"url": "https://t.co/l88OXFBcSq",
+					"display_url": "pic.twitter.com/l88OXFBcSq",
+					"expanded_url": "https://twitter.com/watahbufala/status/820436018319028228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 235,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 820435900400369700,
+					"id_str": "820435900400369669",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C2LGGsRXgAU3G-y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C2LGGsRXgAU3G-y.jpg",
+					"url": "https://t.co/l88OXFBcSq",
+					"display_url": "pic.twitter.com/l88OXFBcSq",
+					"expanded_url": "https://twitter.com/watahbufala/status/820436018319028228/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 235,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							13,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C2LGGsRXgAU3G-y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820435146625130500,
+		"in_reply_to_status_id_str": "820435146625130497",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 15 00:59:16 +0000 2017",
+		"id": 820435146625130500,
+		"id_str": "820435146625130497",
+		"text": "AND LIKE CALLIOPE IS LITERALLY A REPRESENTATION OF THE (good side of the) FANDOM, SHE HAS A TROLLSONA AND EVERYTHING https://t.co/Mx1U4e5Sn9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 820435138324688900,
+					"id_str": "820435138324688896",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/C2LFaVUXcAAIaJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2LFaVUXcAAIaJp.jpg",
+					"url": "https://t.co/Mx1U4e5Sn9",
+					"display_url": "pic.twitter.com/Mx1U4e5Sn9",
+					"expanded_url": "https://twitter.com/watahbufala/status/820435146625130497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 820435138324688900,
+					"id_str": "820435138324688896",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/C2LFaVUXcAAIaJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2LFaVUXcAAIaJp.jpg",
+					"url": "https://t.co/Mx1U4e5Sn9",
+					"display_url": "pic.twitter.com/Mx1U4e5Sn9",
+					"expanded_url": "https://twitter.com/watahbufala/status/820435146625130497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820432963661918200,
+		"in_reply_to_status_id_str": "820432963661918208",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 15 00:51:11 +0000 2017",
+		"id": 820433111255228400,
+		"id_str": "820433111255228416",
+		"text": "(its almost like he did it to scare away lord english or something :0)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820432963661918200,
+		"in_reply_to_status_id_str": "820432963661918208",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 15 00:50:36 +0000 2017",
+		"id": 820432963661918200,
+		"id_str": "820432963661918208",
+		"text": "REMEMBER THAT ONE TIME HUSSIE COSPLAYED AS CALLIOPE (calmasis) AND WAS KILLED BY CALLIOPES BROTHER https://t.co/fsNqH2Quxp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 820432940949770200,
+					"id_str": "820432940949770241",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C2LDabdXEAE0FpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C2LDabdXEAE0FpX.jpg",
+					"url": "https://t.co/fsNqH2Quxp",
+					"display_url": "pic.twitter.com/fsNqH2Quxp",
+					"expanded_url": "https://twitter.com/watahbufala/status/820432963661918208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 235,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 820432940949770200,
+					"id_str": "820432940949770241",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C2LDabdXEAE0FpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C2LDabdXEAE0FpX.jpg",
+					"url": "https://t.co/fsNqH2Quxp",
+					"display_url": "pic.twitter.com/fsNqH2Quxp",
+					"expanded_url": "https://twitter.com/watahbufala/status/820432963661918208/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 235,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							270,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C2LDabdXEAE0FpX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 820428971619840000,
+		"in_reply_to_status_id_str": "820428971619840001",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 15 00:34:44 +0000 2017",
+		"id": 820428971619840000,
+		"id_str": "820428971619840001",
+		"text": "JESUS CALLIOPE IS THE COOLES WHY DON'T MORE PEOPLE GIVE HER LOVE SHE'S THE FUCKING BEST #1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "dan?",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "an artist who likes to talk to much. I also like things, theyre all bad things. (he/him-♌-INTP- knight of space)",
+			"url": "https://t.co/9JqbpHksHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JqbpHksHB",
+							"expanded_url": "http://watahbufala.tumblr.com",
+							"display_url": "watahbufala.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 1316,
+			"listed_count": 7,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782517432393031680/wH3KfXHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1483818637",
+			"profile_link_color": "8F42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 14 23:32:28 +0000 2017",
 		"id": 820413300898926600,
 		"id_str": "820413300898926593",
