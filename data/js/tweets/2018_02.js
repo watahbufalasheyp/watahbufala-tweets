@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 14 21:53:59 +0000 2018",
+		"id": 963894113446912000,
+		"id_str": "963894113446912000",
+		"text": "The movie frank is good. I watched it with my girlfriend cuz it 'reminded her of me', then I realized its about a g… https://t.co/s14Ele8zTj",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s14Ele8zTj",
+					"expanded_url": "https://twitter.com/i/web/status/963894113446912000",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan 🌲🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | infp✖️ music enthusiast/musician, creator ✖️ I also really like opossums, and GY!BE✖️",
+			"url": "https://t.co/3z4yZ5I58a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3z4yZ5I58a",
+							"expanded_url": "http://watahbufala.neocities.org",
+							"display_url": "watahbufala.neocities.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1991,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 11588,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963156296164888577/Ca-Cn38i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963156296164888577/Ca-Cn38i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1512042804",
+			"profile_link_color": "545454",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 14 21:16:02 +0000 2018",
+		"id": 963884563264163800,
+		"id_str": "963884563264163851",
+		"text": "RT @weareleijon: @watahbufala https://t.co/v2rQK1h0qd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weareleijon",
+					"name": "ネペタ",
+					"id": 839462210862731300,
+					"id_str": "839462210862731265",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "watahbufala",
+					"name": "Dan 🌲🌲",
+					"id": 2528303382,
+					"id_str": "2528303382",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963884449220972500,
+					"id_str": "963884449220972544",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+					"url": "https://t.co/v2rQK1h0qd",
+					"display_url": "pic.twitter.com/v2rQK1h0qd",
+					"expanded_url": "https://twitter.com/weareleijon/status/963884459488669698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963884459488669700,
+					"source_status_id_str": "963884459488669698",
+					"source_user_id": 839462210862731300,
+					"source_user_id_str": "839462210862731265"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963884449220972500,
+					"id_str": "963884449220972544",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+					"url": "https://t.co/v2rQK1h0qd",
+					"display_url": "pic.twitter.com/v2rQK1h0qd",
+					"expanded_url": "https://twitter.com/weareleijon/status/963884459488669698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963884459488669700,
+					"source_status_id_str": "963884459488669698",
+					"source_user_id": 839462210862731300,
+					"source_user_id_str": "839462210862731265"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan 🌲🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | infp✖️ music enthusiast/musician, creator ✖️ I also really like opossums, and GY!BE✖️",
+			"url": "https://t.co/3z4yZ5I58a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3z4yZ5I58a",
+							"expanded_url": "http://watahbufala.neocities.org",
+							"display_url": "watahbufala.neocities.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1991,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 11588,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963156296164888577/Ca-Cn38i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963156296164888577/Ca-Cn38i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1512042804",
+			"profile_link_color": "545454",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 21:15:37 +0000 2018",
+			"id": 963884459488669700,
+			"id_str": "963884459488669698",
+			"text": "@watahbufala https://t.co/v2rQK1h0qd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "watahbufala",
+						"name": "Dan 🌲🌲",
+						"id": 2528303382,
+						"id_str": "2528303382",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 963884449220972500,
+						"id_str": "963884449220972544",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+						"url": "https://t.co/v2rQK1h0qd",
+						"display_url": "pic.twitter.com/v2rQK1h0qd",
+						"expanded_url": "https://twitter.com/weareleijon/status/963884459488669698/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963884449220972500,
+						"id_str": "963884449220972544",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWBnzLhW0AAioZJ.jpg",
+						"url": "https://t.co/v2rQK1h0qd",
+						"display_url": "pic.twitter.com/v2rQK1h0qd",
+						"expanded_url": "https://twitter.com/weareleijon/status/963884459488669698/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 963788824684965900,
+			"in_reply_to_status_id_str": "963788824684965893",
+			"in_reply_to_user_id": 839462210862731300,
+			"in_reply_to_user_id_str": "839462210862731265",
+			"in_reply_to_screen_name": "weareleijon",
+			"user": {
+				"id": 839462210862731300,
+				"id_str": "839462210862731265",
+				"name": "ネペタ",
+				"screen_name": "weareleijon",
+				"location": "",
+				"description": "nepeta/cherry/opal 18 ♌ trans woman i love my qpp luna  ️@butchknife",
+				"url": "https://t.co/7GIg97vWpN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7GIg97vWpN",
+								"expanded_url": "http://listography.com/weareleijon",
+								"display_url": "listography.com/weareleijon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 136,
+				"friends_count": 320,
+				"listed_count": 4,
+				"created_at": "Wed Mar 08 13:06:02 +0000 2017",
+				"favourites_count": 47475,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/951533414817116165/jYNzI2bc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951533414817116165/jYNzI2bc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/839462210862731265/1512365575",
+				"profile_link_color": "003BFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Feb 14 10:07:20 +0000 2018",
+		"id": 963716277465477100,
+		"id_str": "963716277465477121",
+		"text": "Hey like I love my girlfriend",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan 🌲🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | infp✖️ music enthusiast/musician, creator ✖️ I also really like opossums, and GY!BE✖️",
+			"url": "https://t.co/3z4yZ5I58a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3z4yZ5I58a",
+							"expanded_url": "http://watahbufala.neocities.org",
+							"display_url": "watahbufala.neocities.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1991,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 11588,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963156296164888577/Ca-Cn38i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963156296164888577/Ca-Cn38i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1512042804",
+			"profile_link_color": "545454",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 13 20:33:36 +0000 2018",
 		"id": 963511497468018700,
 		"id_str": "963511497468018688",
