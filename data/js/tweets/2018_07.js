@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 04 19:29:38 +0000 2018",
+		"id": 1014592088816734200,
+		"id_str": "1014592088816734208",
+		"text": "RT @HLHPattison: I'm experimenting with making my own Tarot Cards. https://t.co/VIBQ3JCP6U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLHPattison",
+					"name": "Hank Pattison Ω☠",
+					"id": 989943626,
+					"id_str": "989943626",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014589921137266700,
+					"id_str": "1014589921137266688",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+					"url": "https://t.co/VIBQ3JCP6U",
+					"display_url": "pic.twitter.com/VIBQ3JCP6U",
+					"expanded_url": "https://twitter.com/HLHPattison/status/1014590072862076928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 1377,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014590072862076900,
+					"source_status_id_str": "1014590072862076928",
+					"source_user_id": 989943626,
+					"source_user_id_str": "989943626"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014589921137266700,
+					"id_str": "1014589921137266688",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+					"url": "https://t.co/VIBQ3JCP6U",
+					"display_url": "pic.twitter.com/VIBQ3JCP6U",
+					"expanded_url": "https://twitter.com/HLHPattison/status/1014590072862076928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 1377,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014590072862076900,
+					"source_status_id_str": "1014590072862076928",
+					"source_user_id": 989943626,
+					"source_user_id_str": "989943626"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 261,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14094,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1524993047",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 04 19:21:38 +0000 2018",
+			"id": 1014590072862076900,
+			"id_str": "1014590072862076928",
+			"text": "I'm experimenting with making my own Tarot Cards. https://t.co/VIBQ3JCP6U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014589921137266700,
+						"id_str": "1014589921137266688",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+						"url": "https://t.co/VIBQ3JCP6U",
+						"display_url": "pic.twitter.com/VIBQ3JCP6U",
+						"expanded_url": "https://twitter.com/HLHPattison/status/1014590072862076928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 495,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1003,
+								"h": 1377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014589921137266700,
+						"id_str": "1014589921137266688",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhSMKGIUEAAmufO.jpg",
+						"url": "https://t.co/VIBQ3JCP6U",
+						"display_url": "pic.twitter.com/VIBQ3JCP6U",
+						"expanded_url": "https://twitter.com/HLHPattison/status/1014590072862076928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 495,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1003,
+								"h": 1377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 989943626,
+				"id_str": "989943626",
+				"name": "Hank Pattison Ω☠",
+				"screen_name": "HLHPattison",
+				"location": "Vancouver, BC",
+				"description": "20th Century Boy made with Mutant Technology. Seller of comics since 2002. 💣💊🤖🗨️🍩📡🥧🦖 I make The Death By Media Man Podcast & Videos! 📡🧠📺💀https://t.co/FjHGJwwGOD",
+				"url": "http://t.co/9hacXDjW1j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9hacXDjW1j",
+								"expanded_url": "http://HankPattison.tumblr.com",
+								"display_url": "HankPattison.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FjHGJwwGOD",
+								"expanded_url": "http://www.patreon.com/DeathByMediaMan",
+								"display_url": "patreon.com/DeathByMediaMan",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1766,
+				"friends_count": 3962,
+				"listed_count": 93,
+				"created_at": "Wed Dec 05 01:29:58 +0000 2012",
+				"favourites_count": 87814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 84720,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013838780699049984/DrsXRsRD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013838780699049984/DrsXRsRD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/989943626/1398288460",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 04 19:29:10 +0000 2018",
+		"id": 1014591971476869100,
+		"id_str": "1014591971476869121",
+		"text": "RT @goyagoat: a young shipbreaker https://t.co/zXKRDZP7rv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "goyagoat",
+					"name": "eli spencer",
+					"id": 981260906125582300,
+					"id_str": "981260906125582337",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014591505334526000,
+					"id_str": "1014591505334525954",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+					"url": "https://t.co/zXKRDZP7rv",
+					"display_url": "pic.twitter.com/zXKRDZP7rv",
+					"expanded_url": "https://twitter.com/goyagoat/status/1014591748402810881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 637,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 637,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 637,
+							"h": 567,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014591748402810900,
+					"source_status_id_str": "1014591748402810881",
+					"source_user_id": 981260906125582300,
+					"source_user_id_str": "981260906125582337"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014591505334526000,
+					"id_str": "1014591505334525954",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+					"url": "https://t.co/zXKRDZP7rv",
+					"display_url": "pic.twitter.com/zXKRDZP7rv",
+					"expanded_url": "https://twitter.com/goyagoat/status/1014591748402810881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 637,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 637,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 637,
+							"h": 567,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014591748402810900,
+					"source_status_id_str": "1014591748402810881",
+					"source_user_id": 981260906125582300,
+					"source_user_id_str": "981260906125582337"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 261,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14094,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1524993047",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 04 19:28:17 +0000 2018",
+			"id": 1014591748402810900,
+			"id_str": "1014591748402810881",
+			"text": "a young shipbreaker https://t.co/zXKRDZP7rv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014591505334526000,
+						"id_str": "1014591505334525954",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+						"url": "https://t.co/zXKRDZP7rv",
+						"display_url": "pic.twitter.com/zXKRDZP7rv",
+						"expanded_url": "https://twitter.com/goyagoat/status/1014591748402810881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 637,
+								"h": 567,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 637,
+								"h": 567,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 637,
+								"h": 567,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014591505334526000,
+						"id_str": "1014591505334525954",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhSNmTuX4AIFuge.jpg",
+						"url": "https://t.co/zXKRDZP7rv",
+						"display_url": "pic.twitter.com/zXKRDZP7rv",
+						"expanded_url": "https://twitter.com/goyagoat/status/1014591748402810881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 637,
+								"h": 567,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 637,
+								"h": 567,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 637,
+								"h": 567,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 981260906125582300,
+				"id_str": "981260906125582337",
+				"name": "eli spencer",
+				"screen_name": "goyagoat",
+				"location": "",
+				"description": "eli ✨ illustrator, 23, they/she, glasgow ✨by no means a professional twitter ✨",
+				"url": "https://t.co/OATcXbSFAS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OATcXbSFAS",
+								"expanded_url": "http://elispencer.com",
+								"display_url": "elispencer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3574,
+				"friends_count": 205,
+				"listed_count": 15,
+				"created_at": "Tue Apr 03 20:03:25 +0000 2018",
+				"favourites_count": 2452,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1432,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1010606613919617024/xkoOFQbn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010606613919617024/xkoOFQbn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/981260906125582337/1522786517",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 120,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 03 15:24:49 +0000 2018",
 		"id": 1014168088126869500,
 		"id_str": "1014168088126869504",
