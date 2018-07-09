@@ -1,6 +1,1226 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 23:52:00 +0000 2018",
+		"id": 1016107665213280300,
+		"id_str": "1016107665213280257",
+		"text": "Found it Btw https://t.co/yIhxDJBflv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yIhxDJBflv",
+					"expanded_url": "https://youtu.be/4rw1_FNdy-Y",
+					"display_url": "youtu.be/4rw1_FNdy-Y",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1016107663044829200,
+		"in_reply_to_status_id_str": "1016107663044829185",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 262,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1524993047",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "c500c6f8494a90ac",
+			"url": "https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json",
+			"place_type": "city",
+			"name": "Cork",
+			"full_name": "Cork, Ireland",
+			"country_code": "IE",
+			"country": "Ireland",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-10.2254601,
+							51.4192154
+						],
+						[
+							-7.8411533,
+							51.4192154
+						],
+						[
+							-7.8411533,
+							52.3885113
+						],
+						[
+							-10.2254601,
+							52.3885113
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 08 23:51:59 +0000 2018",
+		"id": 1016107663044829200,
+		"id_str": "1016107663044829185",
+		"text": "I just searched for hours for a simpsons clip that had a song I wanted to listen to in it",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 262,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1524993047",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "c500c6f8494a90ac",
+			"url": "https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json",
+			"place_type": "city",
+			"name": "Cork",
+			"full_name": "Cork, Ireland",
+			"country_code": "IE",
+			"country": "Ireland",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-10.2254601,
+							51.4192154
+						],
+						[
+							-7.8411533,
+							51.4192154
+						],
+						[
+							-7.8411533,
+							52.3885113
+						],
+						[
+							-10.2254601,
+							52.3885113
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 08 19:18:27 +0000 2018",
+		"id": 1016038824068214800,
+		"id_str": "1016038824068214784",
+		"text": "RT @MagatsuDrop: https://t.co/FtVrESfu8w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MagatsuDrop",
+					"name": "Mask de Gorgon",
+					"id": 3149698355,
+					"id_str": "3149698355",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015578347022225400,
+					"id_str": "1015578347022225408",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+					"url": "https://t.co/FtVrESfu8w",
+					"display_url": "pic.twitter.com/FtVrESfu8w",
+					"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 365,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 365,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015578888259371000,
+					"source_status_id_str": "1015578888259371009",
+					"source_user_id": 3149698355,
+					"source_user_id_str": "3149698355"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015578347022225400,
+					"id_str": "1015578347022225408",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+					"url": "https://t.co/FtVrESfu8w",
+					"display_url": "pic.twitter.com/FtVrESfu8w",
+					"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 365,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 365,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015578888259371000,
+					"source_status_id_str": "1015578888259371009",
+					"source_user_id": 3149698355,
+					"source_user_id_str": "3149698355"
+				},
+				{
+					"id": 1015578551649734700,
+					"id_str": "1015578551649734656",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DhgPT9yWkAAql-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhgPT9yWkAAql-g.jpg",
+					"url": "https://t.co/FtVrESfu8w",
+					"display_url": "pic.twitter.com/FtVrESfu8w",
+					"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 363,
+							"h": 279,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 363,
+							"h": 279,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 363,
+							"h": 279,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015578888259371000,
+					"source_status_id_str": "1015578888259371009",
+					"source_user_id": 3149698355,
+					"source_user_id_str": "3149698355"
+				},
+				{
+					"id": 1015578800179109900,
+					"id_str": "1015578800179109888",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DhgPiboX4AAp1ja.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhgPiboX4AAp1ja.jpg",
+					"url": "https://t.co/FtVrESfu8w",
+					"display_url": "pic.twitter.com/FtVrESfu8w",
+					"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1139,
+							"h": 643,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1139,
+							"h": 643,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015578888259371000,
+					"source_status_id_str": "1015578888259371009",
+					"source_user_id": 3149698355,
+					"source_user_id_str": "3149698355"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 262,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1524993047",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 07 12:50:50 +0000 2018",
+			"id": 1015578888259371000,
+			"id_str": "1015578888259371009",
+			"text": "https://t.co/FtVrESfu8w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015578347022225400,
+						"id_str": "1015578347022225408",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+						"url": "https://t.co/FtVrESfu8w",
+						"display_url": "pic.twitter.com/FtVrESfu8w",
+						"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 365,
+								"h": 352,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 365,
+								"h": 352,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015578347022225400,
+						"id_str": "1015578347022225408",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhgPIDfWkAAfE7j.jpg",
+						"url": "https://t.co/FtVrESfu8w",
+						"display_url": "pic.twitter.com/FtVrESfu8w",
+						"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 365,
+								"h": 352,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 365,
+								"h": 352,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1015578551649734700,
+						"id_str": "1015578551649734656",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhgPT9yWkAAql-g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhgPT9yWkAAql-g.jpg",
+						"url": "https://t.co/FtVrESfu8w",
+						"display_url": "pic.twitter.com/FtVrESfu8w",
+						"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 363,
+								"h": 279,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 363,
+								"h": 279,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 363,
+								"h": 279,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1015578800179109900,
+						"id_str": "1015578800179109888",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhgPiboX4AAp1ja.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhgPiboX4AAp1ja.jpg",
+						"url": "https://t.co/FtVrESfu8w",
+						"display_url": "pic.twitter.com/FtVrESfu8w",
+						"expanded_url": "https://twitter.com/MagatsuDrop/status/1015578888259371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1139,
+								"h": 643,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1139,
+								"h": 643,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3149698355,
+				"id_str": "3149698355",
+				"name": "Mask de Gorgon",
+				"screen_name": "MagatsuDrop",
+				"location": "",
+				"description": "Video|20|♂|Your token touhou friend|A Jack of all mains|@ondoruragitan is my Eurobae ❤️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 377,
+				"friends_count": 336,
+				"listed_count": 48,
+				"created_at": "Wed Apr 08 23:26:32 +0000 2015",
+				"favourites_count": 22698,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 116093,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008677215268233217/ffDdap9I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008677215268233217/ffDdap9I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3149698355/1478001440",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7159,
+			"favorite_count": 15651,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7159,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Jul 08 19:13:26 +0000 2018",
+		"id": 1016037562262179800,
+		"id_str": "1016037562262179842",
+		"text": "RT @hiveswapstatus: (via. tumblr skyplayer37) https://t.co/cEhs6czsDh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hiveswapstatus",
+					"name": "Is Act 2 Out?",
+					"id": 708149263729963000,
+					"id_str": "708149263729963008",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015745103472627700,
+					"id_str": "1015745103472627712",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+					"url": "https://t.co/cEhs6czsDh",
+					"display_url": "pic.twitter.com/cEhs6czsDh",
+					"expanded_url": "https://twitter.com/hiveswapstatus/status/1015745110657654784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015745110657654800,
+					"source_status_id_str": "1015745110657654784",
+					"source_user_id": 708149263729963000,
+					"source_user_id_str": "708149263729963008"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015745103472627700,
+					"id_str": "1015745103472627712",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+					"url": "https://t.co/cEhs6czsDh",
+					"display_url": "pic.twitter.com/cEhs6czsDh",
+					"expanded_url": "https://twitter.com/hiveswapstatus/status/1015745110657654784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015745110657654800,
+					"source_status_id_str": "1015745110657654784",
+					"source_user_id": 708149263729963000,
+					"source_user_id_str": "708149263729963008"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 262,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1524993047",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 07 23:51:20 +0000 2018",
+			"id": 1015745110657654800,
+			"id_str": "1015745110657654784",
+			"text": "(via. tumblr skyplayer37) https://t.co/cEhs6czsDh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015745103472627700,
+						"id_str": "1015745103472627712",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+						"url": "https://t.co/cEhs6czsDh",
+						"display_url": "pic.twitter.com/cEhs6czsDh",
+						"expanded_url": "https://twitter.com/hiveswapstatus/status/1015745110657654784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015745103472627700,
+						"id_str": "1015745103472627712",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhimyjrUEAA-TU-.jpg",
+						"url": "https://t.co/cEhs6czsDh",
+						"display_url": "pic.twitter.com/cEhs6czsDh",
+						"expanded_url": "https://twitter.com/hiveswapstatus/status/1015745110657654784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 708149263729963000,
+				"id_str": "708149263729963008",
+				"name": "Is Act 2 Out?",
+				"screen_name": "hiveswapstatus",
+				"location": "",
+				"description": "Updates regarding the current correct answer to the above question. Posts whenever. Run by @PCStorm33. Sister account: @epiloguestatus",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 663,
+				"friends_count": 7,
+				"listed_count": 0,
+				"created_at": "Fri Mar 11 04:35:16 +0000 2016",
+				"favourites_count": 203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 914,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708150057825017856/4vkdMkQ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708150057825017856/4vkdMkQ7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/708149263729963008/1519706613",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 147,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "et"
+		},
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et"
+	},
+	{
+		"created_at": "Sun Jul 08 12:39:27 +0000 2018",
+		"id": 1015938412304584700,
+		"id_str": "1015938412304584705",
+		"text": "I really like that musicman stingray I found but like. I want that pbass tone. So idk what Imma do",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 262,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1524993047",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "c500c6f8494a90ac",
+			"url": "https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json",
+			"place_type": "city",
+			"name": "Cork",
+			"full_name": "Cork, Ireland",
+			"country_code": "IE",
+			"country": "Ireland",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-10.2254601,
+							51.4192154
+						],
+						[
+							-7.8411533,
+							51.4192154
+						],
+						[
+							-7.8411533,
+							52.3885113
+						],
+						[
+							-10.2254601,
+							52.3885113
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 07 18:45:59 +0000 2018",
 		"id": 1015668266059157500,
 		"id_str": "1015668266059157504",
