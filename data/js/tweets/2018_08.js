@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 30 21:56:50 +0000 2018",
+		"id": 1035285238803513300,
+		"id_str": "1035285238803513344",
+		"text": "Hey guys. I'm not doing too fuckinggggg good",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 294,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14396,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1531220884",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 30 10:03:16 +0000 2018",
+		"id": 1035105664690016300,
+		"id_str": "1035105664690016256",
+		"text": "RT @MingjueChen: Having a conversation on twitter in 3 images. https://t.co/6N08qlUKRp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MingjueChen",
+					"name": "mingjue helen chen",
+					"id": 1238259895,
+					"id_str": "1238259895",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033456165722579000,
+					"id_str": "1033456165722578944",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+					"url": "https://t.co/6N08qlUKRp",
+					"display_url": "pic.twitter.com/6N08qlUKRp",
+					"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033456173909856300,
+					"source_status_id_str": "1033456173909856256",
+					"source_user_id": 1238259895,
+					"source_user_id_str": "1238259895"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033456165722579000,
+					"id_str": "1033456165722578944",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+					"url": "https://t.co/6N08qlUKRp",
+					"display_url": "pic.twitter.com/6N08qlUKRp",
+					"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033456173909856300,
+					"source_status_id_str": "1033456173909856256",
+					"source_user_id": 1238259895,
+					"source_user_id_str": "1238259895"
+				},
+				{
+					"id": 1033456165722550300,
+					"id_str": "1033456165722550272",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DleS6EDUcAArxUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleS6EDUcAArxUT.jpg",
+					"url": "https://t.co/6N08qlUKRp",
+					"display_url": "pic.twitter.com/6N08qlUKRp",
+					"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033456173909856300,
+					"source_status_id_str": "1033456173909856256",
+					"source_user_id": 1238259895,
+					"source_user_id_str": "1238259895"
+				},
+				{
+					"id": 1033456165726781400,
+					"id_str": "1033456165726781440",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DleS6EEVAAAP18Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleS6EEVAAAP18Z.jpg",
+					"url": "https://t.co/6N08qlUKRp",
+					"display_url": "pic.twitter.com/6N08qlUKRp",
+					"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033456173909856300,
+					"source_status_id_str": "1033456173909856256",
+					"source_user_id": 1238259895,
+					"source_user_id_str": "1238259895"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 294,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14396,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1531220884",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 20:48:47 +0000 2018",
+			"id": 1033456173909856300,
+			"id_str": "1033456173909856256",
+			"text": "Having a conversation on twitter in 3 images. https://t.co/6N08qlUKRp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033456165722579000,
+						"id_str": "1033456165722578944",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+						"url": "https://t.co/6N08qlUKRp",
+						"display_url": "pic.twitter.com/6N08qlUKRp",
+						"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033456165722579000,
+						"id_str": "1033456165722578944",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleS6EDU4AAEf31.jpg",
+						"url": "https://t.co/6N08qlUKRp",
+						"display_url": "pic.twitter.com/6N08qlUKRp",
+						"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1033456165722550300,
+						"id_str": "1033456165722550272",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DleS6EDUcAArxUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleS6EDUcAArxUT.jpg",
+						"url": "https://t.co/6N08qlUKRp",
+						"display_url": "pic.twitter.com/6N08qlUKRp",
+						"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1033456165726781400,
+						"id_str": "1033456165726781440",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DleS6EEVAAAP18Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleS6EEVAAAP18Z.jpg",
+						"url": "https://t.co/6N08qlUKRp",
+						"display_url": "pic.twitter.com/6N08qlUKRp",
+						"expanded_url": "https://twitter.com/MingjueChen/status/1033456173909856256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1238259895,
+				"id_str": "1238259895",
+				"name": "mingjue helen chen",
+				"screen_name": "MingjueChen",
+				"location": "",
+				"description": "Associate Production Designer @ Walt Disney Animation Studios. Tweets do not reflect the views of my employer. I’m a hack.",
+				"url": "https://t.co/eDSBo2tDaF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eDSBo2tDaF",
+								"expanded_url": "http://mingjuechen.carbonmade.com",
+								"display_url": "mingjuechen.carbonmade.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58395,
+				"friends_count": 1194,
+				"listed_count": 897,
+				"created_at": "Sun Mar 03 07:48:21 +0000 2013",
+				"favourites_count": 11571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755859399646646272/bYiMS3Vi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755859399646646272/bYiMS3Vi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1238259895/1527631258",
+				"profile_link_color": "5CBAE6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27764,
+			"favorite_count": 76606,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27764,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 29 23:29:37 +0000 2018",
 		"id": 1034946202314391600,
 		"id_str": "1034946202314391552",
