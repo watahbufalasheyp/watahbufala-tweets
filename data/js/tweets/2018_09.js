@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 02 21:40:25 +0000 2018",
+		"id": 1036368270390112300,
+		"id_str": "1036368270390112262",
+		"text": "RT @cosmic_dia: slapras https://t.co/hNRs8qfrf6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cosmic_dia",
+					"name": "goth owl",
+					"id": 2875850786,
+					"id_str": "2875850786",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1036145408458731500,
+					"id_str": "1036145408458731521",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+					"url": "https://t.co/hNRs8qfrf6",
+					"display_url": "pic.twitter.com/hNRs8qfrf6",
+					"expanded_url": "https://twitter.com/cosmic_dia/status/1036145437952991232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1812,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036145437952991200,
+					"source_status_id_str": "1036145437952991232",
+					"source_user_id": 2875850786,
+					"source_user_id_str": "2875850786"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1036145408458731500,
+					"id_str": "1036145408458731521",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+					"url": "https://t.co/hNRs8qfrf6",
+					"display_url": "pic.twitter.com/hNRs8qfrf6",
+					"expanded_url": "https://twitter.com/cosmic_dia/status/1036145437952991232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1812,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036145437952991200,
+					"source_status_id_str": "1036145437952991232",
+					"source_user_id": 2875850786,
+					"source_user_id_str": "2875850786"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 295,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1531220884",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 02 06:54:57 +0000 2018",
+			"id": 1036145437952991200,
+			"id_str": "1036145437952991232",
+			"text": "slapras https://t.co/hNRs8qfrf6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1036145408458731500,
+						"id_str": "1036145408458731521",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+						"url": "https://t.co/hNRs8qfrf6",
+						"display_url": "pic.twitter.com/hNRs8qfrf6",
+						"expanded_url": "https://twitter.com/cosmic_dia/status/1036145437952991232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1062,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 602,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1812,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1036145408458731500,
+						"id_str": "1036145408458731521",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmEgwl7VsAE1gB0.jpg",
+						"url": "https://t.co/hNRs8qfrf6",
+						"display_url": "pic.twitter.com/hNRs8qfrf6",
+						"expanded_url": "https://twitter.com/cosmic_dia/status/1036145437952991232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1062,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 602,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1812,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2875850786,
+				"id_str": "2875850786",
+				"name": "goth owl",
+				"screen_name": "cosmic_dia",
+				"location": "",
+				"description": "dia⭐️18⭐️it/they⭐️evil owl, desperate fan of jem's, number one octofriend. i draw and shiny hunt ⭐️ contact - diacheebi@gmail.com !",
+				"url": "https://t.co/htYOdgLwJo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/htYOdgLwJo",
+								"expanded_url": "http://iapislazuli.tumblr.com/about",
+								"display_url": "iapislazuli.tumblr.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1602,
+				"friends_count": 195,
+				"listed_count": 12,
+				"created_at": "Fri Oct 24 22:21:40 +0000 2014",
+				"favourites_count": 25802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32788,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1024525339291090944/x8TjTbfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024525339291090944/x8TjTbfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2875850786/1510118088",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 59,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "lt"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "lt"
+	},
+	{
 		"created_at": "Sat Sep 01 11:31:15 +0000 2018",
 		"id": 1035852582969897000,
 		"id_str": "1035852582969896965",
