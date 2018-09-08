@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 07 15:03:58 +0000 2018",
+		"id": 1038080441071403000,
+		"id_str": "1038080441071403008",
+		"text": "RT @wipeyadocsoff: society https://t.co/x6KSSelv0p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wipeyadocsoff",
+					"name": "DJ Artificial Intelligence Fucknasty",
+					"id": 844203816652329000,
+					"id_str": "844203816652328961",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1038079863310245900,
+					"id_str": "1038079863310245889",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+					"url": "https://t.co/x6KSSelv0p",
+					"display_url": "pic.twitter.com/x6KSSelv0p",
+					"expanded_url": "https://twitter.com/wipeyadocsoff/status/1038079867240235013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 730,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 499,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038079867240235000,
+					"source_status_id_str": "1038079867240235013",
+					"source_user_id": 844203816652329000,
+					"source_user_id_str": "844203816652328961"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1038079863310245900,
+					"id_str": "1038079863310245889",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+					"url": "https://t.co/x6KSSelv0p",
+					"display_url": "pic.twitter.com/x6KSSelv0p",
+					"expanded_url": "https://twitter.com/wipeyadocsoff/status/1038079867240235013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 730,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 499,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038079867240235000,
+					"source_status_id_str": "1038079867240235013",
+					"source_user_id": 844203816652329000,
+					"source_user_id_str": "844203816652328961"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 292,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1531220884",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 07 15:01:41 +0000 2018",
+			"id": 1038079867240235000,
+			"id_str": "1038079867240235013",
+			"text": "society https://t.co/x6KSSelv0p",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1038079863310245900,
+						"id_str": "1038079863310245889",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+						"url": "https://t.co/x6KSSelv0p",
+						"display_url": "pic.twitter.com/x6KSSelv0p",
+						"expanded_url": "https://twitter.com/wipeyadocsoff/status/1038079867240235013/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1038079863310245900,
+						"id_str": "1038079863310245889",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmgAIr0X4AEDivK.jpg",
+						"url": "https://t.co/x6KSSelv0p",
+						"display_url": "pic.twitter.com/x6KSSelv0p",
+						"expanded_url": "https://twitter.com/wipeyadocsoff/status/1038079867240235013/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1038078567849119700,
+			"in_reply_to_status_id_str": "1038078567849119746",
+			"in_reply_to_user_id": 844203816652329000,
+			"in_reply_to_user_id_str": "844203816652328961",
+			"in_reply_to_screen_name": "wipeyadocsoff",
+			"user": {
+				"id": 844203816652329000,
+				"id_str": "844203816652328961",
+				"name": "DJ Artificial Intelligence Fucknasty",
+				"screen_name": "wipeyadocsoff",
+				"location": "Brooklyn, NY",
+				"description": "🕷they/them🕷 www artist, instagram pico-influencer",
+				"url": "https://t.co/AtVIi6WGAX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AtVIi6WGAX",
+								"expanded_url": "http://Instagram.com/wipeyadocsoff",
+								"display_url": "Instagram.com/wipeyadocsoff",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1959,
+				"friends_count": 360,
+				"listed_count": 3,
+				"created_at": "Tue Mar 21 15:07:29 +0000 2017",
+				"favourites_count": 5479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3017,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935720859091783682/PzBwAy-P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935720859091783682/PzBwAy-P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/844203816652328961/1515534893",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 20,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 07 14:14:32 +0000 2018",
+		"id": 1038067999746535400,
+		"id_str": "1038067999746535426",
+		"text": "#NowPlaying https://t.co/PitWFO8jBM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1038066730315259900,
+					"id_str": "1038066730315259906",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmf0MPmXoAId_Db.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmf0MPmXoAId_Db.jpg",
+					"url": "https://t.co/PitWFO8jBM",
+					"display_url": "pic.twitter.com/PitWFO8jBM",
+					"expanded_url": "https://twitter.com/watahbufala/status/1038067999746535426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1038066730315259900,
+					"id_str": "1038066730315259906",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmf0MPmXoAId_Db.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmf0MPmXoAId_Db.jpg",
+					"url": "https://t.co/PitWFO8jBM",
+					"display_url": "pic.twitter.com/PitWFO8jBM",
+					"expanded_url": "https://twitter.com/watahbufala/status/1038067999746535426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 292,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1531220884",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Sep 06 21:01:56 +0000 2018",
 		"id": 1037808139020787700,
 		"id_str": "1037808139020787713",
