@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 19 18:46:08 +0000 2018",
+		"id": 1042485006369734700,
+		"id_str": "1042485006369734659",
+		"text": "RT @SIRArtwork: True Chad-hood is the friends we made along the way #VirginvsChad https://t.co/KsQOHF2xSJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirginvsChad",
+					"indices": [
+						68,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SIRArtwork",
+					"name": "SIR",
+					"id": 888241643882770400,
+					"id_str": "888241643882770432",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1042231544717369300,
+					"id_str": "1042231544717369349",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+					"url": "https://t.co/KsQOHF2xSJ",
+					"display_url": "pic.twitter.com/KsQOHF2xSJ",
+					"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042231889908650000,
+					"source_status_id_str": "1042231889908649991",
+					"source_user_id": 888241643882770400,
+					"source_user_id_str": "888241643882770432"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1042231544717369300,
+					"id_str": "1042231544717369349",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+					"url": "https://t.co/KsQOHF2xSJ",
+					"display_url": "pic.twitter.com/KsQOHF2xSJ",
+					"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042231889908650000,
+					"source_status_id_str": "1042231889908649991",
+					"source_user_id": 888241643882770400,
+					"source_user_id_str": "888241643882770432"
+				},
+				{
+					"id": 1042231557581267000,
+					"id_str": "1042231557581266944",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DnbAFGNVYAAPiK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnbAFGNVYAAPiK5.jpg",
+					"url": "https://t.co/KsQOHF2xSJ",
+					"display_url": "pic.twitter.com/KsQOHF2xSJ",
+					"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 603,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042231889908650000,
+					"source_status_id_str": "1042231889908649991",
+					"source_user_id": 888241643882770400,
+					"source_user_id_str": "888241643882770432"
+				},
+				{
+					"id": 1042231580788371500,
+					"id_str": "1042231580788371456",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DnbAGcqVsAAtfaj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnbAGcqVsAAtfaj.jpg",
+					"url": "https://t.co/KsQOHF2xSJ",
+					"display_url": "pic.twitter.com/KsQOHF2xSJ",
+					"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 832,
+							"h": 803,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 832,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042231889908650000,
+					"source_status_id_str": "1042231889908649991",
+					"source_user_id": 888241643882770400,
+					"source_user_id_str": "888241643882770432"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️16 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 293,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
+			"profile_link_color": "AD42F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 19 02:00:20 +0000 2018",
+			"id": 1042231889908650000,
+			"id_str": "1042231889908649991",
+			"text": "True Chad-hood is the friends we made along the way #VirginvsChad https://t.co/KsQOHF2xSJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VirginvsChad",
+						"indices": [
+							52,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1042231544717369300,
+						"id_str": "1042231544717369349",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+						"url": "https://t.co/KsQOHF2xSJ",
+						"display_url": "pic.twitter.com/KsQOHF2xSJ",
+						"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 916,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1042231544717369300,
+						"id_str": "1042231544717369349",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnbAEWSV4AUPQEy.jpg",
+						"url": "https://t.co/KsQOHF2xSJ",
+						"display_url": "pic.twitter.com/KsQOHF2xSJ",
+						"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 916,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1042231557581267000,
+						"id_str": "1042231557581266944",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DnbAFGNVYAAPiK5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnbAFGNVYAAPiK5.jpg",
+						"url": "https://t.co/KsQOHF2xSJ",
+						"display_url": "pic.twitter.com/KsQOHF2xSJ",
+						"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 603,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 970,
+								"h": 603,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1042231580788371500,
+						"id_str": "1042231580788371456",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DnbAGcqVsAAtfaj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnbAGcqVsAAtfaj.jpg",
+						"url": "https://t.co/KsQOHF2xSJ",
+						"display_url": "pic.twitter.com/KsQOHF2xSJ",
+						"expanded_url": "https://twitter.com/SIRArtwork/status/1042231889908649991/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 832,
+								"h": 803,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 832,
+								"h": 803,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 888241643882770400,
+				"id_str": "888241643882770432",
+				"name": "SIR",
+				"screen_name": "SIRArtwork",
+				"location": "",
+				"description": "Wandering Internet Artist",
+				"url": "https://t.co/1XEdQhE3zC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1XEdQhE3zC",
+								"expanded_url": "http://SIRArtwork.tumblr.com",
+								"display_url": "SIRArtwork.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3776,
+				"friends_count": 94,
+				"listed_count": 8,
+				"created_at": "Fri Jul 21 03:38:05 +0000 2017",
+				"favourites_count": 1135,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 146,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890076554797096960/0OFIgmKV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890076554797096960/0OFIgmKV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/888241643882770432/1501045516",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1451,
+			"favorite_count": 6063,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1451,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 18 09:13:28 +0000 2018",
 		"id": 1041978499874078700,
 		"id_str": "1041978499874078720",
