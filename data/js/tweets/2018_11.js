@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 21:55:56 +0000 2018",
+		"id": 1061014550210723800,
+		"id_str": "1061014550210723840",
+		"full_text": "Hentai is important",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276540738,
+			"id_str": "276540738",
+			"name": "Grimes",
+			"screen_name": "Grimezsz",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 800402,
+			"friends_count": 825,
+			"listed_count": 3103,
+			"created_at": "Sun Apr 03 15:32:54 +0000 2011",
+			"favourites_count": 5147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1785,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053735331067944960/R4uzamV6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053735331067944960/R4uzamV6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276540738/1540188004",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "18EB11",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15854,
+		"favorite_count": 40411,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Hentai is important"
+	},
+	{
+		"created_at": "Sat Nov 10 21:25:42 +0000 2018",
+		"id": 1061369330514976800,
+		"id_str": "1061369330514976769",
+		"full_text": "x5 https://t.co/4pcbQeQJ5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061369328740810800,
+					"id_str": "1061369328740810752",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/Drq9x_cXQAAmfdE.png",
+					"media_url_https": "https://pbs.twimg.com/media/Drq9x_cXQAAmfdE.png",
+					"url": "https://t.co/4pcbQeQJ5U",
+					"display_url": "pic.twitter.com/4pcbQeQJ5U",
+					"expanded_url": "https://twitter.com/CloudyConway/status/1061369330514976769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061369328740810800,
+					"id_str": "1061369328740810752",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/Drq9x_cXQAAmfdE.png",
+					"media_url_https": "https://pbs.twimg.com/media/Drq9x_cXQAAmfdE.png",
+					"url": "https://t.co/4pcbQeQJ5U",
+					"display_url": "pic.twitter.com/4pcbQeQJ5U",
+					"expanded_url": "https://twitter.com/CloudyConway/status/1061369330514976769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">CloudyConway</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3239840098,
+			"id_str": "3239840098",
+			"name": "Cloudy Conway",
+			"screen_name": "CloudyConway",
+			"location": "pics license: by-sa 4.0",
+			"description": "Art Automata [bot]. See url below for how to help to keep me running.",
+			"url": "https://t.co/rfoPNFGeLV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rfoPNFGeLV",
+							"expanded_url": "https://www.patreon.com/vexorian",
+							"display_url": "patreon.com/vexorian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2784,
+			"friends_count": 163,
+			"listed_count": 128,
+			"created_at": "Thu May 07 01:34:09 +0000 2015",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38172,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048763759504834560/n0c3gNQy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048763759504834560/n0c3gNQy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3239840098/1538879741",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "x5 https://t.co/4pcbQeQJ5U"
+	},
+	{
+		"created_at": "Sat Nov 10 18:02:54 +0000 2018",
+		"id": 1061318295197024300,
+		"id_str": "1061318295197024265",
+		"full_text": "Credits to literallyn01imp0rtant on tumblr https://t.co/MwN4x96jSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061318243481276400,
+					"id_str": "1061318243481276418",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061318243481276418/pu/img/eUbh4XjnqbzJwZeU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061318243481276418/pu/img/eUbh4XjnqbzJwZeU.jpg",
+					"url": "https://t.co/MwN4x96jSy",
+					"display_url": "pic.twitter.com/MwN4x96jSy",
+					"expanded_url": "https://twitter.com/voreska/status/1061318295197024265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061318243481276400,
+					"id_str": "1061318243481276418",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061318243481276418/pu/img/eUbh4XjnqbzJwZeU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061318243481276418/pu/img/eUbh4XjnqbzJwZeU.jpg",
+					"url": "https://t.co/MwN4x96jSy",
+					"display_url": "pic.twitter.com/MwN4x96jSy",
+					"expanded_url": "https://twitter.com/voreska/status/1061318295197024265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33367,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061318243481276418/pu/vid/320x180/JqlS3jJG0lWb_W23.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061318243481276418/pu/vid/640x360/lNk8cm0vHgcPE201.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1061318243481276418/pu/pl/d5g_1zwDSUp_nlJL.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022410046578286600,
+			"id_str": "1022410046578286592",
+			"name": "I haven't finished homestuck",
+			"screen_name": "voreska",
+			"location": "gamers rise up",
+			"description": "Zen | They/Them | Minor | Tumblr: loss-official | Discord: honkass#8936 |\nSnapchat: itsthememequeen |\nInstagram: chill.out.randy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 309,
+			"listed_count": 0,
+			"created_at": "Thu Jul 26 09:15:25 +0000 2018",
+			"favourites_count": 1322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051527523669020672/pANMZZM__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051527523669020672/pANMZZM__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022410046578286592/1539538739",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 283,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Credits to literallyn01imp0rtant on tumblr https://t.co/MwN4x96jSy"
+	},
+	{
 		"created_at": "Sat Nov 10 21:25:42 +0000 2018",
 		"id": 1061369330514976800,
 		"id_str": "1061369330514976769",
