@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 15 08:00:01 +0000 2018",
+		"id": 1062978514457190400,
+		"id_str": "1062978514457190400",
+		"full_text": "https://t.co/8IQQe7RXUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062978513022660600,
+					"id_str": "1062978513022660608",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DsB1U2CWsAAgzHg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsB1U2CWsAAgzHg.jpg",
+					"url": "https://t.co/8IQQe7RXUE",
+					"display_url": "pic.twitter.com/8IQQe7RXUE",
+					"expanded_url": "https://twitter.com/anicrossing2/status/1062978514457190400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062978513022660600,
+					"id_str": "1062978513022660608",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DsB1U2CWsAAgzHg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsB1U2CWsAAgzHg.jpg",
+					"url": "https://t.co/8IQQe7RXUE",
+					"display_url": "pic.twitter.com/8IQQe7RXUE",
+					"expanded_url": "https://twitter.com/anicrossing2/status/1062978514457190400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/anicrossing2\" rel=\"nofollow\">animal crossing bot V2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4070070508,
+			"id_str": "4070070508",
+			"name": "animal crossing bot 🌱",
+			"screen_name": "anicrossing2",
+			"location": "Nookling Junction",
+			"description": "a bot that tweets animal crossing pics/gifs every four hours | not affiliated with @anicrossing or nintendo | ran by @Stonepa11 and @Ambler",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40324,
+			"friends_count": 2,
+			"listed_count": 125,
+			"created_at": "Thu Oct 29 19:50:18 +0000 2015",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960722637734346753/dimAf0EF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960722637734346753/dimAf0EF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4070070508/1517889448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 483,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8IQQe7RXUE"
+	},
+	{
+		"created_at": "Thu Nov 15 08:03:54 +0000 2018",
+		"id": 1062979489502769200,
+		"id_str": "1062979489502769152",
+		"full_text": "@ViKomprenas Oh yeah same",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ViKomprenas",
+					"name": "Viko",
+					"id": 3476040614,
+					"id_str": "3476040614",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1062868422441099300,
+		"in_reply_to_status_id_str": "1062868422441099264",
+		"in_reply_to_user_id": 3476040614,
+		"in_reply_to_user_id_str": "3476040614",
+		"in_reply_to_screen_name": "ViKomprenas",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | male ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 328,
+			"listed_count": 9,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ViKomprenas Oh yeah same"
+	},
+	{
 		"created_at": "Thu Nov 15 00:16:01 +0000 2018",
 		"id": 1062861745667166200,
 		"id_str": "1062861745667166210",
