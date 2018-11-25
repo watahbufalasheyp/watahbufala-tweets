@@ -28,7 +28,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49,16 +49,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14395,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14866,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -134,7 +134,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -155,16 +155,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14395,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14866,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -326,16 +326,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 66,
-			"friends_count": 333,
+			"followers_count": 64,
+			"friends_count": 334,
 			"listed_count": 1,
 			"created_at": "Tue May 26 16:27:54 +0000 2015",
-			"favourites_count": 2074,
+			"favourites_count": 2141,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 656,
+			"statuses_count": 703,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -366,7 +366,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 2,
+		"favorite_count": 1,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -401,7 +401,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -422,16 +422,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14395,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14866,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -496,7 +496,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -517,16 +517,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14395,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14866,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -591,7 +591,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -612,16 +612,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14395,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14866,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -674,7 +674,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "spruiko",
-					"name": "💉 TRACK 🍫",
+					"name": "MELT",
 					"id": 2912074114,
 					"id_str": "2912074114",
 					"indices": [
@@ -718,16 +718,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5859,
-			"friends_count": 361,
+			"followers_count": 6659,
+			"friends_count": 376,
 			"listed_count": 26,
 			"created_at": "Tue May 19 21:59:54 +0000 2009",
-			"favourites_count": 36030,
+			"favourites_count": 36895,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 68122,
+			"statuses_count": 69017,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -792,7 +792,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -813,16 +813,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14395,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14866,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -853,7 +853,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -887,7 +887,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -908,16 +908,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -993,7 +993,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1014,16 +1014,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1109,16 +1109,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1183,7 +1183,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1204,16 +1204,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1408,16 +1408,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1483,7 +1483,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1504,16 +1504,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1588,7 +1588,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1609,16 +1609,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1684,7 +1684,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1705,16 +1705,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1857,7 +1857,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1878,16 +1878,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1953,7 +1953,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1974,16 +1974,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2058,7 +2058,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2079,16 +2079,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2164,7 +2164,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2185,16 +2185,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2270,7 +2270,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2291,16 +2291,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2376,7 +2376,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2397,16 +2397,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2547,10 +2547,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 1033906611578921000,
 			"id_str": "1033906611578920965",
-			"name": "🎃",
+			"name": "( •˓◞•̀ )",
 			"screen_name": "M0nam3",
 			"location": "Russia",
-			"description": "Hi i'm Eva",
+			"description": "Hi i'm Eva!",
 			"url": "https://t.co/DdVFQPDPOQ",
 			"entities": {
 				"url": {
@@ -2571,16 +2571,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 261,
-			"friends_count": 52,
-			"listed_count": 0,
+			"followers_count": 400,
+			"friends_count": 79,
+			"listed_count": 2,
 			"created_at": "Mon Aug 27 02:38:40 +0000 2018",
-			"favourites_count": 7878,
+			"favourites_count": 15920,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1375,
+			"statuses_count": 2531,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2589,10 +2589,10 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1056229140255387648/ofmySFy7_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056229140255387648/ofmySFy7_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033906611578920965/1540739719",
-			"profile_link_color": "19CF86",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066469451112038401/PfLkSETU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066469451112038401/PfLkSETU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033906611578920965/1543107905",
+			"profile_link_color": "FF691F",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
@@ -2610,8 +2610,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 22,
-		"favorite_count": 69,
+		"retweet_count": 38,
+		"favorite_count": 107,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2656,7 +2656,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2677,16 +2677,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2762,7 +2762,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2783,16 +2783,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2858,7 +2858,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2879,16 +2879,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2963,7 +2963,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2984,16 +2984,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3069,7 +3069,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -3090,16 +3090,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3175,7 +3175,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -3196,16 +3196,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3349,7 +3349,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -3370,16 +3370,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3455,7 +3455,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -3476,16 +3476,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3654,7 +3654,7 @@ Grailbird.data.tweets_2018_10 =
 				"name": "Dan🌱🌲",
 				"screen_name": "watahbufala",
 				"location": "Cork, Ireland",
-				"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+				"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 				"url": "https://t.co/WQlPbtvFQr",
 				"entities": {
 					"url": {
@@ -3675,16 +3675,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 280,
-				"friends_count": 319,
-				"listed_count": 9,
+				"followers_count": 279,
+				"friends_count": 330,
+				"listed_count": 10,
 				"created_at": "Tue May 27 21:32:02 +0000 2014",
-				"favourites_count": 14386,
+				"favourites_count": 14522,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 14857,
+				"statuses_count": 15158,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3768,7 +3768,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -3789,16 +3789,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3938,10 +3938,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 880597492160712700,
 			"id_str": "880597492160712704",
-			"name": "ken",
+			"name": "♡",
 			"screen_name": "turnteched",
-			"location": "ic: lob-0211",
-			"description": "🖤 @gaykarkat 🖤",
+			"location": "ic: pancakestein",
+			"description": "i am your general fucking practitioner ❧@gaykarkat",
 			"url": null,
 			"entities": {
 				"description": {
@@ -3949,16 +3949,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 272,
-			"friends_count": 203,
-			"listed_count": 8,
+			"followers_count": 300,
+			"friends_count": 191,
+			"listed_count": 12,
 			"created_at": "Fri Jun 30 01:22:57 +0000 2017",
-			"favourites_count": 9933,
+			"favourites_count": 10645,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 5568,
+			"statuses_count": 6288,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3967,9 +3967,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1053400344842117120/3IFZkCrI_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053400344842117120/3IFZkCrI_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880597492160712704/1540816937",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066177835306496000/x_j7mRgh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066177835306496000/x_j7mRgh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880597492160712704/1542896236",
 			"profile_link_color": "FF0000",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
@@ -3988,8 +3988,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 38,
-		"favorite_count": 90,
+		"retweet_count": 53,
+		"favorite_count": 121,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -4012,7 +4012,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "turnteched",
-					"name": "ken",
+					"name": "♡",
 					"id": 880597492160712700,
 					"id_str": "880597492160712704",
 					"indices": [
@@ -4022,7 +4022,7 @@ Grailbird.data.tweets_2018_10 =
 				},
 				{
 					"screen_name": "Bitttergum",
-					"name": "👽Bittergum🏳️🌈",
+					"name": "Bittergum",
 					"id": 860858015515332600,
 					"id_str": "860858015515332608",
 					"indices": [
@@ -4045,7 +4045,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -4066,16 +4066,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4215,10 +4215,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 880597492160712700,
 			"id_str": "880597492160712704",
-			"name": "ken",
+			"name": "♡",
 			"screen_name": "turnteched",
-			"location": "ic: lob-0211",
-			"description": "🖤 @gaykarkat 🖤",
+			"location": "ic: pancakestein",
+			"description": "i am your general fucking practitioner ❧@gaykarkat",
 			"url": null,
 			"entities": {
 				"description": {
@@ -4226,16 +4226,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 272,
-			"friends_count": 203,
-			"listed_count": 8,
+			"followers_count": 300,
+			"friends_count": 191,
+			"listed_count": 12,
 			"created_at": "Fri Jun 30 01:22:57 +0000 2017",
-			"favourites_count": 9933,
+			"favourites_count": 10645,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 5568,
+			"statuses_count": 6288,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4244,9 +4244,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1053400344842117120/3IFZkCrI_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053400344842117120/3IFZkCrI_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880597492160712704/1540816937",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066177835306496000/x_j7mRgh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066177835306496000/x_j7mRgh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880597492160712704/1542896236",
 			"profile_link_color": "FF0000",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
@@ -4265,8 +4265,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 43,
-		"favorite_count": 108,
+		"retweet_count": 45,
+		"favorite_count": 123,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -4379,7 +4379,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -4400,16 +4400,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4475,7 +4475,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -4496,16 +4496,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4536,7 +4536,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -4648,7 +4648,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -4669,16 +4669,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4709,7 +4709,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -4822,7 +4822,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -4843,16 +4843,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4918,7 +4918,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -4939,16 +4939,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5096,10 +5096,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 1033906611578921000,
 			"id_str": "1033906611578920965",
-			"name": "🎃",
+			"name": "( •˓◞•̀ )",
 			"screen_name": "M0nam3",
 			"location": "Russia",
-			"description": "Hi i'm Eva",
+			"description": "Hi i'm Eva!",
 			"url": "https://t.co/DdVFQPDPOQ",
 			"entities": {
 				"url": {
@@ -5120,16 +5120,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 261,
-			"friends_count": 52,
-			"listed_count": 0,
+			"followers_count": 400,
+			"friends_count": 79,
+			"listed_count": 2,
 			"created_at": "Mon Aug 27 02:38:40 +0000 2018",
-			"favourites_count": 7878,
+			"favourites_count": 15920,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1375,
+			"statuses_count": 2531,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5138,10 +5138,10 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1056229140255387648/ofmySFy7_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056229140255387648/ofmySFy7_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033906611578920965/1540739719",
-			"profile_link_color": "19CF86",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066469451112038401/PfLkSETU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066469451112038401/PfLkSETU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033906611578920965/1543107905",
+			"profile_link_color": "FF691F",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
@@ -5159,8 +5159,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 46,
-		"favorite_count": 98,
+		"retweet_count": 45,
+		"favorite_count": 96,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -5206,7 +5206,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -5227,16 +5227,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5289,7 +5289,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "xentyie",
-					"name": "xen💫",
+					"name": "🎄xen💫loves eric!!❄️",
 					"id": 1003041145054728200,
 					"id_str": "1003041145054728192",
 					"indices": [
@@ -5312,7 +5312,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -5333,16 +5333,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5407,7 +5407,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -5428,16 +5428,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5468,7 +5468,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -5490,7 +5490,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "xentyie",
-					"name": "xen💫",
+					"name": "🎄xen💫loves eric!!❄️",
 					"id": 1003041145054728200,
 					"id_str": "1003041145054728192",
 					"indices": [
@@ -5513,7 +5513,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -5534,16 +5534,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5581,167 +5581,6 @@ Grailbird.data.tweets_2018_10 =
 		"text": "@xentyie WHO  IS SHE I CARE SO MUCH FOR HER?"
 	},
 	{
-		"created_at": "Tue Oct 30 10:39:51 +0000 2018",
-		"id": 1057220531873820700,
-		"id_str": "1057220531873820672",
-		"full_text": "okay but!! petition to make hussie tell us more about mrs. \"hacker voice:im in\" lady https://t.co/plPVlnlCM7",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			84
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1057220528925278200,
-					"id_str": "1057220528925278208",
-					"indices": [
-						85,
-						108
-					],
-					"media_url": "http://pbs.twimg.com/media/DqwAeDvXgAAn8pe.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DqwAeDvXgAAn8pe.jpg",
-					"url": "https://t.co/plPVlnlCM7",
-					"display_url": "pic.twitter.com/plPVlnlCM7",
-					"expanded_url": "https://twitter.com/xentyie/status/1057220531873820672/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 371,
-							"h": 342,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 371,
-							"h": 342,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 371,
-							"h": 342,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1057220528925278200,
-					"id_str": "1057220528925278208",
-					"indices": [
-						85,
-						108
-					],
-					"media_url": "http://pbs.twimg.com/media/DqwAeDvXgAAn8pe.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DqwAeDvXgAAn8pe.jpg",
-					"url": "https://t.co/plPVlnlCM7",
-					"display_url": "pic.twitter.com/plPVlnlCM7",
-					"expanded_url": "https://twitter.com/xentyie/status/1057220531873820672/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 371,
-							"h": 342,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 371,
-							"h": 342,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 371,
-							"h": 342,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 1003041145054728200,
-			"id_str": "1003041145054728192",
-			"name": "xen💫",
-			"screen_name": "xentyie",
-			"location": "🌙",
-			"description": "homestuck | gamer🕹|crystals n plants💖🌿 | i draw really sometimes | he/him!",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 195,
-			"friends_count": 347,
-			"listed_count": 3,
-			"created_at": "Sat Jun 02 22:30:19 +0000 2018",
-			"favourites_count": 4761,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 670,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1056175898465128449/pDwyDqi3_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056175898465128449/pDwyDqi3_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003041145054728192/1540771233",
-			"profile_link_color": "FAB81E",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 4,
-		"favorite_count": 13,
-		"favorited": true,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "okay but!! petition to make hussie tell us more about mrs. \"hacker voice:im in\" lady https://t.co/plPVlnlCM7"
-	},
-	{
 		"created_at": "Tue Oct 30 10:51:05 +0000 2018",
 		"id": 1057223358725742600,
 		"id_str": "1057223358725742592",
@@ -5767,7 +5606,7 @@ Grailbird.data.tweets_2018_10 =
 				},
 				{
 					"screen_name": "Bokehsthetic",
-					"name": "💀~ Eric ~💉",
+					"name": "🎄eric💫loves xen!!❄️",
 					"id": 3321170589,
 					"id_str": "3321170589",
 					"indices": [
@@ -5790,7 +5629,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -5811,16 +5650,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5882,10 +5721,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 3321170589,
 			"id_str": "3321170589",
-			"name": "💀~ Eric ~💉",
+			"name": "🎄eric💫loves xen!!❄️",
 			"screen_name": "Bokehsthetic",
-			"location": "⭐️Prospit☀️",
-			"description": "🏳️🌈 he/they ☆ Skilled & Eager Photographer Learning Every Day ☆ JJBA & Musicals Are Neat ☆ In Love With 🖤SoulsBorne💉 ☆ Maryland 🦀",
+			"location": "Banner: OniRuu @ Deviantart ☆ Tenae!! 💖 1-16-18",
+			"description": "🏳️‍🌈 they/he ☆ Skilled & Eager Photographer Learning Every Day ☆ JJBA & Musicals Are Neat ☆ In Love With 🖤SoulsBorne💉 ☆ Maryland 🦀",
 			"url": "https://t.co/6wK7MSJ8mL",
 			"entities": {
 				"url": {
@@ -5906,16 +5745,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 223,
-			"friends_count": 242,
-			"listed_count": 11,
+			"followers_count": 237,
+			"friends_count": 232,
+			"listed_count": 18,
 			"created_at": "Fri Jun 12 16:18:06 +0000 2015",
-			"favourites_count": 74779,
+			"favourites_count": 77591,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 47287,
+			"statuses_count": 49309,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5924,10 +5763,10 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1054495341821730816/TYUI6XDn_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054495341821730816/TYUI6XDn_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3321170589/1540246256",
-			"profile_link_color": "E81C4F",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062137500095770624/S6-7IOVS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062137500095770624/S6-7IOVS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3321170589/1542068854",
+			"profile_link_color": "FF691F",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
@@ -5945,8 +5784,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 40,
-		"favorite_count": 20,
+		"retweet_count": 54,
+		"favorite_count": 30,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -6098,16 +5937,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 20376,
-			"friends_count": 146,
-			"listed_count": 51,
+			"followers_count": 20798,
+			"friends_count": 151,
+			"listed_count": 53,
 			"created_at": "Fri Jul 03 20:44:08 +0000 2009",
-			"favourites_count": 19798,
+			"favourites_count": 19894,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 38939,
+			"statuses_count": 39375,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6137,8 +5976,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 437,
-		"favorite_count": 1615,
+		"retweet_count": 700,
+		"favorite_count": 2641,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -6161,7 +6000,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "vantastrider",
-					"name": "jake-o lantern 🎃",
+					"name": "jake",
 					"id": 1013905877093486600,
 					"id_str": "1013905877093486593",
 					"indices": [
@@ -6184,7 +6023,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -6205,16 +6044,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6354,10 +6193,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 4851829330,
 			"id_str": "4851829330",
-			"name": "👾peak ibuki🍭 @ hs hell",
+			"name": "i have joined Them @ hs+dr hell",
 			"screen_name": "beebeeibuki",
 			"location": "",
-			"description": "hi!! im a big ibuki fan, along with other things. i like dr, homestuck and alot of misc stuff!!. i'm a minor, and you can refer to me with any pronouns. ♉🇨🇳",
+			"description": "hi!! im a big ibuki fan, along with other things. i like dr, homestuck, dr again and alot of misc stuff!!. i'm a minor, and any pronouns are OK! ♉🇨🇳♦️",
 			"url": "https://t.co/DntMp94vWs",
 			"entities": {
 				"url": {
@@ -6378,16 +6217,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 205,
-			"friends_count": 533,
-			"listed_count": 4,
+			"followers_count": 228,
+			"friends_count": 556,
+			"listed_count": 9,
 			"created_at": "Wed Jan 27 01:04:10 +0000 2016",
-			"favourites_count": 68813,
+			"favourites_count": 75999,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 32803,
+			"statuses_count": 36226,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6396,8 +6235,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1051321186683039745/MhTG9szE_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051321186683039745/MhTG9szE_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065451058397237248/QaxUWiP1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065451058397237248/QaxUWiP1_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4851829330/1525739548",
 			"profile_link_color": "F58EA8",
 			"profile_sidebar_border_color": "000000",
@@ -6417,8 +6256,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 58,
-		"favorite_count": 120,
+		"retweet_count": 69,
+		"favorite_count": 150,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -6530,7 +6369,7 @@ Grailbird.data.tweets_2018_10 =
 			"id_str": "2374777255",
 			"name": "ratthew",
 			"screen_name": "RATKlNS",
-			"location": "erin   he/they",
+			"location": "erin/oli   he/they   18",
 			"description": "yeah im lgbt liquor guns bacon transgender. i like cartoons and shit sc: powerbluffboy",
 			"url": "https://t.co/bh6iOtB3NC",
 			"entities": {
@@ -6552,16 +6391,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4389,
-			"friends_count": 2922,
-			"listed_count": 172,
+			"followers_count": 4349,
+			"friends_count": 2928,
+			"listed_count": 184,
 			"created_at": "Thu Mar 06 03:58:11 +0000 2014",
-			"favourites_count": 132146,
+			"favourites_count": 132609,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13114,
+			"statuses_count": 13320,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6570,9 +6409,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1057417559560110080/4hY8xRO4_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057417559560110080/4hY8xRO4_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2374777255/1537784044",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065477842497126400/MP-nl2Xo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065477842497126400/MP-nl2Xo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2374777255/1542830990",
 			"profile_link_color": "19CF86",
 			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -6591,8 +6430,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 59,
-		"favorite_count": 136,
+		"retweet_count": 61,
+		"favorite_count": 143,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -6615,7 +6454,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "marcheridan",
-					"name": "jaylyn",
+					"name": "susie from deltarune",
 					"id": 908313160456839200,
 					"id_str": "908313160456839168",
 					"indices": [
@@ -6638,7 +6477,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -6659,16 +6498,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6733,7 +6572,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -6754,16 +6593,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7011,10 +6850,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 457902019,
 			"id_str": "457902019",
-			"name": "𝕝𝕚𝕒☽ | 𝕞𝕪 𝕠𝕟𝕝𝕪 𝕝𝕠𝕧𝕖 𝕣𝕚𝕧𝕖𝕣 🕊",
+			"name": "𝐥𝐢𝐚☽ | 𝐭𝐞𝐞𝐧 𝐟𝐢𝐥𝐦 𝐬𝐭𝐚𝐧 𝐚𝐜𝐜 🕊",
 			"screen_name": "RXMANSPHOENIX",
-			"location": "covinsky and spideychelle 🏹",
-			"description": "— a black beauty with an eighties & nineties mind + river phoenix in her heart. spidey aficionado.",
+			"location": "80s & 90s multifandom trash🏹",
+			"description": "— chaos is what killed the dinosaurs, darling.",
 			"url": "https://t.co/2V393xlAww",
 			"entities": {
 				"url": {
@@ -7035,16 +6874,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 32282,
-			"friends_count": 24184,
-			"listed_count": 1680,
+			"followers_count": 32063,
+			"friends_count": 24367,
+			"listed_count": 1749,
 			"created_at": "Sat Jan 07 23:30:23 +0000 2012",
-			"favourites_count": 130038,
+			"favourites_count": 131390,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 237632,
+			"statuses_count": 238489,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7053,9 +6892,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1057415960993390592/HwgY45IJ_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057415960993390592/HwgY45IJ_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/457902019/1540942440",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066438776233299968/jkuBqK_g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066438776233299968/jkuBqK_g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/457902019/1543093794",
 			"profile_link_color": "0099B9",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "95E8EC",
@@ -7074,8 +6913,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 21014,
-		"favorite_count": 65309,
+		"retweet_count": 28409,
+		"favorite_count": 89173,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -7110,7 +6949,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -7131,16 +6970,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7205,7 +7044,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -7226,16 +7065,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7300,7 +7139,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -7321,16 +7160,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7542,10 +7381,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 2197087620,
 			"id_str": "2197087620",
-			"name": "homegrown attention deficit disorder",
+			"name": ":) :) thesis time",
 			"screen_name": "gingerslappin",
 			"location": "dm for private or discord",
-			"description": "paige | 21 | agender (they/them) | ✡🏳️🌈| IG/RB/AO3: PaigeOfSpace | \"paige i love you but never speak to me again\" - zoe, 10/31/17",
+			"description": "paige | 21 | agender (they/them) | ✡🏳️‍🌈| IG/RB/AO3: PaigeOfSpace | \"paige i love you but never speak to me again\" - zoe, 10/31/17",
 			"url": null,
 			"entities": {
 				"description": {
@@ -7553,16 +7392,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 462,
-			"friends_count": 226,
-			"listed_count": 9,
+			"followers_count": 488,
+			"friends_count": 237,
+			"listed_count": 11,
 			"created_at": "Sat Nov 16 04:26:35 +0000 2013",
-			"favourites_count": 88086,
+			"favourites_count": 92540,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 67074,
+			"statuses_count": 69130,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7571,8 +7410,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1055717256942956544/JaKTBGnS_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055717256942956544/JaKTBGnS_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063291367512670208/sdJ5LfJb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063291367512670208/sdJ5LfJb_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2197087620/1537007932",
 			"profile_link_color": "4AC925",
 			"profile_sidebar_border_color": "000000",
@@ -7593,7 +7432,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 27,
-		"favorite_count": 62,
+		"favorite_count": 60,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -7628,7 +7467,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -7649,16 +7488,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7734,7 +7573,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -7755,16 +7594,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 319,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14386,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14857,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7829,7 +7668,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -7850,16 +7689,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7935,7 +7774,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -7956,16 +7795,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8041,7 +7880,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -8062,16 +7901,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8124,7 +7963,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "vampsprite",
-					"name": "bunp",
+					"name": "bunp bustard",
 					"id": 1050123665721974800,
 					"id_str": "1050123665721974784",
 					"indices": [
@@ -8134,7 +7973,7 @@ Grailbird.data.tweets_2018_10 =
 				},
 				{
 					"screen_name": "gamblignant8",
-					"name": "alien invasion of one 🎃",
+					"name": "alien invasion of one 🍂",
 					"id": 1019701388148789200,
 					"id_str": "1019701388148789248",
 					"indices": [
@@ -8157,7 +7996,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -8178,16 +8017,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8382,16 +8221,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5795,
-			"friends_count": 359,
+			"followers_count": 6659,
+			"friends_count": 376,
 			"listed_count": 26,
 			"created_at": "Tue May 19 21:59:54 +0000 2009",
-			"favourites_count": 35966,
+			"favourites_count": 36895,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 68067,
+			"statuses_count": 69017,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8421,8 +8260,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 69,
-		"favorite_count": 260,
+		"retweet_count": 118,
+		"favorite_count": 461,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -8467,7 +8306,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -8488,16 +8327,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8559,10 +8398,10 @@ Grailbird.data.tweets_2018_10 =
 			"user": {
 				"id": 1019701388148789200,
 				"id_str": "1019701388148789248",
-				"name": "alien invasion of one 🎃",
+				"name": "alien invasion of one 🍂",
 				"screen_name": "gamblignant8",
 				"location": "26, they/them",
-				"description": "host @pgenpod / i help out a bit at @vasterror / muse of time / canries - sign of the scrapper / derse / personal: @mctiriss / icon by @cosmic_dia",
+				"description": "host @pgenpod / script consultant @vasterror / former @scpwiki staff / muse of time / canries - sign of the scrapper / personal: @mctiriss",
 				"url": "https://t.co/AHNjqZ4uaR",
 				"entities": {
 					"url": {
@@ -8583,16 +8422,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 756,
-				"friends_count": 454,
-				"listed_count": 2,
+				"followers_count": 948,
+				"friends_count": 526,
+				"listed_count": 16,
 				"created_at": "Wed Jul 18 21:52:10 +0000 2018",
-				"favourites_count": 15906,
+				"favourites_count": 20776,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6345,
+				"statuses_count": 8445,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8601,10 +8440,10 @@ Grailbird.data.tweets_2018_10 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1047256858661011456/yktsGiL6_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047256858661011456/yktsGiL6_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1019701388148789248/1539498496",
-				"profile_link_color": "008282",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060312115569844224/g67ce3WL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060312115569844224/g67ce3WL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1019701388148789248/1542959414",
+				"profile_link_color": "A10000",
 				"profile_sidebar_border_color": "000000",
 				"profile_sidebar_fill_color": "000000",
 				"profile_text_color": "000000",
@@ -8622,8 +8461,8 @@ Grailbird.data.tweets_2018_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 20,
-			"favorite_count": 19,
+			"retweet_count": 23,
+			"favorite_count": 25,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "fi"
@@ -8664,7 +8503,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -8685,16 +8524,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8769,7 +8608,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -8790,16 +8629,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8957,7 +8796,7 @@ Grailbird.data.tweets_2018_10 =
 				"name": "Dan🌱🌲",
 				"screen_name": "watahbufala",
 				"location": "Cork, Ireland",
-				"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+				"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 				"url": "https://t.co/WQlPbtvFQr",
 				"entities": {
 					"url": {
@@ -8978,16 +8817,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 283,
-				"friends_count": 318,
-				"listed_count": 9,
+				"followers_count": 279,
+				"friends_count": 330,
+				"listed_count": 10,
 				"created_at": "Tue May 27 21:32:02 +0000 2014",
-				"favourites_count": 14361,
+				"favourites_count": 14522,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 14805,
+				"statuses_count": 15158,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9018,7 +8857,7 @@ Grailbird.data.tweets_2018_10 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 4,
+			"favorite_count": 5,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -9191,16 +9030,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 15876,
-			"friends_count": 766,
-			"listed_count": 187,
+			"followers_count": 15984,
+			"friends_count": 782,
+			"listed_count": 193,
 			"created_at": "Mon Feb 01 17:27:11 +0000 2010",
-			"favourites_count": 37900,
+			"favourites_count": 38268,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 23684,
+			"statuses_count": 23894,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9230,7 +9069,7 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 39,
+		"retweet_count": 40,
 		"favorite_count": 227,
 		"favorited": true,
 		"retweeted": true,
@@ -9416,7 +9255,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -9437,16 +9276,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9523,7 +9362,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -9544,16 +9383,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9628,7 +9467,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -9649,16 +9488,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9801,7 +9640,7 @@ Grailbird.data.tweets_2018_10 =
 				"name": "Dan🌱🌲",
 				"screen_name": "watahbufala",
 				"location": "Cork, Ireland",
-				"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+				"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 				"url": "https://t.co/WQlPbtvFQr",
 				"entities": {
 					"url": {
@@ -9822,16 +9661,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 283,
-				"friends_count": 318,
-				"listed_count": 9,
+				"followers_count": 279,
+				"friends_count": 330,
+				"listed_count": 10,
 				"created_at": "Tue May 27 21:32:02 +0000 2014",
-				"favourites_count": 14361,
+				"favourites_count": 14522,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 14805,
+				"statuses_count": 15158,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9862,7 +9701,7 @@ Grailbird.data.tweets_2018_10 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 3,
+			"favorite_count": 2,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -9904,7 +9743,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -9925,16 +9764,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10108,7 +9947,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -10129,16 +9968,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10192,7 +10031,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "aDreamGazer",
-					"name": "Julia💖🌙",
+					"name": "Jules💖🌙",
 					"id": 3130901105,
 					"id_str": "3130901105",
 					"indices": [
@@ -10215,7 +10054,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -10236,16 +10075,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10331,7 +10170,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -10352,16 +10191,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10427,7 +10266,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -10448,16 +10287,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10608,7 +10447,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -10629,16 +10468,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10715,7 +10554,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -10736,16 +10575,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10888,7 +10727,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -10909,16 +10748,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10984,7 +10823,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -11005,16 +10844,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11188,7 +11027,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dyl (The Fatherless & The Widow) @ MFF",
 			"screen_name": "FatherlessWidow",
 			"location": "The Bible Belt",
-			"description": "The Fatherless & The Widow, Queer Abomination and Figure of Man. They/Them. 🦊 All Cops Are Bastards. 🌹 Profile pic by @repoghost.",
+			"description": "The Fatherless & The Widow and Figure of Man. 🌹 Profile pic by @repoghost.",
 			"url": "https://t.co/5zQyE7yhwa",
 			"entities": {
 				"url": {
@@ -11209,16 +11048,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 94,
-			"friends_count": 137,
+			"followers_count": 119,
+			"friends_count": 149,
 			"listed_count": 0,
 			"created_at": "Thu May 31 16:15:42 +0000 2018",
-			"favourites_count": 2449,
+			"favourites_count": 3860,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 747,
+			"statuses_count": 1160,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11229,7 +11068,7 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1055201466682695693/nEKJSMVF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055201466682695693/nEKJSMVF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1002222094237749250/1540621838",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1002222094237749250/1542822948",
 			"profile_link_color": "981CEB",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
@@ -11249,7 +11088,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 4,
-		"favorite_count": 11,
+		"favorite_count": 10,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -11295,7 +11134,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -11316,16 +11155,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11401,7 +11240,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -11422,16 +11261,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11593,16 +11432,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 67,
-			"friends_count": 333,
+			"followers_count": 64,
+			"friends_count": 334,
 			"listed_count": 1,
 			"created_at": "Tue May 26 16:27:54 +0000 2015",
-			"favourites_count": 2074,
+			"favourites_count": 2141,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 654,
+			"statuses_count": 703,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11757,7 +11596,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -11778,16 +11617,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11853,7 +11692,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -11874,16 +11713,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11914,7 +11753,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -11948,7 +11787,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -11969,16 +11808,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12043,7 +11882,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12064,16 +11903,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12216,7 +12055,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12237,16 +12076,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12312,7 +12151,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12333,16 +12172,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12407,7 +12246,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12428,16 +12267,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12502,7 +12341,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12523,16 +12362,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12675,7 +12514,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12696,16 +12535,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12771,7 +12610,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12792,16 +12631,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12866,7 +12705,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -12887,16 +12726,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13039,7 +12878,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13060,16 +12899,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13213,7 +13052,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13234,16 +13073,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13387,7 +13226,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13408,16 +13247,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13561,7 +13400,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13582,16 +13421,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13657,7 +13496,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13678,16 +13517,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13752,7 +13591,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13773,16 +13612,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13847,7 +13686,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13868,16 +13707,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13942,7 +13781,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -13963,16 +13802,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14115,7 +13954,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -14136,16 +13975,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14176,7 +14015,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -14211,7 +14050,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -14232,16 +14071,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14415,16 +14254,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1057254,
+			"followers_count": 1088204,
 			"friends_count": 1,
-			"listed_count": 9672,
+			"listed_count": 9864,
 			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
-			"favourites_count": 10453,
+			"favourites_count": 10421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 198210,
+			"statuses_count": 201963,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14454,8 +14293,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 440,
-		"favorite_count": 2322,
+		"retweet_count": 471,
+		"favorite_count": 2423,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -14478,7 +14317,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "aDreamGazer",
-					"name": "Julia💖🌙",
+					"name": "Jules💖🌙",
 					"id": 3130901105,
 					"id_str": "3130901105",
 					"indices": [
@@ -14501,7 +14340,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -14522,16 +14361,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14596,7 +14435,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -14617,16 +14456,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14679,7 +14518,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "xentyie",
-					"name": "xen💫",
+					"name": "🎄xen💫loves eric!!❄️",
 					"id": 1003041145054728200,
 					"id_str": "1003041145054728192",
 					"indices": [
@@ -14702,7 +14541,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -14723,16 +14562,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15004,16 +14843,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283668,
-			"friends_count": 5596,
-			"listed_count": 2572,
+			"followers_count": 297754,
+			"friends_count": 5638,
+			"listed_count": 2690,
 			"created_at": "Sat Feb 22 05:04:53 +0000 2014",
-			"favourites_count": 95888,
+			"favourites_count": 101487,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 22025,
+			"statuses_count": 22602,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15043,8 +14882,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 533,
-		"favorite_count": 1986,
+		"retweet_count": 543,
+		"favorite_count": 2031,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -15067,7 +14906,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "xentyie",
-					"name": "xen💫",
+					"name": "🎄xen💫loves eric!!❄️",
 					"id": 1003041145054728200,
 					"id_str": "1003041145054728192",
 					"indices": [
@@ -15090,7 +14929,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -15111,16 +14950,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15195,7 +15034,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -15216,16 +15055,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15291,7 +15130,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -15312,16 +15151,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15352,7 +15191,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -15472,16 +15311,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 464,
-			"friends_count": 116,
+			"followers_count": 453,
+			"friends_count": 118,
 			"listed_count": 8,
 			"created_at": "Sun Jun 04 15:10:40 +0000 2017",
-			"favourites_count": 14946,
+			"favourites_count": 14832,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4097,
+			"statuses_count": 4099,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15511,9 +15350,9 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 50,
+		"retweet_count": 49,
 		"favorite_count": 174,
-		"favorited": true,
+		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
@@ -15547,7 +15386,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -15568,16 +15407,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15653,7 +15492,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -15674,16 +15513,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15748,7 +15587,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -15769,16 +15608,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15843,7 +15682,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -15864,16 +15703,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16016,7 +15855,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16037,16 +15876,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16077,7 +15916,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -16112,7 +15951,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16133,16 +15972,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16207,7 +16046,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16228,16 +16067,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16302,7 +16141,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16323,16 +16162,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16397,7 +16236,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16418,16 +16257,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16492,7 +16331,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16513,16 +16352,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16665,7 +16504,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16686,16 +16525,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16839,7 +16678,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -16860,16 +16699,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16935,7 +16774,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Anna🔪🔪🔪",
 			"screen_name": "Bakuguro",
 			"location": "Arizona, USA",
-			"description": "Anna/ tw for everything 😎/ art trades always open!/ I want to kiss Bakugou/ also I’m the cringiest person alive!",
+			"description": "Anna/ Todobaku stan/ art trades always open!/ I want to kiss Bakugou/matching with @touyata 💞😎",
 			"url": "https://t.co/Wwpq4zZP1o",
 			"entities": {
 				"url": {
@@ -16956,16 +16795,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 551,
-			"friends_count": 955,
-			"listed_count": 3,
+			"followers_count": 755,
+			"friends_count": 952,
+			"listed_count": 6,
 			"created_at": "Wed Oct 07 04:46:49 +0000 2015",
-			"favourites_count": 1792,
+			"favourites_count": 2502,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 600,
+			"statuses_count": 877,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16974,9 +16813,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1055841194067066880/F6z4h20d_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055841194067066880/F6z4h20d_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3810644774/1540620840",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063247104057823232/j7bec4NI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063247104057823232/j7bec4NI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3810644774/1541802894",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -16995,8 +16834,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2412,
-		"favorite_count": 9641,
+		"retweet_count": 2562,
+		"favorite_count": 10032,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -17030,7 +16869,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -17051,16 +16890,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17218,7 +17057,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -17239,16 +17078,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17279,7 +17118,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -17302,7 +17141,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "aDreamGazer",
-					"name": "Julia💖🌙",
+					"name": "Jules💖🌙",
 					"id": 3130901105,
 					"id_str": "3130901105",
 					"indices": [
@@ -17325,7 +17164,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -17346,16 +17185,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17408,7 +17247,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "aDreamGazer",
-					"name": "Julia💖🌙",
+					"name": "Jules💖🌙",
 					"id": 3130901105,
 					"id_str": "3130901105",
 					"indices": [
@@ -17431,7 +17270,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -17452,16 +17291,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17625,16 +17464,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1482817,
-			"friends_count": 1659316,
-			"listed_count": 7180,
+			"followers_count": 1437478,
+			"friends_count": 1653639,
+			"listed_count": 7196,
 			"created_at": "Tue May 05 02:41:57 +0000 2009",
-			"favourites_count": 139661,
+			"favourites_count": 145024,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 177893,
+			"statuses_count": 184585,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17663,8 +17502,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 534,
-		"favorite_count": 1164,
+		"retweet_count": 554,
+		"favorite_count": 1241,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -17687,7 +17526,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "aDreamGazer",
-					"name": "Julia💖🌙",
+					"name": "Jules💖🌙",
 					"id": 3130901105,
 					"id_str": "3130901105",
 					"indices": [
@@ -17710,7 +17549,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -17731,16 +17570,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17793,7 +17632,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "xentyie",
-					"name": "xen💫",
+					"name": "🎄xen💫loves eric!!❄️",
 					"id": 1003041145054728200,
 					"id_str": "1003041145054728192",
 					"indices": [
@@ -17816,7 +17655,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -17837,16 +17676,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17986,10 +17825,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 618541422,
 			"id_str": "618541422",
-			"name": "frankenkai 👻✨",
+			"name": "kailar✨",
 			"screen_name": "kalespeaks",
 			"location": "he/she • 19",
-			"description": "a shy guy takes off his mask,, revealing kai underneath        kai guy     //    header art by @everydaylouie",
+			"description": "a shy guy takes off his mask,, revealing kai underneath       kai guy    //   icon art by https://t.co/Cb3yfgcx8F",
 			"url": "https://t.co/ebbnAJ9Okz",
 			"entities": {
 				"url": {
@@ -18006,20 +17845,30 @@ Grailbird.data.tweets_2018_10 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/Cb3yfgcx8F",
+							"expanded_url": "http://vyco.tumblr.com",
+							"display_url": "vyco.tumblr.com",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 214,
-			"friends_count": 156,
-			"listed_count": 4,
+			"followers_count": 233,
+			"friends_count": 169,
+			"listed_count": 5,
 			"created_at": "Mon Jun 25 21:40:57 +0000 2012",
-			"favourites_count": 9764,
+			"favourites_count": 10543,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25780,
+			"statuses_count": 27132,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18028,9 +17877,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1055868981784076289/9J-DBIQb_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055868981784076289/9J-DBIQb_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/618541422/1540291881",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065074247889010688/i6tnRlUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065074247889010688/i6tnRlUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/618541422/1542711505",
 			"profile_link_color": "F58EA8",
 			"profile_sidebar_border_color": "FFFFFF",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -18049,8 +17898,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 116,
-		"favorite_count": 314,
+		"retweet_count": 118,
+		"favorite_count": 317,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -18085,7 +17934,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -18106,16 +17955,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18168,7 +18017,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "emilyxglass",
-					"name": "emily glass",
+					"name": "EMILY GLASS 🌱🌱",
 					"id": 1709571674,
 					"id_str": "1709571674",
 					"indices": [
@@ -18191,7 +18040,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -18212,16 +18061,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18361,10 +18210,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 1709571674,
 			"id_str": "1709571674",
-			"name": "emily glass",
+			"name": "EMILY GLASS 🌱🌱",
 			"screen_name": "emilyxglass",
 			"location": "ADELAIDE—WWW",
-			"description": "https://t.co/sFbzFmnU0A - https://t.co/3Y38n8AEUT - inquiries & bookings: contact@emilyglass.world - music for @LoveEternalGame",
+			"description": "https://t.co/sFbzFmnU0A - https://t.co/3Y38n8AEUT - contact@emilyglass.world - music for @LoveEternalGame - donations: https://t.co/wGEd9jMBeE",
 			"url": "https://t.co/a494TDEcFH",
 			"entities": {
 				"url": {
@@ -18399,21 +18248,30 @@ Grailbird.data.tweets_2018_10 =
 								26,
 								49
 							]
+						},
+						{
+							"url": "https://t.co/wGEd9jMBeE",
+							"expanded_url": "http://paypal.me/emilyxglass",
+							"display_url": "paypal.me/emilyxglass",
+							"indices": [
+								119,
+								142
+							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 1104,
-			"friends_count": 897,
+			"followers_count": 1135,
+			"friends_count": 941,
 			"listed_count": 15,
 			"created_at": "Thu Aug 29 09:07:26 +0000 2013",
-			"favourites_count": 56422,
+			"favourites_count": 56781,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 3918,
+			"statuses_count": 4149,
 			"lang": "zh-cn",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18424,7 +18282,7 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_tile": true,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1037981445048815616/ANsvlJJV_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037981445048815616/ANsvlJJV_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1709571674/1540332459",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1709571674/1542923666",
 			"profile_link_color": "200A0B",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -18444,7 +18302,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 13,
+		"favorite_count": 12,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -18479,7 +18337,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -18500,16 +18358,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283,
-			"friends_count": 318,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14361,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14805,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18574,7 +18432,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -18595,16 +18453,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18669,7 +18527,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -18690,16 +18548,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18764,7 +18622,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -18785,16 +18643,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18825,7 +18683,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -18934,10 +18792,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 1050062647889145900,
 			"id_str": "1050062647889145856",
-			"name": "soregor",
+			"name": "post scratch undertale",
 			"screen_name": "prospitcrocs",
 			"location": "",
-			"description": "opal | 19 | nonbinary they/he | prospit + page of mind | ♎️sun ♍️moon ♏️rising",
+			"description": "opal | 19 | nonbinary they/them | prospit + page of mind ♎️sun ♍️moon ♏️rising | very busy with school",
 			"url": "https://t.co/K3wJf9mcDU",
 			"entities": {
 				"url": {
@@ -18958,16 +18816,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 132,
-			"friends_count": 125,
-			"listed_count": 0,
+			"followers_count": 265,
+			"friends_count": 171,
+			"listed_count": 6,
 			"created_at": "Wed Oct 10 16:36:59 +0000 2018",
-			"favourites_count": 1413,
+			"favourites_count": 3431,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 571,
+			"statuses_count": 1169,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18976,8 +18834,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1055978421686358016/Jw-SbnSr_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055978421686358016/Jw-SbnSr_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063943801922670592/hZat5TCy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063943801922670592/hZat5TCy_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050062647889145856/1539190721",
 			"profile_link_color": "19CF86",
 			"profile_sidebar_border_color": "000000",
@@ -18997,8 +18855,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 24,
-		"favorite_count": 58,
+		"retweet_count": 23,
+		"favorite_count": 56,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -19033,7 +18891,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -19054,16 +18912,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19206,7 +19064,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -19227,16 +19085,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19267,7 +19125,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -19380,7 +19238,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -19401,16 +19259,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19487,7 +19345,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -19508,16 +19366,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19681,16 +19539,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 43,
-			"friends_count": 240,
+			"followers_count": 46,
+			"friends_count": 250,
 			"listed_count": 0,
 			"created_at": "Sun Nov 13 01:14:36 +0000 2016",
-			"favourites_count": 857,
+			"favourites_count": 953,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 412,
+			"statuses_count": 479,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19756,7 +19614,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -19777,16 +19635,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19862,7 +19720,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -19883,16 +19741,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19968,7 +19826,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -19989,16 +19847,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20063,7 +19921,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -20084,16 +19942,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20236,7 +20094,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Julia Shi",
 			"screen_name": "jul_shii",
 			"location": "New York, USA",
-			"description": "Comic/concept artist || Castlevania || Yale‘20 || email: julia.m.shi@yale.edu",
+			"description": "Storyboard/concept artist || Castlevania || Yale‘20 || email: julia.m.shi@yale.edu",
 			"url": "https://t.co/1LfAGwffls",
 			"entities": {
 				"url": {
@@ -20257,16 +20115,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 20795,
-			"friends_count": 276,
-			"listed_count": 191,
+			"followers_count": 21053,
+			"friends_count": 289,
+			"listed_count": 201,
 			"created_at": "Wed Apr 13 01:46:12 +0000 2016",
-			"favourites_count": 27430,
+			"favourites_count": 28069,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 2335,
+			"statuses_count": 2360,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20296,8 +20154,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 398,
-		"favorite_count": 1188,
+		"retweet_count": 396,
+		"favorite_count": 1195,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -20332,7 +20190,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -20353,16 +20211,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20526,16 +20384,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5613,
-			"friends_count": 194,
-			"listed_count": 16,
+			"followers_count": 6113,
+			"friends_count": 205,
+			"listed_count": 14,
 			"created_at": "Mon Aug 13 15:19:02 +0000 2018",
-			"favourites_count": 1107,
+			"favourites_count": 1251,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 884,
+			"statuses_count": 1105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20546,7 +20404,7 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1041896639223554050/Eu2M1ylM_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041896639223554050/Eu2M1ylM_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1029024535058808833/1540581977",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1029024535058808833/1541170508",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -20565,8 +20423,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 189,
-		"favorite_count": 813,
+		"retweet_count": 271,
+		"favorite_count": 1172,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -20601,7 +20459,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -20622,16 +20480,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20696,7 +20554,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -20717,16 +20575,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20791,7 +20649,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -20812,16 +20670,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 316,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14314,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14726,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20964,7 +20822,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -20985,16 +20843,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21060,7 +20918,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -21081,16 +20939,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21264,7 +21122,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -21285,16 +21143,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21438,7 +21296,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -21459,16 +21317,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21620,16 +21478,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 32751,
-			"friends_count": 6,
-			"listed_count": 353,
+			"followers_count": 34214,
+			"friends_count": 5,
+			"listed_count": 361,
 			"created_at": "Mon Feb 15 10:06:54 +0000 2016",
 			"favourites_count": 1,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 46488,
+			"statuses_count": 47835,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21659,8 +21517,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 39,
-		"favorite_count": 164,
+		"retweet_count": 43,
+		"favorite_count": 170,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -21773,7 +21631,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "esper echoic",
 			"screen_name": "__echoic",
 			"location": "",
-			"description": ".ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ.ㅤㅤㅤ-ㅤㅤㅤㅤ.ㅤㅤㅤ.ㅤㅤㅤㅤㅤㅤ..ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ.ㅤ.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ._",
+			"description": "where is the place between dream and realityㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                  \n ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ where do they flow together",
 			"url": null,
 			"entities": {
 				"description": {
@@ -21781,16 +21639,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 87,
-			"friends_count": 93,
+			"followers_count": 105,
+			"friends_count": 103,
 			"listed_count": 1,
 			"created_at": "Thu Apr 06 10:56:52 +0000 2017",
-			"favourites_count": 2976,
+			"favourites_count": 3179,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 374,
+			"statuses_count": 404,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21801,8 +21659,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1054050881711341573/hbY5imIZ_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054050881711341573/hbY5imIZ_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/849938955294445570/1528621216",
-			"profile_link_color": "646464",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/849938955294445570/1543071579",
+			"profile_link_color": "91D2FA",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
@@ -21821,7 +21679,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 23,
+		"favorite_count": 30,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -21867,7 +21725,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -21888,16 +21746,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21962,7 +21820,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -21983,16 +21841,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22135,7 +21993,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -22156,16 +22014,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22231,7 +22089,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -22252,16 +22110,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22326,7 +22184,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -22347,16 +22205,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22421,7 +22279,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -22442,16 +22300,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22625,7 +22483,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -22646,16 +22504,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22721,7 +22579,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -22742,16 +22600,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22891,16 +22749,16 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 23416945,
 			"id_str": "23416945",
-			"name": "✈️MISTRESS ᴿᴬᴳᴱᑫᵁᴱᴱᴺ SHlTCOIN✈️",
+			"name": "✈️MFF-TRESS ᴿᴬᴳᴱᑫᵁᴱᴱᴺ SHlTCOIN✈️",
 			"screen_name": "PartyPrat",
 			"location": "Vancouver, Seattle",
-			"description": "#AdventureCru Dougies SuBreme. #MoistDiva Belligerent Dionysian Cryptowitch. mAKES CARTOONS @ TITMoUSE, Yotta! 💖@squeedgemonster hdr:@snacknite icon:@dirtsecret",
-			"url": "https://t.co/AfEjEQGR80",
+			"description": "#AdventureCru Gen2.Thine Fucking Belligerent Sanguine Dionysian CryptoWitch. mAKES CARTOONS@ TITMoUSE, Yotta! 💖@squeedgemonster hdr:@snacknite icon:@dirtsecret",
+			"url": "https://t.co/AfEjEQYswA",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/AfEjEQGR80",
+							"url": "https://t.co/AfEjEQYswA",
 							"expanded_url": "https://www.youtube.com/watch?v=5O7F4uvTxUk",
 							"display_url": "youtube.com/watch?v=5O7F4u…",
 							"indices": [
@@ -22915,16 +22773,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7400,
-			"friends_count": 998,
-			"listed_count": 55,
+			"followers_count": 7555,
+			"friends_count": 999,
+			"listed_count": 58,
 			"created_at": "Mon Mar 09 09:02:28 +0000 2009",
-			"favourites_count": 38641,
+			"favourites_count": 40445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 60639,
+			"statuses_count": 62680,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23098,10 +22956,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 4859601441,
 			"id_str": "4859601441",
-			"name": "Sharley",
+			"name": "Shmarley",
 			"screen_name": "ewreilyn",
 			"location": "Košice, Slovakia",
-			"description": "🌿Sharley/Sharory/Shararin\n✏️ Freelance artist: furry & game art\n♈️ ENFP | shy & quiet | Unidoe\n💖 Anime, Caroons,\n🌱 🍜🍳 🍺 🍵 🚲 📸 🎒",
+			"description": "🌿Sharley/Sharory/Shararin ✏️ Freelance artist: furry & game art ♈️ ENFP | Unidoe 💖 Anime, Caroons, 🌱 🍜🍳 🍺 🍵 🚲🎒",
 			"url": "https://t.co/Pj70UKfs2Z",
 			"entities": {
 				"url": {
@@ -23122,16 +22980,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4559,
-			"friends_count": 224,
-			"listed_count": 20,
+			"followers_count": 5025,
+			"friends_count": 227,
+			"listed_count": 22,
 			"created_at": "Fri Jan 29 09:19:24 +0000 2016",
-			"favourites_count": 1918,
+			"favourites_count": 2038,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 104,
+			"statuses_count": 107,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23161,8 +23019,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 485,
-		"favorite_count": 1910,
+		"retweet_count": 618,
+		"favorite_count": 2537,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -23275,7 +23133,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "slim 💛",
 			"screen_name": "countryyladyy45",
 			"location": "southern california, USA",
-			"description": "countryyladyy453 was too long | he/she | 23 | maid of rage | ♒ | icon & header: @summoning101 I love them | I doodle sometimes! nice to meet ya",
+			"description": "countryyladyy453 was too long | he/she | 23 | maid of rage | ♒🌞 | charun rising | icon & header: @summoning101| I doodle sometimes! よろしくね",
 			"url": "https://t.co/uRw3xGzb3Z",
 			"entities": {
 				"url": {
@@ -23296,16 +23154,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 160,
-			"friends_count": 32,
+			"followers_count": 230,
+			"friends_count": 35,
 			"listed_count": 1,
 			"created_at": "Wed Aug 22 23:27:56 +0000 2018",
-			"favourites_count": 2310,
+			"favourites_count": 3675,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1527,
+			"statuses_count": 2242,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23335,8 +23193,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 36,
-		"favorite_count": 131,
+		"retweet_count": 40,
+		"favorite_count": 145,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -23371,7 +23229,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -23392,16 +23250,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23575,16 +23433,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1053859,
+			"followers_count": 1088204,
 			"friends_count": 1,
-			"listed_count": 9638,
+			"listed_count": 9864,
 			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
-			"favourites_count": 10452,
+			"favourites_count": 10421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 197916,
+			"statuses_count": 201963,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23614,8 +23472,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 73,
-		"favorite_count": 498,
+		"retweet_count": 71,
+		"favorite_count": 504,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -23650,7 +23508,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -23671,16 +23529,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14305,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14707,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23745,7 +23603,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -23766,16 +23624,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23848,16 +23706,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 23335483,
+			"followers_count": 23482540,
 			"friends_count": 75,
-			"listed_count": 46988,
+			"listed_count": 47463,
 			"created_at": "Tue Jun 02 20:12:29 +0000 2009",
-			"favourites_count": 1759,
+			"favourites_count": 1838,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 5796,
+			"statuses_count": 6003,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23874,7 +23732,7 @@ Grailbird.data.tweets_2018_10 =
 			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": false,
+			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -23887,8 +23745,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 150553,
-		"favorite_count": 456448,
+		"retweet_count": 156102,
+		"favorite_count": 476384,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -24093,16 +23951,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280054,
-			"friends_count": 5590,
-			"listed_count": 2553,
+			"followers_count": 297754,
+			"friends_count": 5638,
+			"listed_count": 2690,
 			"created_at": "Sat Feb 22 05:04:53 +0000 2014",
-			"favourites_count": 95113,
+			"favourites_count": 101487,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 21963,
+			"statuses_count": 22602,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24132,9 +23990,9 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1515,
-		"favorite_count": 5140,
-		"favorited": true,
+		"retweet_count": 3688,
+		"favorite_count": 14477,
+		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
@@ -24153,33 +24011,22 @@ Grailbird.data.tweets_2018_10 =
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1055846018418466800,
-		"in_reply_to_status_id_str": "1055846018418466816",
-		"in_reply_to_user_id": 882313185050722300,
-		"in_reply_to_user_id_str": "882313185050722305",
-		"in_reply_to_screen_name": "Mangkral",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
 		"user": {
 			"id": 2528303382,
 			"id_str": "2528303382",
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -24200,16 +24047,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24460,7 +24307,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -24481,16 +24328,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24742,7 +24589,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -24763,16 +24610,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24924,16 +24771,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16850,
-			"friends_count": 17558,
-			"listed_count": 77,
+			"followers_count": 21796,
+			"friends_count": 22247,
+			"listed_count": 87,
 			"created_at": "Mon Jun 18 00:05:52 +0000 2018",
-			"favourites_count": 15365,
+			"favourites_count": 28225,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 5541,
+			"statuses_count": 6597,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24944,7 +24791,7 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1046842626698297344/3Y8-K3oU_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046842626698297344/3Y8-K3oU_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1008501011588304897/1539816077",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1008501011588304897/1541429359",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -24963,8 +24810,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 30,
-		"favorite_count": 78,
+		"retweet_count": 45,
+		"favorite_count": 113,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -25077,7 +24924,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -25098,16 +24945,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25251,7 +25098,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -25272,16 +25119,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25467,16 +25314,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 273,
-			"friends_count": 82,
-			"listed_count": 0,
+			"followers_count": 346,
+			"friends_count": 90,
+			"listed_count": 1,
 			"created_at": "Wed Apr 26 01:43:07 +0000 2017",
-			"favourites_count": 596,
+			"favourites_count": 618,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 71,
+			"statuses_count": 77,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25506,8 +25353,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 37,
-		"favorite_count": 143,
+		"retweet_count": 47,
+		"favorite_count": 179,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -25542,7 +25389,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -25563,16 +25410,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25634,10 +25481,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 785669567045636100,
 			"id_str": "785669567045636096",
-			"name": "👻 amazingspaceship 👻",
+			"name": "amazingspaceship",
 			"screen_name": "amzngspcshp",
 			"location": "Hiding somewhere in Virginia",
-			"description": "Dylan - on the run from the Twitter police - he/him - writer, shark enthusiast, and #1 Waluigi stan",
+			"description": "Dylan - on the run from the Twitter police - he/him - writer, shark enthusiast, and #1 Davepetasprite stan",
 			"url": "https://t.co/vCDRSrCjaK",
 			"entities": {
 				"url": {
@@ -25658,16 +25505,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 219,
-			"friends_count": 1070,
-			"listed_count": 0,
+			"followers_count": 255,
+			"friends_count": 1137,
+			"listed_count": 2,
 			"created_at": "Tue Oct 11 02:33:16 +0000 2016",
-			"favourites_count": 114467,
+			"favourites_count": 119837,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 15365,
+			"statuses_count": 16468,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25676,10 +25523,10 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1046794012999454722/ZTqhh6Tz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046794012999454722/ZTqhh6Tz_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057981248793165824/iZGubTBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057981248793165824/iZGubTBl_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785669567045636096/1503163793",
-			"profile_link_color": "5EA55F",
+			"profile_link_color": "ABB8C2",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
@@ -25732,7 +25579,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -25753,16 +25600,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25827,7 +25674,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -25848,16 +25695,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26031,16 +25878,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1053197,
+			"followers_count": 1088204,
 			"friends_count": 1,
-			"listed_count": 9635,
+			"listed_count": 9864,
 			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
-			"favourites_count": 10452,
+			"favourites_count": 10421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 197770,
+			"statuses_count": 201963,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26070,8 +25917,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 157,
-		"favorite_count": 812,
+		"retweet_count": 161,
+		"favorite_count": 832,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -26184,7 +26031,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -26205,16 +26052,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26366,7 +26213,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -26387,16 +26234,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26540,7 +26387,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -26561,16 +26408,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26601,7 +26448,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -26636,7 +26483,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -26657,16 +26504,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26697,7 +26544,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -26731,7 +26578,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -26752,16 +26599,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26826,7 +26673,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -26847,16 +26694,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26999,7 +26846,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -27020,16 +26867,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27060,7 +26907,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -27106,7 +26953,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -27127,16 +26974,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27212,7 +27059,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -27233,16 +27080,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 282,
-			"friends_count": 311,
-			"listed_count": 0,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14296,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14688,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27273,7 +27120,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -27385,7 +27232,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "SecretNarcissist",
 			"screen_name": "SecretNarc",
 			"location": "Heaven",
-			"description": "Lee | ⚠️ OFFENSIVE+18 ⚠️ | Artist | Suicide Siblings Creator | 💕 Wife: @Lemonpoppyseeds | Pretty big deal ✨ | BannerArt: @Mz_Krai",
+			"description": "Lee | ⚠️ OFFENSIVE+18 ⚠️ | Artist | Suicide Siblings Creator | Pretty big deal ✨ | Icon: @Blue_Breed | Banner Art: @Mz_Krai",
 			"url": "https://t.co/LVC9Eo6pkv",
 			"entities": {
 				"url": {
@@ -27406,16 +27253,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11510,
-			"friends_count": 472,
-			"listed_count": 29,
+			"followers_count": 11753,
+			"friends_count": 372,
+			"listed_count": 30,
 			"created_at": "Fri Jan 29 01:34:28 +0000 2016",
-			"favourites_count": 11377,
+			"favourites_count": 11992,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 10160,
+			"statuses_count": 10470,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27424,8 +27271,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1046790155804266497/hTBTFOHs_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046790155804266497/hTBTFOHs_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065173526305484800/lzXZLv2i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065173526305484800/lzXZLv2i_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4828192172/1525128475",
 			"profile_link_color": "F58EA8",
 			"profile_sidebar_border_color": "000000",
@@ -27445,8 +27292,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 312,
-		"favorite_count": 2834,
+		"retweet_count": 374,
+		"favorite_count": 3426,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -27491,7 +27338,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -27512,16 +27359,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 309,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14267,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14663,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27695,16 +27542,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 426449,
-				"friends_count": 266,
-				"listed_count": 1657,
+				"followers_count": 424211,
+				"friends_count": 267,
+				"listed_count": 1646,
 				"created_at": "Tue Jan 06 22:53:55 +0000 2009",
 				"favourites_count": 1055,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 7762,
+				"statuses_count": 7834,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -27734,8 +27581,8 @@ Grailbird.data.tweets_2018_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 5,
-			"favorite_count": 62,
+			"retweet_count": 6,
+			"favorite_count": 61,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -27876,16 +27723,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1325,
+			"followers_count": 1375,
 			"friends_count": 664,
-			"listed_count": 39,
+			"listed_count": 41,
 			"created_at": "Sat Sep 05 00:55:38 +0000 2015",
-			"favourites_count": 39671,
+			"favourites_count": 40614,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 120,
+			"statuses_count": 181,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27894,8 +27741,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1045441619040714752/n55HEB7m_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045441619040714752/n55HEB7m_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058255396459040768/oeBh62kO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058255396459040768/oeBh62kO_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3453825554/1537333333",
 			"profile_link_color": "A1A1A1",
 			"profile_sidebar_border_color": "000000",
@@ -27915,8 +27762,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9,
-		"favorite_count": 43,
+		"retweet_count": 11,
+		"favorite_count": 72,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -28026,27 +27873,40 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 4440204382,
 			"id_str": "4440204382",
-			"name": "Cassie, but 👁👄👁",
+			"name": "Cassie @ KermitCon🐸",
 			"screen_name": "cas_lackey",
 			"location": "",
 			"description": "Storyboard/Sequential Artist / SCAD / 20 / call me hotdog/ original creator of Kermit-San",
-			"url": null,
+			"url": "https://t.co/zQIWLG2BjM",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zQIWLG2BjM",
+							"expanded_url": "https://cassielackeyoffici.wixsite.com/curioscurio",
+							"display_url": "cassielackeyoffici.wixsite.com/curioscurio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 2713,
-			"friends_count": 121,
-			"listed_count": 11,
+			"followers_count": 4013,
+			"friends_count": 131,
+			"listed_count": 13,
 			"created_at": "Thu Dec 10 18:25:16 +0000 2015",
-			"favourites_count": 1495,
+			"favourites_count": 1632,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1741,
+			"statuses_count": 1965,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28055,9 +27915,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": null,
 			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/954550082862534656/8dW7R07L_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954550082862534656/8dW7R07L_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4440204382/1516417451",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056401511952068609/OHq6APuN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056401511952068609/OHq6APuN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4440204382/1540700703",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -28076,8 +27936,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 390,
-		"favorite_count": 1011,
+		"retweet_count": 769,
+		"favorite_count": 1950,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -28221,7 +28081,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -28242,16 +28102,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 309,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14267,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14663,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28317,7 +28177,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -28338,16 +28198,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 309,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14267,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14663,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28412,7 +28272,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -28433,16 +28293,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 309,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14267,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14663,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28495,7 +28355,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "aDreamGazer",
-					"name": "Julia💖🌙",
+					"name": "Jules💖🌙",
 					"id": 3130901105,
 					"id_str": "3130901105",
 					"indices": [
@@ -28518,7 +28378,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -28539,16 +28399,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 309,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14267,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14663,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28691,7 +28551,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -28712,16 +28572,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 309,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14267,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14663,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28787,7 +28647,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -28808,16 +28668,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 309,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14267,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14663,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28968,16 +28828,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5839,
+			"followers_count": 5790,
 			"friends_count": 1,
-			"listed_count": 72,
+			"listed_count": 74,
 			"created_at": "Sun May 20 12:33:28 +0000 2018",
 			"favourites_count": 0,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3741,
+			"statuses_count": 4436,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29042,7 +28902,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -29063,16 +28923,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29148,7 +29008,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -29169,16 +29029,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29342,16 +29202,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 132,
-			"friends_count": 90,
-			"listed_count": 0,
+			"followers_count": 314,
+			"friends_count": 83,
+			"listed_count": 2,
 			"created_at": "Sun Oct 29 09:05:44 +0000 2017",
-			"favourites_count": 3101,
+			"favourites_count": 3638,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 496,
+			"statuses_count": 523,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29362,7 +29222,7 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1003602794018832385/sIoH1jcb_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003602794018832385/sIoH1jcb_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924562885719633921/1538312001",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924562885719633921/1543050459",
 			"profile_link_color": "FAB81E",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
@@ -29382,7 +29242,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 13,
-		"favorite_count": 56,
+		"favorite_count": 58,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -29526,16 +29386,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1050982,
+			"followers_count": 1088204,
 			"friends_count": 1,
-			"listed_count": 9599,
+			"listed_count": 9864,
 			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
-			"favourites_count": 10463,
+			"favourites_count": 10421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 197484,
+			"statuses_count": 201963,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29565,8 +29425,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 198,
-		"favorite_count": 981,
+		"retweet_count": 206,
+		"favorite_count": 1032,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -29601,7 +29461,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -29622,16 +29482,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29706,7 +29566,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -29727,16 +29587,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29802,7 +29662,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -29823,16 +29683,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29897,7 +29757,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -29918,16 +29778,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30091,16 +29951,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 9104,
+			"followers_count": 9980,
 			"friends_count": 60,
 			"listed_count": 16,
 			"created_at": "Mon Dec 23 17:49:12 +0000 2013",
-			"favourites_count": 323,
+			"favourites_count": 340,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1660,
+			"statuses_count": 1692,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30130,8 +29990,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 331,
-		"favorite_count": 1289,
+		"retweet_count": 357,
+		"favorite_count": 1375,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -30280,7 +30140,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -30301,16 +30161,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30453,7 +30313,7 @@ Grailbird.data.tweets_2018_10 =
 			"id_str": "3343718883",
 			"name": "fruit snack",
 			"screen_name": "yshtolas",
-			"location": "🇺🇸 to 🇬🇧",
+			"location": "",
 			"description": "Path of the wild daisy 🌼|| I ❤️my wife @millamaxwell :3c!!!",
 			"url": "https://t.co/2MyVczI6pQ",
 			"entities": {
@@ -30475,16 +30335,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 275,
-			"friends_count": 597,
-			"listed_count": 5,
+			"followers_count": 282,
+			"friends_count": 455,
+			"listed_count": 6,
 			"created_at": "Wed Jun 24 08:09:49 +0000 2015",
-			"favourites_count": 7403,
+			"favourites_count": 7737,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 42058,
+			"statuses_count": 43471,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30493,9 +30353,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1055184010639564803/IMW4MFIJ_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055184010639564803/IMW4MFIJ_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3343718883/1534106896",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064182225896382464/ym9rqUlo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064182225896382464/ym9rqUlo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3343718883/1542577831",
 			"profile_link_color": "9266CC",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
@@ -30514,8 +30374,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1428,
-		"favorite_count": 2817,
+		"retweet_count": 1430,
+		"favorite_count": 2807,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -30700,7 +30560,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -30721,16 +30581,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 307,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14653,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30874,7 +30734,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -30895,16 +30755,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14642,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31045,7 +30905,7 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 3220870224,
 			"id_str": "3220870224",
-			"name": "Ｂ ｏｏ  ｗ ｉ ｅ🕸🕷",
+			"name": "Ｂ ｏ ｗ ｉ ｅ",
 			"screen_name": "BitchAssBowie",
 			"location": "head wedged between a pair of titties",
 			"description": "vore me mommy",
@@ -31069,16 +30929,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8934,
-			"friends_count": 552,
-			"listed_count": 170,
+			"followers_count": 9095,
+			"friends_count": 561,
+			"listed_count": 180,
 			"created_at": "Wed May 20 02:07:58 +0000 2015",
-			"favourites_count": 107222,
+			"favourites_count": 109686,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 74838,
+			"statuses_count": 75500,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31087,9 +30947,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1053498024482271234/RiWhom2m_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053498024482271234/RiWhom2m_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3220870224/1540008478",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063592779631218688/kTJuwGq__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063592779631218688/kTJuwGq__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3220870224/1542755848",
 			"profile_link_color": "4A913C",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
@@ -31109,7 +30969,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 12,
-		"favorite_count": 37,
+		"favorite_count": 42,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": true,
@@ -31154,7 +31014,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -31175,16 +31035,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14642,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31250,7 +31110,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -31271,16 +31131,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14642,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31459,7 +31319,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -31480,16 +31340,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14642,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31520,7 +31380,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -31555,7 +31415,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -31576,16 +31436,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31736,7 +31596,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -31757,16 +31617,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31832,7 +31692,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -31853,16 +31713,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31927,7 +31787,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -31948,16 +31808,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32022,7 +31882,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -32043,16 +31903,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32117,7 +31977,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -32138,16 +31998,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32290,7 +32150,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -32311,16 +32171,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32351,7 +32211,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -32464,7 +32324,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -32485,16 +32345,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32525,7 +32385,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -32638,7 +32498,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -32659,16 +32519,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 306,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14637,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32699,7 +32559,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -32820,7 +32680,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -32841,16 +32701,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 304,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14628,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32916,7 +32776,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -32937,16 +32797,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 304,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14628,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33011,7 +32871,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -33032,16 +32892,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 304,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14628,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33103,10 +32963,10 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 4158116560,
 			"id_str": "4158116560",
-			"name": "اخبار العالم",
+			"name": "world news",
 			"screen_name": "Marven2233",
 			"location": "",
-			"description": "",
+			"description": "سقط القضيب عندما كان عمري ستة. Marving",
 			"url": null,
 			"entities": {
 				"description": {
@@ -33114,8 +32974,8 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 114,
-			"friends_count": 11,
+			"followers_count": 188,
+			"friends_count": 6,
 			"listed_count": 0,
 			"created_at": "Tue Nov 10 17:46:54 +0000 2015",
 			"favourites_count": 0,
@@ -33123,7 +32983,7 @@ Grailbird.data.tweets_2018_10 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14,
+			"statuses_count": 41,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33132,8 +32992,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055144832879022081/uliiIim-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055144832879022081/uliiIim-_normal.jpg",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -33141,7 +33001,7 @@ Grailbird.data.tweets_2018_10 =
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
 			"default_profile": true,
-			"default_profile_image": true,
+			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -33152,8 +33012,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 49,
-		"favorite_count": 85,
+		"retweet_count": 48,
+		"favorite_count": 88,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -33197,7 +33057,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -33218,16 +33078,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 304,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14628,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33391,16 +33251,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 277837,
-				"friends_count": 5582,
-				"listed_count": 2526,
+				"followers_count": 297754,
+				"friends_count": 5638,
+				"listed_count": 2690,
 				"created_at": "Sat Feb 22 05:04:53 +0000 2014",
-				"favourites_count": 94200,
+				"favourites_count": 101487,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 21869,
+				"statuses_count": 22602,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -33431,7 +33291,7 @@ Grailbird.data.tweets_2018_10 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1026,
-			"favorite_count": 3302,
+			"favorite_count": 3307,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -33572,16 +33432,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277837,
-			"friends_count": 5582,
-			"listed_count": 2526,
+			"followers_count": 297754,
+			"friends_count": 5638,
+			"listed_count": 2690,
 			"created_at": "Sat Feb 22 05:04:53 +0000 2014",
-			"favourites_count": 94200,
+			"favourites_count": 101487,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 21869,
+			"statuses_count": 22602,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33611,8 +33471,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 345,
-		"favorite_count": 1368,
+		"retweet_count": 353,
+		"favorite_count": 1386,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -33735,7 +33595,7 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 1010005404502384600,
 			"id_str": "1010005404502384640",
-			"name": "🎃myspookycomics🎃",
+			"name": "mysillycomics",
 			"screen_name": "mysillycomics",
 			"location": "",
 			"description": "hey it’s claire! I make little comics that make me smile :•)! |she/her| Bohug is everyone’s Friend! personal account: @queenhimikos",
@@ -33759,16 +33619,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16011,
-			"friends_count": 171,
-			"listed_count": 25,
+			"followers_count": 19096,
+			"friends_count": 211,
+			"listed_count": 35,
 			"created_at": "Fri Jun 22 03:43:48 +0000 2018",
-			"favourites_count": 1520,
+			"favourites_count": 1993,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 712,
+			"statuses_count": 911,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33777,8 +33637,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": null,
 			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1046494603086565382/QaNLamoJ_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046494603086565382/QaNLamoJ_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058242842244468736/KSalhvZW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058242842244468736/KSalhvZW_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1010005404502384640/1535255775",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
@@ -33798,95 +33658,13 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1859,
-		"favorite_count": 5079,
+		"retweet_count": 1926,
+		"favorite_count": 5191,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
 		"text": "https://t.co/26xK2RWf4B"
-	},
-	{
-		"created_at": "Thu Oct 18 12:31:31 +0000 2018",
-		"id": 1052899980116148200,
-		"id_str": "1052899980116148224",
-		"full_text": "fun fact: all of spiderman's villains are based on spiders' real life predators: robot octopus, goblin with a flying surfboard, mafia boss, sand, alien symbiote. all of them",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			173
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 511406840,
-			"id_str": "511406840",
-			"name": "ann",
-			"screen_name": "omically",
-			"location": "Canada",
-			"description": "a person, a place, AND a thing",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 4465,
-			"friends_count": 724,
-			"listed_count": 170,
-			"created_at": "Fri Mar 02 05:18:58 +0000 2012",
-			"favourites_count": 126902,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 66145,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "BADFCD",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1023209457512316929/qff_grxd_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023209457512316929/qff_grxd_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/511406840/1501984872",
-			"profile_link_color": "0099FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFF7CC",
-			"profile_text_color": "0C3E53",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "regular"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 7251,
-		"favorite_count": 26685,
-		"favorited": true,
-		"retweeted": true,
-		"lang": "en",
-		"text": "fun fact: all of spiderman's villains are based on spiders' real life predators: robot octopus, goblin with a flying surfboard, mafia boss, sand, alien symbiote. all of them"
 	},
 	{
 		"created_at": "Fri Oct 19 15:53:41 +0000 2018",
@@ -33913,7 +33691,7 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 1034894952180981800,
 			"id_str": "1034894952180981761",
-			"name": "AleX-Files 🎃",
+			"name": "Alex",
 			"screen_name": "TheTasteOfALiar",
 			"location": "McKinney, TX",
 			"description": "I didn't play videogames until 2006 and look where that got me",
@@ -33937,16 +33715,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 511,
-			"friends_count": 218,
-			"listed_count": 2,
+			"followers_count": 1267,
+			"friends_count": 240,
+			"listed_count": 16,
 			"created_at": "Wed Aug 29 20:05:58 +0000 2018",
-			"favourites_count": 4658,
+			"favourites_count": 9900,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
+			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2227,
+			"statuses_count": 4390,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33955,8 +33733,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1049174677967568896/sJ9ofBYi_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049174677967568896/sJ9ofBYi_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058462475845279744/0wwpiZZa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058462475845279744/0wwpiZZa_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034894952180981761/1535576001",
 			"profile_link_color": "638AC5",
 			"profile_sidebar_border_color": "000000",
@@ -33976,8 +33754,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4657,
-		"favorite_count": 13206,
+		"retweet_count": 4850,
+		"favorite_count": 13724,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -34089,7 +33867,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -34110,16 +33888,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34185,7 +33963,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -34206,16 +33984,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34389,7 +34167,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -34410,16 +34188,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34594,7 +34372,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -34615,16 +34393,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34690,7 +34468,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -34711,16 +34489,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34785,7 +34563,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -34806,16 +34584,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34997,16 +34775,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1503,
-			"friends_count": 124,
-			"listed_count": 18,
+			"followers_count": 1528,
+			"friends_count": 128,
+			"listed_count": 20,
 			"created_at": "Tue Jul 27 00:57:20 +0000 2010",
-			"favourites_count": 12271,
+			"favourites_count": 12395,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4028,
+			"statuses_count": 4079,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35038,7 +34816,7 @@ Grailbird.data.tweets_2018_10 =
 		"is_quote_status": false,
 		"retweet_count": 27,
 		"favorite_count": 50,
-		"favorited": true,
+		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
@@ -35093,7 +34871,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -35114,16 +34892,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35189,7 +34967,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -35210,16 +34988,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35375,7 +35153,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Louie Zong",
 			"screen_name": "everydaylouie",
 			"location": "Burbank, CA",
-			"description": "24 // happy illustrator and musician // board artist on we bare bears // he/him // let's be friends! // icon by @Salmikawolf",
+			"description": "25 // happy illustrator and musician // board artist on we bare bears // he/him // let's be friends! // icon by @Salmikawolf",
 			"url": "https://t.co/h05TKBc5rg",
 			"entities": {
 				"url": {
@@ -35396,16 +35174,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 123626,
-			"friends_count": 625,
-			"listed_count": 763,
+			"followers_count": 140117,
+			"friends_count": 639,
+			"listed_count": 826,
 			"created_at": "Sun Mar 09 21:03:45 +0000 2014",
-			"favourites_count": 15450,
+			"favourites_count": 15945,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 7107,
+			"statuses_count": 7313,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35435,8 +35213,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1642,
-		"favorite_count": 7785,
+		"retweet_count": 1680,
+		"favorite_count": 7992,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -35471,7 +35249,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -35492,16 +35270,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35652,7 +35430,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -35673,16 +35451,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35748,7 +35526,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -35769,16 +35547,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35921,7 +35699,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -35942,16 +35720,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36103,7 +35881,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -36124,16 +35902,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 301,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14243,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14619,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36308,7 +36086,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -36330,15 +36108,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36369,7 +36147,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -36404,7 +36182,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -36426,15 +36204,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36585,7 +36363,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -36607,15 +36385,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36681,7 +36459,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -36703,15 +36481,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36854,7 +36632,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -36876,15 +36654,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37075,16 +36853,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1178,
-			"friends_count": 370,
+			"followers_count": 1181,
+			"friends_count": 362,
 			"listed_count": 30,
 			"created_at": "Fri Apr 24 07:13:50 +0000 2015",
-			"favourites_count": 84869,
+			"favourites_count": 85002,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 9901,
+			"statuses_count": 9895,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37114,8 +36892,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2181,
-		"favorite_count": 6054,
+		"retweet_count": 2187,
+		"favorite_count": 6107,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -37150,7 +36928,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -37172,15 +36950,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37352,16 +37130,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 238067,
-			"friends_count": 244,
-			"listed_count": 2076,
+			"followers_count": 247577,
+			"friends_count": 255,
+			"listed_count": 2188,
 			"created_at": "Tue Dec 08 16:26:01 +0000 2015",
-			"favourites_count": 3053,
+			"favourites_count": 3192,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 982,
+			"statuses_count": 1042,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37391,8 +37169,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2711,
-		"favorite_count": 11950,
+		"retweet_count": 4268,
+		"favorite_count": 19011,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -37513,7 +37291,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -37535,15 +37313,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37609,7 +37387,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -37631,15 +37409,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37704,7 +37482,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -37726,15 +37504,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37784,18 +37562,7 @@ Grailbird.data.tweets_2018_10 =
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
@@ -37810,7 +37577,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -37832,15 +37599,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37871,7 +37638,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -37905,7 +37672,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -37927,15 +37694,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14605,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38099,16 +37866,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1809,
-			"friends_count": 296,
-			"listed_count": 10,
+			"followers_count": 2371,
+			"friends_count": 377,
+			"listed_count": 21,
 			"created_at": "Fri Dec 22 21:51:51 +0000 2017",
-			"favourites_count": 35924,
+			"favourites_count": 46095,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 11997,
+			"statuses_count": 16093,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38117,8 +37884,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": null,
 			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1048315129820012550/svuEJYwC_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048315129820012550/svuEJYwC_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054842856513433600/llVSLQbE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054842856513433600/llVSLQbE_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944324631237931016/1534641779",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
@@ -38128,7 +37895,7 @@ Grailbird.data.tweets_2018_10 =
 			"has_extended_profile": false,
 			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -38138,8 +37905,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1255,
-		"favorite_count": 2769,
+		"retweet_count": 1719,
+		"favorite_count": 3925,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -38159,207 +37926,6 @@ Grailbird.data.tweets_2018_10 =
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": 882313185050722300,
-		"in_reply_to_user_id_str": "882313185050722305",
-		"in_reply_to_screen_name": "Mangkral",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14605,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@Mangkral hey man sorry i didnt reply to your tweet earlier been a bit busy id totally be down to do some stuff with u"
-	},
-	{
-		"created_at": "Thu Oct 18 22:04:44 +0000 2018",
-		"id": 1053044234541039600,
-		"id_str": "1053044234541039616",
-		"full_text": "I listen to it like constantly now. Like ill just listen to it whenever i have something to do its wild",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			103
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1053044232422903800,
-		"in_reply_to_status_id_str": "1053044232422903808",
-		"in_reply_to_user_id": 2528303382,
-		"in_reply_to_user_id_str": "2528303382",
-		"in_reply_to_screen_name": "watahbufala",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14605,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "I listen to it like constantly now. Like ill just listen to it whenever i have something to do its wild"
-	},
-	{
-		"created_at": "Thu Oct 18 22:04:44 +0000 2018",
-		"id": 1053044232422903800,
-		"id_str": "1053044232422903808",
-		"full_text": "I really really like dopesmoker. Like holy fuck these hypnotic riffs are fucking great",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			86
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
@@ -38375,7 +37941,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -38397,295 +37963,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 300,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14242,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14605,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "I really really like dopesmoker. Like holy fuck these hypnotic riffs are fucking great"
-	},
-	{
-		"created_at": "Thu Oct 18 20:56:29 +0000 2018",
-		"id": 1053027055837831200,
-		"id_str": "1053027055837831168",
-		"full_text": "never forget homestucks on russian ikea https://t.co/9WCaqsWjSs",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			39
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1053027051639369700,
-					"id_str": "1053027051639369728",
-					"indices": [
-						40,
-						63
-					],
-					"media_url": "http://pbs.twimg.com/media/Dp0ahjfXcAA1Rir.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dp0ahjfXcAA1Rir.jpg",
-					"url": "https://t.co/9WCaqsWjSs",
-					"display_url": "pic.twitter.com/9WCaqsWjSs",
-					"expanded_url": "https://twitter.com/sburbd/status/1053027055837831168/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1011,
-							"h": 599,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1011,
-							"h": 599,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 403,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1053027051639369700,
-					"id_str": "1053027051639369728",
-					"indices": [
-						40,
-						63
-					],
-					"media_url": "http://pbs.twimg.com/media/Dp0ahjfXcAA1Rir.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dp0ahjfXcAA1Rir.jpg",
-					"url": "https://t.co/9WCaqsWjSs",
-					"display_url": "pic.twitter.com/9WCaqsWjSs",
-					"expanded_url": "https://twitter.com/sburbd/status/1053027055837831168/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1011,
-							"h": 599,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1011,
-							"h": 599,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 403,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 944324631237931000,
-			"id_str": "944324631237931016",
-			"name": "peak homestuck",
-			"screen_name": "sburbd",
-			"location": "zich • 21 • he/him",
-			"description": "Homestuck? in MY 2018?                                                                     \nIt’s more likely than you think.",
-			"url": "https://t.co/oO47cVzU0d",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/oO47cVzU0d",
-							"expanded_url": "http://sburbd.carrd.co",
-							"display_url": "sburbd.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 1759,
-			"friends_count": 294,
+			"friends_count": 330,
 			"listed_count": 10,
-			"created_at": "Fri Dec 22 21:51:51 +0000 2017",
-			"favourites_count": 35650,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 11899,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "F5F8FA",
-			"profile_background_image_url": null,
-			"profile_background_image_url_https": null,
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1048315129820012550/svuEJYwC_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048315129820012550/svuEJYwC_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944324631237931016/1534641779",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 244,
-		"favorite_count": 513,
-		"favorited": true,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "never forget homestucks on russian ikea https://t.co/9WCaqsWjSs"
-	},
-	{
-		"created_at": "Thu Oct 18 22:22:50 +0000 2018",
-		"id": 1053048786652672000,
-		"id_str": "1053048786652672000",
-		"full_text": "@Mangkral hey man sorry i didnt reply to your tweet earlier been a bit busy id totally be down to do some stuff with u",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			118
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": 882313185050722300,
-		"in_reply_to_user_id_str": "882313185050722305",
-		"in_reply_to_screen_name": "Mangkral",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14592,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38750,7 +38036,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -38771,16 +38057,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14592,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38845,7 +38131,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -38866,16 +38152,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14592,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38940,7 +38226,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -38961,16 +38247,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14592,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39035,7 +38321,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -39056,16 +38342,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14592,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39096,7 +38382,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -39208,7 +38494,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -39229,16 +38515,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14592,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39304,7 +38590,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -39325,16 +38611,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14592,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39365,7 +38651,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -39534,16 +38820,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1623,
-			"friends_count": 165,
+			"followers_count": 1799,
+			"friends_count": 171,
 			"listed_count": 2,
 			"created_at": "Thu Jun 15 03:48:39 +0000 2017",
-			"favourites_count": 3106,
+			"favourites_count": 3329,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1687,
+			"statuses_count": 1858,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39573,3827 +38859,13 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 36,
-		"favorite_count": 265,
+		"retweet_count": 35,
+		"favorite_count": 275,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "how much should i charge for an 8x10in oil painting? here's some examples of my work https://t.co/8j5Q1GaArk"
-	},
-	{
-		"created_at": "Thu Oct 18 10:18:21 +0000 2018",
-		"id": 1052866467606265900,
-		"id_str": "1052866467606265856",
-		"full_text": "Ita also really comfy and now irs prettu broken in as well",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			58
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1052866217705271300,
-		"in_reply_to_status_id_str": "1052866217705271296",
-		"in_reply_to_user_id": 2528303382,
-		"in_reply_to_user_id_str": "2528303382",
-		"in_reply_to_screen_name": "watahbufala",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14592,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Ita also really comfy and now irs prettu broken in as well"
-	},
-	{
-		"created_at": "Thu Oct 18 10:17:22 +0000 2018",
-		"id": 1052866217705271300,
-		"id_str": "1052866217705271296",
-		"full_text": "My denim jacket is sooo cool i cant wait to have patches all over it",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			68
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14592,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "My denim jacket is sooo cool i cant wait to have patches all over it"
-	},
-	{
-		"created_at": "Thu Oct 18 09:20:05 +0000 2018",
-		"id": 1052851803954372600,
-		"id_str": "1052851803954372608",
-		"full_text": "https://t.co/U0rcx4HWgh",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			0
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1052851800334843900,
-					"id_str": "1052851800334843905",
-					"indices": [
-						0,
-						23
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpx7IlgWwAENd4g.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpx7IlgWwAENd4g.jpg",
-					"url": "https://t.co/U0rcx4HWgh",
-					"display_url": "pic.twitter.com/U0rcx4HWgh",
-					"expanded_url": "https://twitter.com/archillect/status/1052851803954372608/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1280,
-							"h": 913,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 485,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 856,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1052851800334843900,
-					"id_str": "1052851800334843905",
-					"indices": [
-						0,
-						23
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpx7IlgWwAENd4g.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpx7IlgWwAENd4g.jpg",
-					"url": "https://t.co/U0rcx4HWgh",
-					"display_url": "pic.twitter.com/U0rcx4HWgh",
-					"expanded_url": "https://twitter.com/archillect/status/1052851803954372608/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1280,
-							"h": 913,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 485,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 856,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://machinu.net\" rel=\"nofollow\">Archillect</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2907774137,
-			"id_str": "2907774137",
-			"name": "Archillect",
-			"screen_name": "archillect",
-			"location": "Meta",
-			"description": "The ocular engine. \nSources: @archillinks\nhttps://t.co/U7Oh7xumQp",
-			"url": "https://t.co/NHrqWFz6UM",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/NHrqWFz6UM",
-							"expanded_url": "http://instagram.com/archillect.png",
-							"display_url": "instagram.com/archillect.png",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/U7Oh7xumQp",
-							"expanded_url": "http://archillect.com",
-							"display_url": "archillect.com",
-							"indices": [
-								42,
-								65
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 1043849,
-			"friends_count": 1,
-			"listed_count": 9530,
-			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
-			"favourites_count": 10468,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 196626,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "050505",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2907774137/1418102176",
-			"profile_link_color": "191919",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 498,
-		"favorite_count": 2448,
-		"favorited": true,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "und",
-		"text": "https://t.co/U0rcx4HWgh"
-	},
-	{
-		"created_at": "Thu Oct 18 09:32:12 +0000 2018",
-		"id": 1052854850512400400,
-		"id_str": "1052854850512400384",
-		"full_text": "I just ordered this and it's gonna take forever to come but like im so excited https://t.co/RvrDDwKK7D",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			78
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1052854840500486100,
-					"id_str": "1052854840500486145",
-					"indices": [
-						79,
-						102
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpx95jAVAAEN2gR.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpx95jAVAAEN2gR.jpg",
-					"url": "https://t.co/RvrDDwKK7D",
-					"display_url": "pic.twitter.com/RvrDDwKK7D",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052854850512400384/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1080,
-							"h": 1108,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1080,
-							"h": 1108,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 663,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1052854840500486100,
-					"id_str": "1052854840500486145",
-					"indices": [
-						79,
-						102
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpx95jAVAAEN2gR.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpx95jAVAAEN2gR.jpg",
-					"url": "https://t.co/RvrDDwKK7D",
-					"display_url": "pic.twitter.com/RvrDDwKK7D",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052854850512400384/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1080,
-							"h": 1108,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1080,
-							"h": 1108,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 663,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14592,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "I just ordered this and it's gonna take forever to come but like im so excited https://t.co/RvrDDwKK7D"
-	},
-	{
-		"created_at": "Thu Oct 18 08:52:39 +0000 2018",
-		"id": 1052844899501047800,
-		"id_str": "1052844899501047808",
-		"full_text": "@hexaes The Internet",
-		"truncated": false,
-		"display_text_range": [
-			8,
-			20
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "hexaes",
-					"name": "hexy",
-					"id": 723448111025119200,
-					"id_str": "723448111025119232",
-					"indices": [
-						0,
-						7
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1052844288134938600,
-		"in_reply_to_status_id_str": "1052844288134938624",
-		"in_reply_to_user_id": 723448111025119200,
-		"in_reply_to_user_id_str": "723448111025119232",
-		"in_reply_to_screen_name": "hexaes",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14592,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@hexaes The Internet"
-	},
-	{
-		"created_at": "Thu Oct 18 07:36:22 +0000 2018",
-		"id": 1052825700925886500,
-		"id_str": "1052825700925886464",
-		"full_text": "Wow i slept really well good job Dan",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			36
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 299,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14232,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14592,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Wow i slept really well good job Dan"
-	},
-	{
-		"created_at": "Wed Oct 17 22:51:09 +0000 2018",
-		"id": 1052693524951523300,
-		"id_str": "1052693524951523328",
-		"full_text": "Its pretty and probably has cool meaning. Purple is good. Also like. I like it for some emotional gay reasons",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			109
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1052693333179543600,
-		"in_reply_to_status_id_str": "1052693333179543553",
-		"in_reply_to_user_id": 2528303382,
-		"in_reply_to_user_id_str": "2528303382",
-		"in_reply_to_screen_name": "watahbufala",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14577,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Its pretty and probably has cool meaning. Purple is good. Also like. I like it for some emotional gay reasons"
-	},
-	{
-		"created_at": "Wed Oct 17 22:50:23 +0000 2018",
-		"id": 1052693333179543600,
-		"id_str": "1052693333179543553",
-		"full_text": "I whole heartedly fuck with amethyst. It looks hecking epic https://t.co/k53ENzEjdo",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			59
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1052693234466590700,
-					"id_str": "1052693234466590721",
-					"indices": [
-						60,
-						83
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpvq61nWkAEcuzn.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpvq61nWkAEcuzn.jpg",
-					"url": "https://t.co/k53ENzEjdo",
-					"display_url": "pic.twitter.com/k53ENzEjdo",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052693333179543553/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1080,
-							"h": 1080,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1080,
-							"h": 1080,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1052693234466590700,
-					"id_str": "1052693234466590721",
-					"indices": [
-						60,
-						83
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpvq61nWkAEcuzn.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpvq61nWkAEcuzn.jpg",
-					"url": "https://t.co/k53ENzEjdo",
-					"display_url": "pic.twitter.com/k53ENzEjdo",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052693333179543553/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1080,
-							"h": 1080,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1080,
-							"h": 1080,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14577,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "I whole heartedly fuck with amethyst. It looks hecking epic https://t.co/k53ENzEjdo"
-	},
-	{
-		"created_at": "Wed Oct 17 17:48:22 +0000 2018",
-		"id": 1052617329828229100,
-		"id_str": "1052617329828229120",
-		"full_text": "Sculptures by American Artist Scott Radke 🎃 https://t.co/RYoGqAwYo0",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			43
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1052617289873416200,
-					"id_str": "1052617289873416192",
-					"indices": [
-						44,
-						67
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpul2R9W4AA8NcX.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpul2R9W4AA8NcX.jpg",
-					"url": "https://t.co/RYoGqAwYo0",
-					"display_url": "pic.twitter.com/RYoGqAwYo0",
-					"expanded_url": "https://twitter.com/41Strange/status/1052617329828229120/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 422,
-							"h": 762,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 377,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 422,
-							"h": 762,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1052617289873416200,
-					"id_str": "1052617289873416192",
-					"indices": [
-						44,
-						67
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpul2R9W4AA8NcX.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpul2R9W4AA8NcX.jpg",
-					"url": "https://t.co/RYoGqAwYo0",
-					"display_url": "pic.twitter.com/RYoGqAwYo0",
-					"expanded_url": "https://twitter.com/41Strange/status/1052617329828229120/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 422,
-							"h": 762,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 377,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 422,
-							"h": 762,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 1052617289927934000,
-					"id_str": "1052617289927933954",
-					"indices": [
-						44,
-						67
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpul2SKWwAIqO6Q.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpul2SKWwAIqO6Q.jpg",
-					"url": "https://t.co/RYoGqAwYo0",
-					"display_url": "pic.twitter.com/RYoGqAwYo0",
-					"expanded_url": "https://twitter.com/41Strange/status/1052617329828229120/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 445,
-							"h": 640,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 445,
-							"h": 640,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 445,
-							"h": 640,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 1052617289902768100,
-					"id_str": "1052617289902768130",
-					"indices": [
-						44,
-						67
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpul2SEWwAIkbiK.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpul2SEWwAIkbiK.jpg",
-					"url": "https://t.co/RYoGqAwYo0",
-					"display_url": "pic.twitter.com/RYoGqAwYo0",
-					"expanded_url": "https://twitter.com/41Strange/status/1052617329828229120/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 578,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 750,
-							"h": 638,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 750,
-							"h": 638,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 1052617289948905500,
-					"id_str": "1052617289948905472",
-					"indices": [
-						44,
-						67
-					],
-					"media_url": "http://pbs.twimg.com/media/Dpul2SPWwAAgmgD.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dpul2SPWwAAgmgD.jpg",
-					"url": "https://t.co/RYoGqAwYo0",
-					"display_url": "pic.twitter.com/RYoGqAwYo0",
-					"expanded_url": "https://twitter.com/41Strange/status/1052617329828229120/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 543,
-							"h": 700,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 527,
-							"h": 680,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 543,
-							"h": 700,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2355808260,
-			"id_str": "2355808260",
-			"name": "41 Strange",
-			"screen_name": "41Strange",
-			"location": "Hollywood, CA",
-			"description": "Horror short stories bestseller out now",
-			"url": "https://t.co/lApirIcxFC",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/lApirIcxFC",
-							"expanded_url": "https://41strange.wordpress.com",
-							"display_url": "41strange.wordpress.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 275321,
-			"friends_count": 5577,
-			"listed_count": 0,
-			"created_at": "Sat Feb 22 05:04:53 +0000 2014",
-			"favourites_count": 93203,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 21790,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "080403",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2355808260/1405535968",
-			"profile_link_color": "CC3366",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "99CC33",
-			"profile_text_color": "3E4415",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "regular"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 259,
-		"favorite_count": 1044,
-		"favorited": true,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Sculptures by American Artist Scott Radke 🎃 https://t.co/RYoGqAwYo0"
-	},
-	{
-		"created_at": "Wed Oct 17 17:52:58 +0000 2018",
-		"id": 1052618484390211600,
-		"id_str": "1052618484390211584",
-		"full_text": "Knuckles is the best sonic character fight me",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			45
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14577,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Knuckles is the best sonic character fight me"
-	},
-	{
-		"created_at": "Wed Oct 17 15:39:18 +0000 2018",
-		"id": 1052584848437567500,
-		"id_str": "1052584848437567488",
-		"full_text": "@Mangkral Hey id do it",
-		"truncated": false,
-		"display_text_range": [
-			10,
-			22
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1052363546414248000,
-		"in_reply_to_status_id_str": "1052363546414247942",
-		"in_reply_to_user_id": 882313185050722300,
-		"in_reply_to_user_id_str": "882313185050722305",
-		"in_reply_to_screen_name": "Mangkral",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14577,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@Mangkral Hey id do it"
-	},
-	{
-		"created_at": "Wed Oct 17 15:38:15 +0000 2018",
-		"id": 1052584583550652400,
-		"id_str": "1052584583550652416",
-		"full_text": "We doin it https://t.co/rAtebqh1dA",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			10
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1052584580442509300,
-					"id_str": "1052584580442509313",
-					"indices": [
-						11,
-						34
-					],
-					"media_url": "http://pbs.twimg.com/media/DpuIGV1UUAENNDz.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpuIGV1UUAENNDz.jpg",
-					"url": "https://t.co/rAtebqh1dA",
-					"display_url": "pic.twitter.com/rAtebqh1dA",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052584583550652416/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 1078,
-							"h": 477,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1078,
-							"h": 477,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 301,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1052584580442509300,
-					"id_str": "1052584580442509313",
-					"indices": [
-						11,
-						34
-					],
-					"media_url": "http://pbs.twimg.com/media/DpuIGV1UUAENNDz.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpuIGV1UUAENNDz.jpg",
-					"url": "https://t.co/rAtebqh1dA",
-					"display_url": "pic.twitter.com/rAtebqh1dA",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052584583550652416/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 1078,
-							"h": 477,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1078,
-							"h": 477,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 301,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14577,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "We doin it https://t.co/rAtebqh1dA"
-	},
-	{
-		"created_at": "Wed Oct 17 10:08:13 +0000 2018",
-		"id": 1052501528014028800,
-		"id_str": "1052501528014028800",
-		"full_text": "More fuzz/overdrive stacking https://t.co/EY6mZGiZO6",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			28
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1052501397936070700,
-					"id_str": "1052501397936070657",
-					"indices": [
-						29,
-						52
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052501397936070657/pu/img/O38JTRDJXOLve-lX.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052501397936070657/pu/img/O38JTRDJXOLve-lX.jpg",
-					"url": "https://t.co/EY6mZGiZO6",
-					"display_url": "pic.twitter.com/EY6mZGiZO6",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052501528014028800/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1052501397936070700,
-					"id_str": "1052501397936070657",
-					"indices": [
-						29,
-						52
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052501397936070657/pu/img/O38JTRDJXOLve-lX.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052501397936070657/pu/img/O38JTRDJXOLve-lX.jpg",
-					"url": "https://t.co/EY6mZGiZO6",
-					"display_url": "pic.twitter.com/EY6mZGiZO6",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052501528014028800/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							9,
-							16
-						],
-						"duration_millis": 56749,
-						"variants": [
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1052501397936070657/pu/vid/360x640/uzWFoe8KAF_oRbpG.mp4?tag=5"
-							},
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/ext_tw_video/1052501397936070657/pu/pl/46O3dr7P4_ihUiaL.m3u8?tag=5"
-							},
-							{
-								"bitrate": 256000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1052501397936070657/pu/vid/180x320/aNuiSFqijemIOu05.mp4?tag=5"
-							},
-							{
-								"bitrate": 2176000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1052501397936070657/pu/vid/612x1088/-Z3eJfq66W57B8Ni.mp4?tag=5"
-							}
-						]
-					},
-					"additional_media_info": {
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14577,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "More fuzz/overdrive stacking https://t.co/EY6mZGiZO6"
-	},
-	{
-		"created_at": "Tue Oct 16 23:09:04 +0000 2018",
-		"id": 1052335646357028900,
-		"id_str": "1052335646357028864",
-		"full_text": "All improv of course",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			20
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1052335611074342900,
-		"in_reply_to_status_id_str": "1052335611074342914",
-		"in_reply_to_user_id": 2528303382,
-		"in_reply_to_user_id_str": "2528303382",
-		"in_reply_to_screen_name": "watahbufala",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14571,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "All improv of course"
-	},
-	{
-		"created_at": "Tue Oct 16 23:08:55 +0000 2018",
-		"id": 1052335611074342900,
-		"id_str": "1052335611074342914",
-		"full_text": "Also. Id fucking love to write a harsh noise album under the influence of lsd",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			77
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14571,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Also. Id fucking love to write a harsh noise album under the influence of lsd"
-	},
-	{
-		"created_at": "Tue Oct 16 23:08:24 +0000 2018",
-		"id": 1052335479805366300,
-		"id_str": "1052335479805366273",
-		"full_text": "@Mangkral Yeah sure why not",
-		"truncated": false,
-		"display_text_range": [
-			10,
-			27
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1052171073641427000,
-		"in_reply_to_status_id_str": "1052171073641426945",
-		"in_reply_to_user_id": 882313185050722300,
-		"in_reply_to_user_id_str": "882313185050722305",
-		"in_reply_to_screen_name": "Mangkral",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14571,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@Mangkral Yeah sure why not"
-	},
-	{
-		"created_at": "Tue Oct 16 23:08:02 +0000 2018",
-		"id": 1052335388428243000,
-		"id_str": "1052335388428242944",
-		"full_text": "Ive got a good girlfriend",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			25
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14571,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Ive got a good girlfriend"
-	},
-	{
-		"created_at": "Tue Oct 16 23:07:17 +0000 2018",
-		"id": 1052335198984114200,
-		"id_str": "1052335198984114176",
-		"full_text": "Been writing some stuff and decided i wanna make a ep full of stuff ive been working on. Decides it needs a noise track so now im making noise music woo",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			152
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1052335194131259400,
-		"in_reply_to_status_id_str": "1052335194131259392",
-		"in_reply_to_user_id": 2528303382,
-		"in_reply_to_user_id_str": "2528303382",
-		"in_reply_to_screen_name": "watahbufala",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14571,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Been writing some stuff and decided i wanna make a ep full of stuff ive been working on. Decides it needs a noise track so now im making noise music woo"
-	},
-	{
-		"created_at": "Tue Oct 16 23:07:16 +0000 2018",
-		"id": 1052335194131259400,
-		"id_str": "1052335194131259392",
-		"full_text": "I made a noise track???? https://t.co/x6fmFHWqeL",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			24
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1052335141534748700,
-					"id_str": "1052335141534748672",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052335141534748672/pu/img/e4TxAEDgQFGOviVx.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052335141534748672/pu/img/e4TxAEDgQFGOviVx.jpg",
-					"url": "https://t.co/x6fmFHWqeL",
-					"display_url": "pic.twitter.com/x6fmFHWqeL",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052335194131259392/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 720,
-							"h": 1280,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 675,
-							"h": 1200,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1052335141534748700,
-					"id_str": "1052335141534748672",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052335141534748672/pu/img/e4TxAEDgQFGOviVx.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052335141534748672/pu/img/e4TxAEDgQFGOviVx.jpg",
-					"url": "https://t.co/x6fmFHWqeL",
-					"display_url": "pic.twitter.com/x6fmFHWqeL",
-					"expanded_url": "https://twitter.com/watahbufala/status/1052335194131259392/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 720,
-							"h": 1280,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 675,
-							"h": 1200,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							9,
-							16
-						],
-						"duration_millis": 10931,
-						"variants": [
-							{
-								"bitrate": 2176000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1052335141534748672/pu/vid/720x1280/rwt6cpzcxq-O0c2j.mp4?tag=5"
-							},
-							{
-								"bitrate": 256000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1052335141534748672/pu/vid/180x320/H5cKL6NxSHCR7P77.mp4?tag=5"
-							},
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/ext_tw_video/1052335141534748672/pu/pl/ef4USYrHo1mDIupt.m3u8?tag=5"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1052335141534748672/pu/vid/360x640/a4Hy4J1ayBXZy9Q4.mp4?tag=5"
-							}
-						]
-					},
-					"additional_media_info": {
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 280,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14220,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14571,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "I made a noise track???? https://t.co/x6fmFHWqeL"
-	},
-	{
-		"created_at": "Tue Oct 16 00:40:40 +0000 2018",
-		"id": 1051996309698342900,
-		"id_str": "1051996309698342913",
-		"full_text": "Pretty sad that as we age most people try as hard as they can to avoid being sober",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			82
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14222,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14565,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Pretty sad that as we age most people try as hard as they can to avoid being sober"
-	},
-	{
-		"created_at": "Mon Oct 15 23:40:52 +0000 2018",
-		"id": 1051981262548815900,
-		"id_str": "1051981262548815873",
-		"full_text": "Stay tuned. Ill prolly be playing some stoner stuff on my les paul using the same stacking technique",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			100
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1051981257482129400,
-		"in_reply_to_status_id_str": "1051981257482129408",
-		"in_reply_to_user_id": 2528303382,
-		"in_reply_to_user_id_str": "2528303382",
-		"in_reply_to_screen_name": "watahbufala",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14222,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14565,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Stay tuned. Ill prolly be playing some stoner stuff on my les paul using the same stacking technique"
-	},
-	{
-		"created_at": "Mon Oct 15 23:40:51 +0000 2018",
-		"id": 1051981257482129400,
-		"id_str": "1051981257482129408",
-		"full_text": "Messing around with stacking a fuzz and my amps overdrive channel. Good noisy heavy psych stuff ?? https://t.co/J7QibQijRX",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			98
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1051981141056589800,
-					"id_str": "1051981141056589824",
-					"indices": [
-						99,
-						122
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051981141056589824/pu/img/b7ZjX00gO8yTwBkn.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051981141056589824/pu/img/b7ZjX00gO8yTwBkn.jpg",
-					"url": "https://t.co/J7QibQijRX",
-					"display_url": "pic.twitter.com/J7QibQijRX",
-					"expanded_url": "https://twitter.com/watahbufala/status/1051981257482129408/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1051981141056589800,
-					"id_str": "1051981141056589824",
-					"indices": [
-						99,
-						122
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051981141056589824/pu/img/b7ZjX00gO8yTwBkn.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051981141056589824/pu/img/b7ZjX00gO8yTwBkn.jpg",
-					"url": "https://t.co/J7QibQijRX",
-					"display_url": "pic.twitter.com/J7QibQijRX",
-					"expanded_url": "https://twitter.com/watahbufala/status/1051981257482129408/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 612,
-							"h": 1088,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							9,
-							16
-						],
-						"duration_millis": 58382,
-						"variants": [
-							{
-								"bitrate": 256000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1051981141056589824/pu/vid/180x320/bB-ktmSEDf5Ss6qT.mp4?tag=5"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1051981141056589824/pu/vid/360x640/Eb_OiBAaDzPQgkeK.mp4?tag=5"
-							},
-							{
-								"bitrate": 2176000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1051981141056589824/pu/vid/612x1088/stdP8WlLCJ845J5p.mp4?tag=5"
-							},
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/ext_tw_video/1051981141056589824/pu/pl/UaBfeFz7b3Vy_O7U.m3u8?tag=5"
-							}
-						]
-					},
-					"additional_media_info": {
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14222,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14565,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Messing around with stacking a fuzz and my amps overdrive channel. Good noisy heavy psych stuff ?? https://t.co/J7QibQijRX"
-	},
-	{
-		"created_at": "Mon Oct 15 08:59:22 +0000 2018",
-		"id": 1051759425743147000,
-		"id_str": "1051759425743147008",
-		"full_text": "#NowPlaying perfect music for a free Irish clasa lmao? https://t.co/ERaUZ2bN81",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			54
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "NowPlaying",
-					"indices": [
-						0,
-						11
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1051759414946992100,
-					"id_str": "1051759414946992128",
-					"indices": [
-						55,
-						78
-					],
-					"media_url": "http://pbs.twimg.com/media/DpiZnY0WkAAG3Wk.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpiZnY0WkAAG3Wk.jpg",
-					"url": "https://t.co/ERaUZ2bN81",
-					"display_url": "pic.twitter.com/ERaUZ2bN81",
-					"expanded_url": "https://twitter.com/watahbufala/status/1051759425743147008/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 675,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1080,
-							"h": 1920,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1051759414946992100,
-					"id_str": "1051759414946992128",
-					"indices": [
-						55,
-						78
-					],
-					"media_url": "http://pbs.twimg.com/media/DpiZnY0WkAAG3Wk.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpiZnY0WkAAG3Wk.jpg",
-					"url": "https://t.co/ERaUZ2bN81",
-					"display_url": "pic.twitter.com/ERaUZ2bN81",
-					"expanded_url": "https://twitter.com/watahbufala/status/1051759425743147008/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 383,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 675,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1080,
-							"h": 1920,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14222,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14565,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "#NowPlaying perfect music for a free Irish clasa lmao? https://t.co/ERaUZ2bN81"
-	},
-	{
-		"created_at": "Mon Oct 15 08:50:59 +0000 2018",
-		"id": 1051757313969795100,
-		"id_str": "1051757313969795074",
-		"full_text": "Woah https://t.co/F6arMgvxf4",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			4
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1051757309284769800,
-					"id_str": "1051757309284769793",
-					"indices": [
-						5,
-						28
-					],
-					"media_url": "http://pbs.twimg.com/media/DpiXs0nW4AESxo0.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpiXs0nW4AESxo0.jpg",
-					"url": "https://t.co/F6arMgvxf4",
-					"display_url": "pic.twitter.com/F6arMgvxf4",
-					"expanded_url": "https://twitter.com/watahbufala/status/1051757313969795074/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1080,
-							"h": 233,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1080,
-							"h": 233,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 147,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1051757309284769800,
-					"id_str": "1051757309284769793",
-					"indices": [
-						5,
-						28
-					],
-					"media_url": "http://pbs.twimg.com/media/DpiXs0nW4AESxo0.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpiXs0nW4AESxo0.jpg",
-					"url": "https://t.co/F6arMgvxf4",
-					"display_url": "pic.twitter.com/F6arMgvxf4",
-					"expanded_url": "https://twitter.com/watahbufala/status/1051757313969795074/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1080,
-							"h": 233,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1080,
-							"h": 233,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 147,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14222,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14565,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Woah https://t.co/F6arMgvxf4"
-	},
-	{
-		"created_at": "Mon Oct 15 08:30:46 +0000 2018",
-		"id": 1051752227931598800,
-		"id_str": "1051752227931598848",
-		"full_text": "@Mangkral Im glad you agree",
-		"truncated": false,
-		"display_text_range": [
-			10,
-			27
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1051682969159647200,
-		"in_reply_to_status_id_str": "1051682969159647232",
-		"in_reply_to_user_id": 882313185050722300,
-		"in_reply_to_user_id_str": "882313185050722305",
-		"in_reply_to_screen_name": "Mangkral",
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14222,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14565,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@Mangkral Im glad you agree"
-	},
-	{
-		"created_at": "Sun Oct 14 23:25:24 +0000 2018",
-		"id": 1051614984386564100,
-		"id_str": "1051614984386564096",
-		"full_text": "I liked a @YouTube video https://t.co/KXkfchSSLx Godspeed You! Black Emperor: Between pessimism and hope",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			104
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "YouTube",
-					"name": "YouTube",
-					"id": 10228272,
-					"id_str": "10228272",
-					"indices": [
-						10,
-						18
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/KXkfchSSLx",
-					"expanded_url": "http://youtu.be/3WgUo_ftlAs?a",
-					"display_url": "youtu.be/3WgUo_ftlAs?a",
-					"indices": [
-						25,
-						48
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14559,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "I liked a @YouTube video https://t.co/KXkfchSSLx Godspeed You! Black Emperor: Between pessimism and hope"
-	},
-	{
-		"created_at": "Sun Oct 14 22:18:01 +0000 2018",
-		"id": 1051598023493644300,
-		"id_str": "1051598023493644288",
-		"full_text": "bubble https://t.co/RSpNGxf9HO",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			6
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1051597999019839500,
-					"id_str": "1051597999019839491",
-					"indices": [
-						7,
-						30
-					],
-					"media_url": "http://pbs.twimg.com/media/DpgGzvoW0AMgBth.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpgGzvoW0AMgBth.jpg",
-					"url": "https://t.co/RSpNGxf9HO",
-					"display_url": "pic.twitter.com/RSpNGxf9HO",
-					"expanded_url": "https://twitter.com/mordhiobhail/status/1051598023493644288/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 2048,
-							"h": 1433,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 840,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1051597999019839500,
-					"id_str": "1051597999019839491",
-					"indices": [
-						7,
-						30
-					],
-					"media_url": "http://pbs.twimg.com/media/DpgGzvoW0AMgBth.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DpgGzvoW0AMgBth.jpg",
-					"url": "https://t.co/RSpNGxf9HO",
-					"display_url": "pic.twitter.com/RSpNGxf9HO",
-					"expanded_url": "https://twitter.com/mordhiobhail/status/1051598023493644288/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 2048,
-							"h": 1433,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 840,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 1488062070,
-			"id_str": "1488062070",
-			"name": "haunty monty ☠️",
-			"screen_name": "mordhiobhail",
-			"location": "ireland",
-			"description": "montgomery|he/him|18, im a big boy artist and im gay. (more-yee-of-all)",
-			"url": "https://t.co/v3AXDWYkNN",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/v3AXDWYkNN",
-							"expanded_url": "http://ko-fi.com/mordhi",
-							"display_url": "ko-fi.com/mordhi",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 3898,
-			"friends_count": 239,
-			"listed_count": 22,
-			"created_at": "Thu Jun 06 16:00:31 +0000 2013",
-			"favourites_count": 5345,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 6535,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "642D8B",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1046469136744935424/xQO6gPaZ_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046469136744935424/xQO6gPaZ_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1488062070/1501200723",
-			"profile_link_color": "FF6D66",
-			"profile_sidebar_border_color": "65B0DA",
-			"profile_sidebar_fill_color": "7AC3EE",
-			"profile_text_color": "3D1957",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 176,
-		"favorite_count": 416,
-		"favorited": true,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "bubble https://t.co/RSpNGxf9HO"
-	},
-	{
-		"created_at": "Sun Oct 14 22:21:12 +0000 2018",
-		"id": 1051598827499733000,
-		"id_str": "1051598827499732992",
-		"full_text": "Such hawks such hounds is a really good documentary to watch if youre into stoner and doom stuff. Its fucking good and interesting",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			130
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14559,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Such hawks such hounds is a really good documentary to watch if youre into stoner and doom stuff. Its fucking good and interesting"
 	},
 	{
 		"created_at": "Sun Oct 14 10:35:13 +0000 2018",
@@ -43501,7 +38973,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -43522,16 +38994,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43597,7 +39069,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -43618,16 +39090,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43713,7 +39185,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -43734,16 +39206,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43830,7 +39302,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -43851,16 +39323,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43926,7 +39398,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -43947,16 +39419,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44099,7 +39571,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -44120,16 +39592,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44273,7 +39745,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -44294,16 +39766,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44369,7 +39841,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -44390,16 +39862,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44464,7 +39936,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -44485,16 +39957,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 297,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14218,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14559,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44559,7 +40031,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -44580,16 +40052,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14550,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44654,7 +40126,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -44675,16 +40147,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14550,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44734,33 +40206,22 @@ Grailbird.data.tweets_2018_10 =
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Mangkral",
-					"name": "Mangkral",
-					"id": 882313185050722300,
-					"id_str": "882313185050722305",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": 1050725178836209700,
-		"in_reply_to_status_id_str": "1050725178836209665",
-		"in_reply_to_user_id": 882313185050722300,
-		"in_reply_to_user_id_str": "882313185050722305",
-		"in_reply_to_screen_name": "Mangkral",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
 		"user": {
 			"id": 2528303382,
 			"id_str": "2528303382",
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -44781,16 +40242,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 281,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14550,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44821,7 +40282,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -44964,16 +40425,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1040047,
+			"followers_count": 1088204,
 			"friends_count": 1,
-			"listed_count": 9464,
+			"listed_count": 9864,
 			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
-			"favourites_count": 10469,
+			"favourites_count": 10421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 195749,
+			"statuses_count": 201963,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45003,8 +40464,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 250,
-		"favorite_count": 1224,
+		"retweet_count": 262,
+		"favorite_count": 1256,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -45060,7 +40521,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -45081,16 +40542,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14205,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45246,7 +40707,7 @@ Grailbird.data.tweets_2018_10 =
 			"id_str": "1003653405762572288",
 			"name": "game aesthetics",
 			"screen_name": "gamesthetics",
-			"location": "",
+			"location": "Source in replies",
 			"description": "",
 			"url": null,
 			"entities": {
@@ -45255,16 +40716,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 198,
+			"followers_count": 257,
 			"friends_count": 1,
-			"listed_count": 1,
+			"listed_count": 2,
 			"created_at": "Mon Jun 04 15:03:13 +0000 2018",
 			"favourites_count": 0,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 224,
+			"statuses_count": 266,
 			"lang": "es",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45295,7 +40756,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 6,
-		"favorite_count": 10,
+		"favorite_count": 11,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -45420,7 +40881,7 @@ Grailbird.data.tweets_2018_10 =
 			"id_str": "1003653405762572288",
 			"name": "game aesthetics",
 			"screen_name": "gamesthetics",
-			"location": "",
+			"location": "Source in replies",
 			"description": "",
 			"url": null,
 			"entities": {
@@ -45429,16 +40890,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 198,
+			"followers_count": 257,
 			"friends_count": 1,
-			"listed_count": 1,
+			"listed_count": 2,
 			"created_at": "Mon Jun 04 15:03:13 +0000 2018",
 			"favourites_count": 0,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 224,
+			"statuses_count": 266,
 			"lang": "es",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45469,7 +40930,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 4,
-		"favorite_count": 10,
+		"favorite_count": 11,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -45594,7 +41055,7 @@ Grailbird.data.tweets_2018_10 =
 			"id_str": "1003653405762572288",
 			"name": "game aesthetics",
 			"screen_name": "gamesthetics",
-			"location": "",
+			"location": "Source in replies",
 			"description": "",
 			"url": null,
 			"entities": {
@@ -45603,16 +41064,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 198,
+			"followers_count": 257,
 			"friends_count": 1,
-			"listed_count": 1,
+			"listed_count": 2,
 			"created_at": "Mon Jun 04 15:03:13 +0000 2018",
 			"favourites_count": 0,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 224,
+			"statuses_count": 266,
 			"lang": "es",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45643,7 +41104,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 6,
-		"favorite_count": 23,
+		"favorite_count": 25,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -45678,7 +41139,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -45699,16 +41160,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14205,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45773,7 +41234,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -45794,16 +41255,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14205,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45868,7 +41329,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -45889,16 +41350,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14205,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45963,7 +41424,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -45984,16 +41445,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14205,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46144,7 +41605,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -46165,16 +41626,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 280,
-			"friends_count": 295,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14205,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46216,8 +41677,12 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Wed Oct 10 22:18:33 +0000 2018",
 		"id": 1050148608912314400,
 		"id_str": "1050148608912314369",
-		"text": "Fucking ice cap zone is a tune",
+		"full_text": "Fucking ice cap zone is a tune",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46236,7 +41701,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -46258,15 +41723,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 294,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46300,14 +41765,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Fucking ice cap zone is a tune"
 	},
 	{
 		"created_at": "Wed Oct 10 13:30:16 +0000 2018",
 		"id": 1050015659927765000,
 		"id_str": "1050015659927764993",
-		"text": "Thanks last fm. Idk what this means but i sure do like music https://t.co/wZqWK7GKmA",
+		"full_text": "Thanks last fm. Idk what this means but i sure do like music https://t.co/wZqWK7GKmA",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46404,7 +41874,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -46426,15 +41896,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 294,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46469,14 +41939,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thanks last fm. Idk what this means but i sure do like music https://t.co/wZqWK7GKmA"
 	},
 	{
 		"created_at": "Wed Oct 10 10:11:00 +0000 2018",
 		"id": 1049965514301288400,
 		"id_str": "1049965514301288453",
-		"text": "A little idea i had https://t.co/9HpiPbkqZj",
+		"full_text": "A little idea i had https://t.co/9HpiPbkqZj",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46604,7 +42079,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -46626,15 +42101,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 294,
-			"listed_count": 9,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46669,45 +42144,39 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "A little idea i had https://t.co/9HpiPbkqZj"
 	},
 	{
-		"created_at": "Wed Oct 10 09:08:46 +0000 2018",
-		"id": 1049949850496852000,
-		"id_str": "1049949850496851968",
-		"text": "RT @BlackSabbath: Geezer Butler in Italy 1973\n#fbf https://t.co/F21cDxpVnw",
+		"created_at": "Fri Jan 12 15:57:49 +0000 2018",
+		"id": 951845683132166100,
+		"id_str": "951845683132166144",
+		"full_text": "Geezer Butler in Italy 1973\n#fbf https://t.co/F21cDxpVnw",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "fbf",
 					"indices": [
-						46,
-						50
+						28,
+						32
 					]
 				}
 			],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "BlackSabbath",
-					"name": "BlackSabbath",
-					"id": 236956880,
-					"id_str": "236956880",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 951845679042764800,
 					"id_str": "951845679042764801",
 					"indices": [
-						51,
-						74
+						33,
+						56
 					],
 					"media_url": "http://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
@@ -46736,11 +42205,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 1280,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 951845683132166100,
-					"source_status_id_str": "951845683132166144",
-					"source_user_id": 236956880,
-					"source_user_id_str": "236956880"
+					}
 				}
 			]
 		},
@@ -46750,8 +42215,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 951845679042764800,
 					"id_str": "951845679042764801",
 					"indices": [
-						51,
-						74
+						33,
+						56
 					],
 					"media_url": "http://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
@@ -46780,35 +42245,31 @@ Grailbird.data.tweets_2018_10 =
 							"h": 1280,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 951845683132166100,
-					"source_status_id_str": "951845683132166144",
-					"source_user_id": 236956880,
-					"source_user_id_str": "236956880"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 236956880,
+			"id_str": "236956880",
+			"name": "BlackSabbath",
+			"screen_name": "BlackSabbath",
+			"location": "Birmingham, UK",
+			"description": "Purchase the 'The End' album here: https://t.co/BHCWpziTMv",
+			"url": "https://t.co/GNtEhZFocC",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
+							"url": "https://t.co/GNtEhZFocC",
+							"expanded_url": "http://www.blacksabbath.com",
+							"display_url": "blacksabbath.com",
 							"indices": [
 								0,
 								23
@@ -46817,37 +42278,47 @@ Grailbird.data.tweets_2018_10 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/BHCWpziTMv",
+							"expanded_url": "http://bit.ly/OzzfestEbay",
+							"display_url": "bit.ly/OzzfestEbay",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 279,
-			"friends_count": 294,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"followers_count": 1966798,
+			"friends_count": 19,
+			"listed_count": 4178,
+			"created_at": "Tue Jan 11 19:10:15 +0000 2011",
+			"favourites_count": 409,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14538,
+			"verified": true,
+			"statuses_count": 3635,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "000000",
+			"profile_background_color": "C0DEED",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236956880/1507917536",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -46859,230 +42330,37 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Jan 12 15:57:49 +0000 2018",
-			"id": 951845683132166100,
-			"id_str": "951845683132166144",
-			"text": "Geezer Butler in Italy 1973\n#fbf https://t.co/F21cDxpVnw",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "fbf",
-						"indices": [
-							28,
-							32
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 951845679042764800,
-						"id_str": "951845679042764801",
-						"indices": [
-							33,
-							56
-						],
-						"media_url": "http://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
-						"url": "https://t.co/F21cDxpVnw",
-						"display_url": "pic.twitter.com/F21cDxpVnw",
-						"expanded_url": "https://twitter.com/BlackSabbath/status/951845683132166144/photo/1",
-						"type": "photo",
-						"sizes": {
-							"medium": {
-								"w": 899,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 509,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 959,
-								"h": 1280,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 951845679042764800,
-						"id_str": "951845679042764801",
-						"indices": [
-							33,
-							56
-						],
-						"media_url": "http://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DTWimhxVoAELl_e.jpg",
-						"url": "https://t.co/F21cDxpVnw",
-						"display_url": "pic.twitter.com/F21cDxpVnw",
-						"expanded_url": "https://twitter.com/BlackSabbath/status/951845683132166144/photo/1",
-						"type": "photo",
-						"sizes": {
-							"medium": {
-								"w": 899,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 509,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 959,
-								"h": 1280,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 236956880,
-				"id_str": "236956880",
-				"name": "BlackSabbath",
-				"screen_name": "BlackSabbath",
-				"location": "Birmingham, UK",
-				"description": "Purchase the 'The End' album here: https://t.co/BHCWpziTMv",
-				"url": "https://t.co/GNtEhZFocC",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/GNtEhZFocC",
-								"expanded_url": "http://www.blacksabbath.com",
-								"display_url": "blacksabbath.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/BHCWpziTMv",
-								"expanded_url": "http://bit.ly/OzzfestEbay",
-								"display_url": "bit.ly/OzzfestEbay",
-								"indices": [
-									35,
-									58
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 1972715,
-				"friends_count": 19,
-				"listed_count": 4172,
-				"created_at": "Tue Jan 11 19:10:15 +0000 2011",
-				"favourites_count": 382,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 3584,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/236956880/1507917536",
-				"profile_link_color": "9266CC",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 377,
-			"favorite_count": 2339,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 377,
-		"favorite_count": 0,
-		"favorited": true,
+		"retweet_count": 373,
+		"favorite_count": 2325,
+		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Geezer Butler in Italy 1973\n#fbf https://t.co/F21cDxpVnw"
 	},
 	{
-		"created_at": "Wed Oct 10 09:08:39 +0000 2018",
-		"id": 1049949821430325200,
-		"id_str": "1049949821430325248",
-		"text": "RT @BlackSabbath: Geezer Butler soundchecking in San Bernardino CA 1975 https://t.co/iJu8bKn6KR",
+		"created_at": "Mon Jan 08 15:47:45 +0000 2018",
+		"id": 950393597840379900,
+		"id_str": "950393597840379904",
+		"full_text": "Geezer Butler soundchecking in San Bernardino CA 1975 https://t.co/iJu8bKn6KR",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "BlackSabbath",
-					"name": "BlackSabbath",
-					"id": 236956880,
-					"id_str": "236956880",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 950393593180569600,
 					"id_str": "950393593180569601",
 					"indices": [
-						72,
-						95
+						54,
+						77
 					],
 					"media_url": "http://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
@@ -47111,11 +42389,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 1264,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 950393597840379900,
-					"source_status_id_str": "950393597840379904",
-					"source_user_id": 236956880,
-					"source_user_id_str": "236956880"
+					}
 				}
 			]
 		},
@@ -47125,8 +42399,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 950393593180569600,
 					"id_str": "950393593180569601",
 					"indices": [
-						72,
-						95
+						54,
+						77
 					],
 					"media_url": "http://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
@@ -47155,35 +42429,31 @@ Grailbird.data.tweets_2018_10 =
 							"h": 1264,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 950393597840379900,
-					"source_status_id_str": "950393597840379904",
-					"source_user_id": 236956880,
-					"source_user_id_str": "236956880"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 236956880,
+			"id_str": "236956880",
+			"name": "BlackSabbath",
+			"screen_name": "BlackSabbath",
+			"location": "Birmingham, UK",
+			"description": "Purchase the 'The End' album here: https://t.co/BHCWpziTMv",
+			"url": "https://t.co/GNtEhZFocC",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
+							"url": "https://t.co/GNtEhZFocC",
+							"expanded_url": "http://www.blacksabbath.com",
+							"display_url": "blacksabbath.com",
 							"indices": [
 								0,
 								23
@@ -47192,37 +42462,47 @@ Grailbird.data.tweets_2018_10 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/BHCWpziTMv",
+							"expanded_url": "http://bit.ly/OzzfestEbay",
+							"display_url": "bit.ly/OzzfestEbay",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 279,
-			"friends_count": 294,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"followers_count": 1966798,
+			"friends_count": 19,
+			"listed_count": 4178,
+			"created_at": "Tue Jan 11 19:10:15 +0000 2011",
+			"favourites_count": 409,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14538,
+			"verified": true,
+			"statuses_count": 3635,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "000000",
+			"profile_background_color": "C0DEED",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236956880/1507917536",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -47234,237 +42514,130 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Jan 08 15:47:45 +0000 2018",
-			"id": 950393597840379900,
-			"id_str": "950393597840379904",
-			"text": "Geezer Butler soundchecking in San Bernardino CA 1975 https://t.co/iJu8bKn6KR",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 950393593180569600,
-						"id_str": "950393593180569601",
-						"indices": [
-							54,
-							77
-						],
-						"media_url": "http://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
-						"url": "https://t.co/iJu8bKn6KR",
-						"display_url": "pic.twitter.com/iJu8bKn6KR",
-						"expanded_url": "https://twitter.com/BlackSabbath/status/950393597840379904/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 435,
-								"h": 680,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 768,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 809,
-								"h": 1264,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 950393593180569600,
-						"id_str": "950393593180569601",
-						"indices": [
-							54,
-							77
-						],
-						"media_url": "http://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DTB58AZVwAEAJBo.jpg",
-						"url": "https://t.co/iJu8bKn6KR",
-						"display_url": "pic.twitter.com/iJu8bKn6KR",
-						"expanded_url": "https://twitter.com/BlackSabbath/status/950393597840379904/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 435,
-								"h": 680,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 768,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 809,
-								"h": 1264,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 236956880,
-				"id_str": "236956880",
-				"name": "BlackSabbath",
-				"screen_name": "BlackSabbath",
-				"location": "Birmingham, UK",
-				"description": "Purchase the 'The End' album here: https://t.co/BHCWpziTMv",
-				"url": "https://t.co/GNtEhZFocC",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/GNtEhZFocC",
-								"expanded_url": "http://www.blacksabbath.com",
-								"display_url": "blacksabbath.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/BHCWpziTMv",
-								"expanded_url": "http://bit.ly/OzzfestEbay",
-								"display_url": "bit.ly/OzzfestEbay",
-								"indices": [
-									35,
-									58
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 1972715,
-				"friends_count": 19,
-				"listed_count": 4172,
-				"created_at": "Tue Jan 11 19:10:15 +0000 2011",
-				"favourites_count": 382,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 3584,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839145955974762496/nLGPS_Eh_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/236956880/1507917536",
-				"profile_link_color": "9266CC",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 340,
-			"favorite_count": 1771,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 340,
-		"favorite_count": 0,
-		"favorited": true,
+		"retweet_count": 337,
+		"favorite_count": 1766,
+		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Geezer Butler soundchecking in San Bernardino CA 1975 https://t.co/iJu8bKn6KR"
 	},
 	{
-		"created_at": "Wed Oct 10 08:47:14 +0000 2018",
-		"id": 1049944433058295800,
-		"id_str": "1049944433058295808",
-		"text": "RT @sugarnziles: Mothman\n-Eerie Traveler\n-Silent, but wise\n-Leads the lost towards the light\n-No one knows who they really are\n-Can be foun…",
+		"created_at": "Wed Oct 10 01:08:46 +0000 2018",
+		"id": 1049829057737703400,
+		"id_str": "1049829057737703424",
+		"full_text": "Mothman\n-Eerie Traveler\n-Silent, but wise\n-Leads the lost towards the light\n-No one knows who they really are\n-Can be found late at night on your porch, stealing your lights https://t.co/YaJ7KCeHmo",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [],
+			"media": [
 				{
-					"screen_name": "sugarnziles",
-					"name": "Nick 🐊 sugarandmemories",
-					"id": 2951410009,
-					"id_str": "2951410009",
+					"id": 1049828520136859600,
+					"id_str": "1049828520136859650",
 					"indices": [
-						3,
-						15
-					]
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DpG9ehHU4AISjkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpG9ehHU4AISjkL.jpg",
+					"url": "https://t.co/YaJ7KCeHmo",
+					"display_url": "pic.twitter.com/YaJ7KCeHmo",
+					"expanded_url": "https://twitter.com/sugarnziles/status/1049829057737703424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1042,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1216,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049828520136859600,
+					"id_str": "1049828520136859650",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DpG9ehHU4AISjkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpG9ehHU4AISjkL.jpg",
+					"url": "https://t.co/YaJ7KCeHmo",
+					"display_url": "pic.twitter.com/YaJ7KCeHmo",
+					"expanded_url": "https://twitter.com/sugarnziles/status/1049829057737703424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1042,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1216,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 2951410009,
+			"id_str": "2951410009",
+			"name": "Nick 🐊 sugarandmemories",
+			"screen_name": "sugarnziles",
+			"location": "Florida, USA",
+			"description": "Freelance Artist and Current College Student. Currently into DRV3! Forever into Cow Chop.",
+			"url": "https://t.co/8V2MHBRZ4d",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
+							"url": "https://t.co/8V2MHBRZ4d",
+							"expanded_url": "http://Instagram.com/sugarandmemories",
+							"display_url": "Instagram.com/sugarandmemori…",
 							"indices": [
 								0,
 								23
@@ -47477,16 +42650,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 279,
-			"friends_count": 294,
-			"listed_count": 9,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14207,
+			"followers_count": 8963,
+			"friends_count": 564,
+			"listed_count": 70,
+			"created_at": "Tue Dec 30 03:46:20 +0000 2014",
+			"favourites_count": 34813,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 11912,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47495,10 +42668,10 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059655951375089664/FzPgxfqm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059655951375089664/FzPgxfqm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2951410009/1542614265",
+			"profile_link_color": "FAB81E",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
@@ -47515,120 +42688,25 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Oct 10 01:08:46 +0000 2018",
-			"id": 1049829057737703400,
-			"id_str": "1049829057737703424",
-			"text": "Mothman\n-Eerie Traveler\n-Silent, but wise\n-Leads the lost towards the light\n-No one knows who they really are\n-Can… https://t.co/pNoCjJjHzn",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/pNoCjJjHzn",
-						"expanded_url": "https://twitter.com/i/web/status/1049829057737703424",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							116,
-							139
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2951410009,
-				"id_str": "2951410009",
-				"name": "Nick 🐊 sugarandmemories",
-				"screen_name": "sugarnziles",
-				"location": "Florida, USA",
-				"description": "Freelance Artist and Current College Student",
-				"url": "https://t.co/8V2MHBRZ4d",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/8V2MHBRZ4d",
-								"expanded_url": "http://Instagram.com/sugarandmemories",
-								"display_url": "Instagram.com/sugarandmemori…",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 9012,
-				"friends_count": 514,
-				"listed_count": 65,
-				"created_at": "Tue Dec 30 03:46:20 +0000 2014",
-				"favourites_count": 32644,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 11707,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1049809813377622016/9yEKhHpB_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049809813377622016/9yEKhHpB_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2951410009/1538607351",
-				"profile_link_color": "FAB81E",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 45,
-			"favorite_count": 186,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 45,
-		"favorite_count": 0,
+		"retweet_count": 46,
+		"favorite_count": 196,
 		"favorited": true,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mothman\n-Eerie Traveler\n-Silent, but wise\n-Leads the lost towards the light\n-No one knows who they really are\n-Can be found late at night on your porch, stealing your lights https://t.co/YaJ7KCeHmo"
 	},
 	{
 		"created_at": "Tue Oct 09 21:43:23 +0000 2018",
 		"id": 1049777369706319900,
 		"id_str": "1049777369706319872",
-		"text": "Check out thesw spoopy photos i took. Maybe ill post em on my insta at some point https://t.co/ujMPPSBeJ0",
+		"full_text": "Check out thesw spoopy photos i took. Maybe ill post em on my insta at some point https://t.co/ujMPPSBeJ0",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -47797,7 +42875,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -47818,16 +42896,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47862,14 +42940,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Check out thesw spoopy photos i took. Maybe ill post em on my insta at some point https://t.co/ujMPPSBeJ0"
 	},
 	{
 		"created_at": "Tue Oct 09 19:55:16 +0000 2018",
 		"id": 1049750159930925000,
 		"id_str": "1049750159930925058",
-		"text": "What the fuck happy 18th birthday lift your skinny fists like antennas to heaven. Great album, great band",
+		"full_text": "What the fuck happy 18th birthday lift your skinny fists like antennas to heaven. Great album, great band",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -47888,7 +42971,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -47909,16 +42992,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47952,14 +43035,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What the fuck happy 18th birthday lift your skinny fists like antennas to heaven. Great album, great band"
 	},
 	{
 		"created_at": "Tue Oct 09 18:57:39 +0000 2018",
 		"id": 1049735661606060000,
 		"id_str": "1049735661606060032",
-		"text": "I liked a @YouTube video https://t.co/7AVOUbjUYP Scott Pilgrim and the Infinite Sadness [Video Essay]",
+		"full_text": "I liked a @YouTube video https://t.co/7AVOUbjUYP Scott Pilgrim and the Infinite Sadness [Video Essay]",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -47999,7 +43087,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48020,16 +43108,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48064,14 +43152,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I liked a @YouTube video https://t.co/7AVOUbjUYP Scott Pilgrim and the Infinite Sadness [Video Essay]"
 	},
 	{
 		"created_at": "Tue Oct 09 15:08:05 +0000 2018",
 		"id": 1049677888419696600,
 		"id_str": "1049677888419696641",
-		"text": "Its pretty wild we can take the crazy things in our head and put them into the world https://t.co/JCA2l1i4vq",
+		"full_text": "Its pretty wild we can take the crazy things in our head and put them into the world https://t.co/JCA2l1i4vq",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48168,7 +43261,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48189,16 +43282,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48233,14 +43326,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Its pretty wild we can take the crazy things in our head and put them into the world https://t.co/JCA2l1i4vq"
 	},
 	{
 		"created_at": "Tue Oct 09 14:52:40 +0000 2018",
 		"id": 1049674009456115700,
 		"id_str": "1049674009456115712",
-		"text": "Hes the best and i love him",
+		"full_text": "Hes the best and i love him",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48259,7 +43357,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48280,16 +43378,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48323,29 +43421,24 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Hes the best and i love him"
 	},
 	{
 		"created_at": "Tue Oct 09 14:52:39 +0000 2018",
 		"id": 1049674007082147800,
 		"id_str": "1049674007082147840",
-		"text": "He also wrote a lot of the black sabbath stuff, was the most hippie peace loving member, did lsd loads, and brought… https://t.co/PGAK6HXQ98",
-		"truncated": true,
+		"full_text": "He also wrote a lot of the black sabbath stuff, was the most hippie peace loving member, did lsd loads, and brought in most of the occult influences to the band",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/PGAK6HXQ98",
-					"expanded_url": "https://twitter.com/i/web/status/1049674007082147840",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": 1049674004678803500,
@@ -48359,7 +43452,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48380,16 +43473,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48423,14 +43516,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "He also wrote a lot of the black sabbath stuff, was the most hippie peace loving member, did lsd loads, and brought in most of the occult influences to the band"
 	},
 	{
 		"created_at": "Tue Oct 09 14:52:39 +0000 2018",
 		"id": 1049674004678803500,
 		"id_str": "1049674004678803457",
-		"text": "Geezer is actually my favorite person and bassist ever i realised. Hes such a solid bass player",
+		"full_text": "Geezer is actually my favorite person and bassist ever i realised. Hes such a solid bass player",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48449,7 +43547,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48470,16 +43568,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48513,14 +43611,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Geezer is actually my favorite person and bassist ever i realised. Hes such a solid bass player"
 	},
 	{
 		"created_at": "Tue Oct 09 13:42:44 +0000 2018",
 		"id": 1049656409779068900,
 		"id_str": "1049656409779068933",
-		"text": "I love geezer butler so much he is definitely my favourite bassist",
+		"full_text": "I love geezer butler so much he is definitely my favourite bassist",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48539,7 +43642,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48560,16 +43663,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48603,14 +43706,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I love geezer butler so much he is definitely my favourite bassist"
 	},
 	{
 		"created_at": "Tue Oct 09 13:42:15 +0000 2018",
 		"id": 1049656287116574700,
 		"id_str": "1049656287116574722",
-		"text": "Hes having so much fun https://t.co/evRgxxvR1n",
+		"full_text": "Hes having so much fun https://t.co/evRgxxvR1n",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48720,7 +43828,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48741,16 +43849,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48785,14 +43893,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Hes having so much fun https://t.co/evRgxxvR1n"
 	},
 	{
 		"created_at": "Tue Oct 09 13:42:04 +0000 2018",
 		"id": 1049656243617497100,
 		"id_str": "1049656243617497090",
-		"text": "Look at him go https://t.co/gU9P8rsez6",
+		"full_text": "Look at him go https://t.co/gU9P8rsez6",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48925,7 +44038,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -48946,16 +44059,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48990,14 +44103,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Look at him go https://t.co/gU9P8rsez6"
 	},
 	{
 		"created_at": "Tue Oct 09 13:42:01 +0000 2018",
 		"id": 1049656229461659600,
 		"id_str": "1049656229461659651",
-		"text": "Litterally the best boy https://t.co/8zM9VaqI97",
+		"full_text": "Litterally the best boy https://t.co/8zM9VaqI97",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49166,7 +44284,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49187,16 +44305,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
-			"listed_count": 9,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14251,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14538,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49231,14 +44349,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Litterally the best boy https://t.co/8zM9VaqI97"
 	},
 	{
 		"created_at": "Mon Oct 08 20:40:49 +0000 2018",
 		"id": 1049399237774123000,
 		"id_str": "1049399237774123008",
-		"text": "Idk why i feel so shitty either tbh. Noodles made it better tho",
+		"full_text": "Idk why i feel so shitty either tbh. Noodles made it better tho",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49257,7 +44380,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49278,16 +44401,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14527,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49321,14 +44444,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Idk why i feel so shitty either tbh. Noodles made it better tho"
 	},
 	{
 		"created_at": "Mon Oct 08 20:40:15 +0000 2018",
 		"id": 1049399092152074200,
 		"id_str": "1049399092152074240",
-		"text": "Its sad noodle hours tbh",
+		"full_text": "Its sad noodle hours tbh",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49347,7 +44475,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49368,16 +44496,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14527,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49411,14 +44539,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Its sad noodle hours tbh"
 	},
 	{
 		"created_at": "Mon Oct 08 16:50:50 +0000 2018",
 		"id": 1049341359906279400,
 		"id_str": "1049341359906279429",
-		"text": "If i was a plant i think id be a pine tree",
+		"full_text": "If i was a plant i think id be a pine tree",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49437,7 +44570,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49458,16 +44591,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14527,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49501,14 +44634,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "If i was a plant i think id be a pine tree"
 	},
 	{
 		"created_at": "Mon Oct 08 09:50:51 +0000 2018",
 		"id": 1049235666440212500,
 		"id_str": "1049235666440212480",
-		"text": "Can we talk about how good the song mountains of mars by electric wizard is",
+		"full_text": "Can we talk about how good the song mountains of mars by electric wizard is",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49527,7 +44665,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49548,16 +44686,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14527,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49591,27 +44729,100 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Can we talk about how good the song mountains of mars by electric wizard is"
 	},
 	{
 		"created_at": "Mon Oct 08 08:53:50 +0000 2018",
 		"id": 1049221319550795800,
 		"id_str": "1049221319550795778",
-		"text": "I know that this is a childrens book my school is forcing me to read for the reading period but the first 3 pages h… https://t.co/2ADQnuCqaz",
-		"truncated": true,
+		"full_text": "I know that this is a childrens book my school is forcing me to read for the reading period but the first 3 pages have reminded me i have the ability to Read and im kinda proud https://t.co/tty0hSkmzs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/2ADQnuCqaz",
-					"expanded_url": "https://twitter.com/i/web/status/1049221319550795778",
-					"display_url": "twitter.com/i/web/status/1…",
+					"id": 1049221307164966900,
+					"id_str": "1049221307164966913",
 					"indices": [
-						117,
-						140
-					]
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Do-VOEhWwAExcWL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Do-VOEhWwAExcWL.jpg",
+					"url": "https://t.co/tty0hSkmzs",
+					"display_url": "pic.twitter.com/tty0hSkmzs",
+					"expanded_url": "https://twitter.com/watahbufala/status/1049221319550795778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049221307164966900,
+					"id_str": "1049221307164966913",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Do-VOEhWwAExcWL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Do-VOEhWwAExcWL.jpg",
+					"url": "https://t.co/tty0hSkmzs",
+					"display_url": "pic.twitter.com/tty0hSkmzs",
+					"expanded_url": "https://twitter.com/watahbufala/status/1049221319550795778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -49627,7 +44838,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49648,16 +44859,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14527,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49692,14 +44903,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I know that this is a childrens book my school is forcing me to read for the reading period but the first 3 pages have reminded me i have the ability to Read and im kinda proud https://t.co/tty0hSkmzs"
 	},
 	{
 		"created_at": "Mon Oct 08 08:51:53 +0000 2018",
 		"id": 1049220828611715100,
 		"id_str": "1049220828611715073",
-		"text": "Gonna start doing this again just 4 favorites for the week tho. Heres this week every Monday https://t.co/r5dQHbJPml",
+		"full_text": "Gonna start doing this again just 4 favorites for the week tho. Heres this week every Monday https://t.co/r5dQHbJPml",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49832,7 +45048,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -49853,16 +45069,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14252,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14527,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49897,114 +45113,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Gonna start doing this again just 4 favorites for the week tho. Heres this week every Monday https://t.co/r5dQHbJPml"
 	},
 	{
 		"created_at": "Sun Oct 07 23:44:24 +0000 2018",
 		"id": 1049083047197515800,
 		"id_str": "1049083047197515777",
-		"text": "I don't know why so many people cut the sleeves off their battlr jackets. Like it should be functionablr ad a daily… https://t.co/OpollHJ5be",
-		"truncated": true,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/OpollHJ5be",
-					"expanded_url": "https://twitter.com/i/web/status/1049083047197515777",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 278,
-			"friends_count": 291,
-			"listed_count": 10,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14250,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14522,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Sun Oct 07 22:35:28 +0000 2018",
-		"id": 1049065699824586800,
-		"id_str": "1049065699824586752",
-		"text": "Hmm. I'm feeling good. Fucking tales of brave ulyses",
+		"full_text": "I don't know why so many people cut the sleeves off their battlr jackets. Like it should be functionablr ad a daily jacket and a denim jacket even with patches looks pretty nice",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50023,7 +45144,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -50044,16 +45165,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 291,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14250,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14522,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50087,14 +45208,114 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I don't know why so many people cut the sleeves off their battlr jackets. Like it should be functionablr ad a daily jacket and a denim jacket even with patches looks pretty nice"
+	},
+	{
+		"created_at": "Sun Oct 07 22:35:28 +0000 2018",
+		"id": 1049065699824586800,
+		"id_str": "1049065699824586752",
+		"full_text": "Hmm. I'm feeling good. Fucking tales of brave ulyses",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 330,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hmm. I'm feeling good. Fucking tales of brave ulyses"
 	},
 	{
 		"created_at": "Sun Oct 07 22:11:12 +0000 2018",
 		"id": 1049059595736567800,
 		"id_str": "1049059595736567809",
-		"text": "Hi my names Daniel and I'm the heckin coolest https://t.co/jxuE4lyAtn",
+		"full_text": "Hi my names Daniel and I'm the heckin coolest https://t.co/jxuE4lyAtn",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50191,7 +45412,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -50212,16 +45433,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 291,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14250,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14522,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50256,14 +45477,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Hi my names Daniel and I'm the heckin coolest https://t.co/jxuE4lyAtn"
 	},
 	{
 		"created_at": "Sun Oct 07 12:23:33 +0000 2018",
 		"id": 1048911705655447600,
 		"id_str": "1048911705655447552",
-		"text": "So this is me https://t.co/sDMuQdXu93",
+		"full_text": "So this is me https://t.co/sDMuQdXu93",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50360,7 +45586,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -50381,16 +45607,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 291,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14250,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14522,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50425,14 +45651,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "So this is me https://t.co/sDMuQdXu93"
 	},
 	{
-		"created_at": "Sun Oct 07 12:23:23 +0000 2018",
-		"id": 1048911663246794800,
-		"id_str": "1048911663246794753",
-		"text": "https://t.co/Qa1uSvro2T",
+		"created_at": "Sat Oct 06 00:52:26 +0000 2018",
+		"id": 1048375395400073200,
+		"id_str": "1048375395400073217",
+		"full_text": "https://t.co/STjVxUGWMG",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50440,191 +45671,11 @@ Grailbird.data.tweets_2018_10 =
 			"urls": [],
 			"media": [
 				{
-					"id": 1048911652773670900,
-					"id_str": "1048911652773670914",
-					"indices": [
-						0,
-						23
-					],
-					"media_url": "http://pbs.twimg.com/media/Do57l0BXsAIbAr8.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Do57l0BXsAIbAr8.jpg",
-					"url": "https://t.co/Qa1uSvro2T",
-					"display_url": "pic.twitter.com/Qa1uSvro2T",
-					"expanded_url": "https://twitter.com/watahbufala/status/1048911663246794753/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 414,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1088,
-							"h": 1789,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 730,
-							"h": 1200,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1048911652773670900,
-					"id_str": "1048911652773670914",
-					"indices": [
-						0,
-						23
-					],
-					"media_url": "http://pbs.twimg.com/media/Do57l0BXsAIbAr8.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Do57l0BXsAIbAr8.jpg",
-					"url": "https://t.co/Qa1uSvro2T",
-					"display_url": "pic.twitter.com/Qa1uSvro2T",
-					"expanded_url": "https://twitter.com/watahbufala/status/1048911663246794753/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 414,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1088,
-							"h": 1789,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 730,
-							"h": 1200,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 278,
-			"friends_count": 291,
-			"listed_count": 10,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14250,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14522,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "und"
-	},
-	{
-		"created_at": "Sat Oct 06 00:53:38 +0000 2018",
-		"id": 1048375695355928600,
-		"id_str": "1048375695355928577",
-		"text": "RT @softlandscapes: https://t.co/STjVxUGWMG",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "softlandscapes",
-					"name": "soft landscapes",
-					"id": 703005412610678800,
-					"id_str": "703005412610678784",
-					"indices": [
-						3,
-						18
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
 					"id": 1048375393164648400,
 					"id_str": "1048375393164648448",
 					"indices": [
-						20,
-						43
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
@@ -50653,11 +45704,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 512,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1048375395400073200,
-					"source_status_id_str": "1048375395400073217",
-					"source_user_id": 703005412610678800,
-					"source_user_id_str": "703005412610678784"
+					}
 				}
 			]
 		},
@@ -50667,8 +45714,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 1048375393164648400,
 					"id_str": "1048375393164648448",
 					"indices": [
-						20,
-						43
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
@@ -50697,35 +45744,31 @@ Grailbird.data.tweets_2018_10 =
 							"h": 512,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1048375395400073200,
-					"source_status_id_str": "1048375395400073217",
-					"source_user_id": 703005412610678800,
-					"source_user_id_str": "703005412610678784"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 703005412610678800,
+			"id_str": "703005412610678784",
+			"name": "soft landscapes",
+			"screen_name": "softlandscapes",
+			"location": "",
+			"description": "every 6 hours - by @v21 - https://t.co/UXfS5zdKV0",
+			"url": "https://t.co/uQeCVnQrg9",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
+							"url": "https://t.co/uQeCVnQrg9",
+							"expanded_url": "http://cheapbotsdonequick.com/source/softlandscapes",
+							"display_url": "cheapbotsdonequick.com/source/softlan…",
 							"indices": [
 								0,
 								23
@@ -50734,21 +45777,31 @@ Grailbird.data.tweets_2018_10 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/UXfS5zdKV0",
+							"expanded_url": "http://v21.io/softlandscapes",
+							"display_url": "v21.io/softlandscapes",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
-			"listed_count": 10,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"followers_count": 19129,
+			"friends_count": 1,
+			"listed_count": 560,
+			"created_at": "Thu Feb 25 23:55:26 +0000 2016",
+			"favourites_count": 0,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14521,
-			"lang": "en",
+			"statuses_count": 4066,
+			"lang": "en-gb",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
@@ -50756,18 +45809,18 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/703936570999578624/ygstAcHr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/703936570999578624/ygstAcHr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703005412610678784/1456666586",
+			"profile_link_color": "D3D6C9",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
 			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -50776,199 +45829,25 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Oct 06 00:52:26 +0000 2018",
-			"id": 1048375395400073200,
-			"id_str": "1048375395400073217",
-			"text": "https://t.co/STjVxUGWMG",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1048375393164648400,
-						"id_str": "1048375393164648448",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
-						"url": "https://t.co/STjVxUGWMG",
-						"display_url": "pic.twitter.com/STjVxUGWMG",
-						"expanded_url": "https://twitter.com/softlandscapes/status/1048375395400073217/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 680,
-								"h": 340,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1024,
-								"h": 512,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1024,
-								"h": 512,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1048375393164648400,
-						"id_str": "1048375393164648448",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoyT3ZTW4AA815M.jpg",
-						"url": "https://t.co/STjVxUGWMG",
-						"display_url": "pic.twitter.com/STjVxUGWMG",
-						"expanded_url": "https://twitter.com/softlandscapes/status/1048375395400073217/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 680,
-								"h": 340,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1024,
-								"h": 512,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1024,
-								"h": 512,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 703005412610678800,
-				"id_str": "703005412610678784",
-				"name": "soft landscapes",
-				"screen_name": "softlandscapes",
-				"location": "",
-				"description": "every 6 hours - by @v21 - https://t.co/UXfS5zdKV0",
-				"url": "https://t.co/uQeCVnQrg9",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/uQeCVnQrg9",
-								"expanded_url": "http://cheapbotsdonequick.com/source/softlandscapes",
-								"display_url": "cheapbotsdonequick.com/source/softlan…",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/UXfS5zdKV0",
-								"expanded_url": "http://v21.io/softlandscapes",
-								"display_url": "v21.io/softlandscapes",
-								"indices": [
-									26,
-									49
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 18483,
-				"friends_count": 1,
-				"listed_count": 541,
-				"created_at": "Thu Feb 25 23:55:26 +0000 2016",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 3868,
-				"lang": "en-gb",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/703936570999578624/ygstAcHr_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/703936570999578624/ygstAcHr_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/703005412610678784/1456666586",
-				"profile_link_color": "D3D6C9",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 5,
-			"favorite_count": 17,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
-		"retweet_count": 5,
-		"favorite_count": 0,
+		"retweet_count": 13,
+		"favorite_count": 40,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/STjVxUGWMG"
 	},
 	{
 		"created_at": "Sat Oct 06 00:47:46 +0000 2018",
 		"id": 1048374218176520200,
 		"id_str": "1048374218176520193",
-		"text": "The greatest achievement psychedelic music has is dopesmoker",
+		"full_text": "The greatest achievement psychedelic music has is dopesmoker",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50987,7 +45866,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -51008,16 +45887,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14521,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51048,40 +45927,34 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The greatest achievement psychedelic music has is dopesmoker"
 	},
 	{
-		"created_at": "Fri Oct 05 12:55:30 +0000 2018",
-		"id": 1048194971382292500,
-		"id_str": "1048194971382292481",
-		"text": "RT @archillect: https://t.co/c8UvVPFHaq",
+		"created_at": "Fri Oct 05 10:20:04 +0000 2018",
+		"id": 1048155853923278800,
+		"id_str": "1048155853923278850",
+		"full_text": "https://t.co/c8UvVPFHaq",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "archillect",
-					"name": "Archillect",
-					"id": 2907774137,
-					"id_str": "2907774137",
-					"indices": [
-						3,
-						14
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 1048155850324545500,
 					"id_str": "1048155850324545536",
 					"indices": [
-						16,
-						39
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
@@ -51110,11 +45983,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 500,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1048155853923278800,
-					"source_status_id_str": "1048155853923278850",
-					"source_user_id": 2907774137,
-					"source_user_id_str": "2907774137"
+					}
 				}
 			]
 		},
@@ -51124,8 +45993,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 1048155850324545500,
 					"id_str": "1048155850324545536",
 					"indices": [
-						16,
-						39
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
@@ -51154,35 +46023,31 @@ Grailbird.data.tweets_2018_10 =
 							"h": 500,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1048155853923278800,
-					"source_status_id_str": "1048155853923278850",
-					"source_user_id": 2907774137,
-					"source_user_id_str": "2907774137"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"source": "<a href=\"http://machinu.net\" rel=\"nofollow\">Archillect</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 2907774137,
+			"id_str": "2907774137",
+			"name": "Archillect",
+			"screen_name": "archillect",
+			"location": "Meta",
+			"description": "The ocular engine. \nSources: @archillinks\nhttps://t.co/U7Oh7xumQp",
+			"url": "https://t.co/NHrqWFz6UM",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
+							"url": "https://t.co/NHrqWFz6UM",
+							"expanded_url": "http://instagram.com/archillect.png",
+							"display_url": "instagram.com/archillect.png",
 							"indices": [
 								0,
 								23
@@ -51191,32 +46056,42 @@ Grailbird.data.tweets_2018_10 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/U7Oh7xumQp",
+							"expanded_url": "http://archillect.com",
+							"display_url": "archillect.com",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
-			"listed_count": 10,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"followers_count": 1088204,
+			"friends_count": 1,
+			"listed_count": 9864,
+			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
+			"favourites_count": 10421,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14521,
+			"statuses_count": 201963,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2907774137/1418102176",
+			"profile_link_color": "191919",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
@@ -51224,7 +46099,7 @@ Grailbird.data.tweets_2018_10 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -51233,214 +46108,30 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Oct 05 10:20:04 +0000 2018",
-			"id": 1048155853923278800,
-			"id_str": "1048155853923278850",
-			"text": "https://t.co/c8UvVPFHaq",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1048155850324545500,
-						"id_str": "1048155850324545536",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
-						"url": "https://t.co/c8UvVPFHaq",
-						"display_url": "pic.twitter.com/c8UvVPFHaq",
-						"expanded_url": "https://twitter.com/archillect/status/1048155853923278850/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 490,
-								"h": 500,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 490,
-								"h": 500,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 490,
-								"h": 500,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1048155850324545500,
-						"id_str": "1048155850324545536",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DovMMUfXkAA5_WD.jpg",
-						"url": "https://t.co/c8UvVPFHaq",
-						"display_url": "pic.twitter.com/c8UvVPFHaq",
-						"expanded_url": "https://twitter.com/archillect/status/1048155853923278850/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 490,
-								"h": 500,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 490,
-								"h": 500,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 490,
-								"h": 500,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://machinu.net\" rel=\"nofollow\">Archillect</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2907774137,
-				"id_str": "2907774137",
-				"name": "Archillect",
-				"screen_name": "archillect",
-				"location": "Meta",
-				"description": "The ocular engine. \nSources: @archillinks\nhttps://t.co/U7Oh7xumQp",
-				"url": "https://t.co/NHrqWFz6UM",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/NHrqWFz6UM",
-								"expanded_url": "http://instagram.com/archillect.png",
-								"display_url": "instagram.com/archillect.png",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/U7Oh7xumQp",
-								"expanded_url": "http://archillect.com",
-								"display_url": "archillect.com",
-								"indices": [
-									42,
-									65
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 1026934,
-				"friends_count": 1,
-				"listed_count": 9336,
-				"created_at": "Sat Dec 06 14:07:45 +0000 2014",
-				"favourites_count": 10473,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 194730,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "050505",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2907774137/1418102176",
-				"profile_link_color": "191919",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 357,
-			"favorite_count": 1990,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
-		"retweet_count": 357,
-		"favorite_count": 0,
+		"retweet_count": 372,
+		"favorite_count": 2070,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/c8UvVPFHaq"
 	},
 	{
 		"created_at": "Fri Oct 05 10:19:27 +0000 2018",
 		"id": 1048155698973089800,
 		"id_str": "1048155698973089792",
-		"text": "Fucking. Probably doing some stoner stuff at a open mic tonight. If I end up recording the performance I'll put it… https://t.co/YHXhWQDgp5",
-		"truncated": true,
+		"full_text": "Fucking. Probably doing some stoner stuff at a open mic tonight. If I end up recording the performance I'll put it on sound cloud or something",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/YHXhWQDgp5",
-					"expanded_url": "https://twitter.com/i/web/status/1048155698973089792",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
@@ -51454,7 +46145,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -51475,16 +46166,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14262,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14521,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51518,14 +46209,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Fucking. Probably doing some stoner stuff at a open mic tonight. If I end up recording the performance I'll put it on sound cloud or something"
 	},
 	{
 		"created_at": "Fri Oct 05 00:24:36 +0000 2018",
 		"id": 1048006002384285700,
 		"id_str": "1048006002384285699",
-		"text": "Hey. Every instrument has a basic Job in music. It's how you make that job sound original and different that changes things.",
+		"full_text": "Hey. Every instrument has a basic Job in music. It's how you make that job sound original and different that changes things.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51544,7 +46240,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -51565,16 +46261,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51608,14 +46304,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Hey. Every instrument has a basic Job in music. It's how you make that job sound original and different that changes things."
 	},
 	{
 		"created_at": "Fri Oct 05 00:22:46 +0000 2018",
 		"id": 1048005539555422200,
 		"id_str": "1048005539555422218",
-		"text": "Sorry for talking about myself and my fashion goals so much tonight :&lt;",
+		"full_text": "Sorry for talking about myself and my fashion goals so much tonight :&lt;",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51634,7 +46335,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -51655,16 +46356,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51698,14 +46399,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Sorry for talking about myself and my fashion goals so much tonight :&lt;"
 	},
 	{
 		"created_at": "Fri Oct 05 00:22:20 +0000 2018",
 		"id": 1048005429777911800,
 		"id_str": "1048005429777911808",
-		"text": "Maybe a healing crystal necklace as well. I'm thinking quarts or rainbow aura quarts",
+		"full_text": "Maybe a healing crystal necklace as well. I'm thinking quarts or rainbow aura quarts",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51724,7 +46430,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -51745,16 +46451,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51788,29 +46494,24 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Maybe a healing crystal necklace as well. I'm thinking quarts or rainbow aura quarts"
 	},
 	{
 		"created_at": "Fri Oct 05 00:22:19 +0000 2018",
 		"id": 1048005426523066400,
 		"id_str": "1048005426523066369",
-		"text": "I really wanna tye dye like 5 hoodies I can switch between with my denim jacket. Really trying to achieve the Danie… https://t.co/kZydWBpg8A",
-		"truncated": true,
+		"full_text": "I really wanna tye dye like 5 hoodies I can switch between with my denim jacket. Really trying to achieve the Daniel Breiner aesthetic I've been trying to achieve for ages",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/kZydWBpg8A",
-					"expanded_url": "https://twitter.com/i/web/status/1048005426523066369",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
@@ -51824,7 +46525,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -51845,16 +46546,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51888,14 +46589,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I really wanna tye dye like 5 hoodies I can switch between with my denim jacket. Really trying to achieve the Daniel Breiner aesthetic I've been trying to achieve for ages"
 	},
 	{
 		"created_at": "Fri Oct 05 00:12:03 +0000 2018",
 		"id": 1048002842806702100,
 		"id_str": "1048002842806702080",
-		"text": "NEEDED https://t.co/yfmM3tVR5r",
+		"full_text": "NEEDED https://t.co/yfmM3tVR5r",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51992,7 +46698,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52013,16 +46719,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52057,27 +46763,100 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "NEEDED https://t.co/yfmM3tVR5r"
 	},
 	{
 		"created_at": "Thu Oct 04 23:46:55 +0000 2018",
 		"id": 1047996518907744300,
 		"id_str": "1047996518907744256",
-		"text": "I got some new jumpers today. Ones red. And ones green and black. Omw to being soft and indie as fuck whilst being… https://t.co/o8EpjOB6xv",
-		"truncated": true,
+		"full_text": "I got some new jumpers today. Ones red. And ones green and black. Omw to being soft and indie as fuck whilst being insane https://t.co/8bD8ZTNktF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/o8EpjOB6xv",
-					"expanded_url": "https://twitter.com/i/web/status/1047996518907744256",
-					"display_url": "twitter.com/i/web/status/1…",
+					"id": 1047996503401349100,
+					"id_str": "1047996503401349120",
 					"indices": [
-						116,
-						139
-					]
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Dos7RG8WwAAtlJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dos7RG8WwAAtlJF.jpg",
+					"url": "https://t.co/8bD8ZTNktF",
+					"display_url": "pic.twitter.com/8bD8ZTNktF",
+					"expanded_url": "https://twitter.com/watahbufala/status/1047996518907744256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047996503401349100,
+					"id_str": "1047996503401349120",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Dos7RG8WwAAtlJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dos7RG8WwAAtlJF.jpg",
+					"url": "https://t.co/8bD8ZTNktF",
+					"display_url": "pic.twitter.com/8bD8ZTNktF",
+					"expanded_url": "https://twitter.com/watahbufala/status/1047996518907744256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -52093,7 +46872,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52114,16 +46893,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52158,14 +46937,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I got some new jumpers today. Ones red. And ones green and black. Omw to being soft and indie as fuck whilst being insane https://t.co/8bD8ZTNktF"
 	},
 	{
 		"created_at": "Thu Oct 04 23:43:56 +0000 2018",
 		"id": 1047995766999081000,
 		"id_str": "1047995766999080962",
-		"text": "777 artists? https://t.co/QTQeX3RC6Z",
+		"full_text": "777 artists? https://t.co/QTQeX3RC6Z",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -52262,7 +47046,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52283,16 +47067,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52327,27 +47111,100 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "777 artists? https://t.co/QTQeX3RC6Z"
 	},
 	{
 		"created_at": "Thu Oct 04 22:46:36 +0000 2018",
 		"id": 1047981340950450200,
 		"id_str": "1047981340950450177",
-		"text": "ALSO I REALLY WANT A BLACK JAZZ BASS WITH A VINTAGE NECK. NO PICKGUARD CUZ FUCK PICKGUARDS. Something like this. Ma… https://t.co/bt9bRaQmuh",
-		"truncated": true,
+		"full_text": "ALSO I REALLY WANT A BLACK JAZZ BASS WITH A VINTAGE NECK. NO PICKGUARD CUZ FUCK PICKGUARDS. Something like this. Maybe put strat knobs on it for easy access https://t.co/mOLfCPsE5h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/bt9bRaQmuh",
-					"expanded_url": "https://twitter.com/i/web/status/1047981340950450177",
-					"display_url": "twitter.com/i/web/status/1…",
+					"id": 1047981333924986900,
+					"id_str": "1047981333924986880",
 					"indices": [
-						117,
-						140
-					]
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DosteIPWwAAv60S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DosteIPWwAAv60S.jpg",
+					"url": "https://t.co/mOLfCPsE5h",
+					"display_url": "pic.twitter.com/mOLfCPsE5h",
+					"expanded_url": "https://twitter.com/watahbufala/status/1047981340950450177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047981333924986900,
+					"id_str": "1047981333924986880",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DosteIPWwAAv60S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DosteIPWwAAv60S.jpg",
+					"url": "https://t.co/mOLfCPsE5h",
+					"display_url": "pic.twitter.com/mOLfCPsE5h",
+					"expanded_url": "https://twitter.com/watahbufala/status/1047981340950450177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -52363,7 +47220,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52384,16 +47241,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52428,14 +47285,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "ALSO I REALLY WANT A BLACK JAZZ BASS WITH A VINTAGE NECK. NO PICKGUARD CUZ FUCK PICKGUARDS. Something like this. Maybe put strat knobs on it for easy access https://t.co/mOLfCPsE5h"
 	},
 	{
 		"created_at": "Thu Oct 04 22:41:18 +0000 2018",
 		"id": 1047980007388315600,
 		"id_str": "1047980007388315649",
-		"text": "Also want some noise band patches on there",
+		"full_text": "Also want some noise band patches on there",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -52454,7 +47316,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52475,16 +47337,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52518,14 +47380,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Also want some noise band patches on there"
 	},
 	{
 		"created_at": "Thu Oct 04 22:41:17 +0000 2018",
 		"id": 1047980003156275200,
 		"id_str": "1047980003156275202",
-		"text": "Also this https://t.co/gFFY265VaL",
+		"full_text": "Also this https://t.co/gFFY265VaL",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -52622,7 +47489,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52643,16 +47510,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52687,14 +47554,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Also this https://t.co/gFFY265VaL"
 	},
 	{
 		"created_at": "Thu Oct 04 22:38:02 +0000 2018",
 		"id": 1047979182939103200,
 		"id_str": "1047979182939103232",
-		"text": "I'm gonna buy this patch for my jacket at some point https://t.co/wDBIOPNRb8",
+		"full_text": "I'm gonna buy this patch for my jacket at some point https://t.co/wDBIOPNRb8",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -52791,7 +47663,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52812,16 +47684,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52856,14 +47728,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I'm gonna buy this patch for my jacket at some point https://t.co/wDBIOPNRb8"
 	},
 	{
 		"created_at": "Thu Oct 04 22:37:15 +0000 2018",
 		"id": 1047978985609744400,
 		"id_str": "1047978985609744386",
-		"text": "I just applied for some jobs. I hope I actually uhh... Get them",
+		"full_text": "I just applied for some jobs. I hope I actually uhh... Get them",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -52882,7 +47759,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -52903,16 +47780,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52946,14 +47823,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I just applied for some jobs. I hope I actually uhh... Get them"
 	},
 	{
 		"created_at": "Thu Oct 04 21:45:39 +0000 2018",
 		"id": 1047965999188926500,
 		"id_str": "1047965999188926464",
-		"text": "I would fucking love this thing https://t.co/uiZnNj1Wrs",
+		"full_text": "I would fucking love this thing https://t.co/uiZnNj1Wrs",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -53050,7 +47932,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -53071,16 +47953,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -53115,14 +47997,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I would fucking love this thing https://t.co/uiZnNj1Wrs"
 	},
 	{
 		"created_at": "Thu Oct 04 08:22:19 +0000 2018",
 		"id": 1047763834155556900,
 		"id_str": "1047763834155556869",
-		"text": "Like I'm genuinely confused",
+		"full_text": "Like I'm genuinely confused",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -53141,7 +48028,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -53162,16 +48049,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -53205,14 +48092,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Like I'm genuinely confused"
 	},
 	{
 		"created_at": "Thu Oct 04 08:22:18 +0000 2018",
 		"id": 1047763830326140900,
 		"id_str": "1047763830326140928",
-		"text": "What the fuck did I just draw. I was supposed to drat a sod of grass for art and somehow it just got a bit wild https://t.co/8CIC13GC6V",
+		"full_text": "What the fuck did I just draw. I was supposed to drat a sod of grass for art and somehow it just got a bit wild https://t.co/8CIC13GC6V",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -53309,7 +48201,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -53330,16 +48222,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -53374,14 +48266,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What the fuck did I just draw. I was supposed to drat a sod of grass for art and somehow it just got a bit wild https://t.co/8CIC13GC6V"
 	},
 	{
 		"created_at": "Thu Oct 04 07:56:38 +0000 2018",
 		"id": 1047757372293308400,
 		"id_str": "1047757372293308416",
-		"text": "I am very embarrassed. I'm in a class and aparently my headphones were too loud and everyone could hear my jazz",
+		"full_text": "I am very embarrassed. I'm in a class and aparently my headphones were too loud and everyone could hear my jazz",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -53400,7 +48297,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -53421,16 +48318,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -53464,37 +48361,31 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I am very embarrassed. I'm in a class and aparently my headphones were too loud and everyone could hear my jazz"
 	},
 	{
-		"created_at": "Thu Oct 04 06:41:10 +0000 2018",
-		"id": 1047738379335585800,
-		"id_str": "1047738379335585792",
-		"text": "RT @n3sslake: https://t.co/OWz2PdRGUE",
+		"created_at": "Wed Oct 03 18:59:22 +0000 2018",
+		"id": 1047561767797383200,
+		"id_str": "1047561767797383168",
+		"full_text": "https://t.co/OWz2PdRGUE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "n3sslake",
-					"name": "ness lake",
-					"id": 929516497445310500,
-					"id_str": "929516497445310464",
-					"indices": [
-						3,
-						12
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 1047561761489084400,
 					"id_str": "1047561761489084416",
 					"indices": [
-						14,
-						37
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
@@ -53523,11 +48414,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 485,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1047561767797383200,
-					"source_status_id_str": "1047561767797383168",
-					"source_user_id": 929516497445310500,
-					"source_user_id_str": "929516497445310464"
+					}
 				}
 			]
 		},
@@ -53537,8 +48424,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 1047561761489084400,
 					"id_str": "1047561761489084416",
 					"indices": [
-						14,
-						37
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
@@ -53567,35 +48454,31 @@ Grailbird.data.tweets_2018_10 =
 							"h": 485,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1047561767797383200,
-					"source_status_id_str": "1047561767797383168",
-					"source_user_id": 929516497445310500,
-					"source_user_id_str": "929516497445310464"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 929516497445310500,
+			"id_str": "929516497445310464",
+			"name": "ness lake",
+			"screen_name": "n3sslake",
+			"location": "Ypsilanti, MI",
+			"description": "scorpio moon, reverb rising | powered by chandler/alex/jack | @t3hrecords | purchase our debut album, 'kicking': https://t.co/lgpdYXm7J1",
+			"url": "https://t.co/pPpuJtWtA5",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
+							"url": "https://t.co/pPpuJtWtA5",
+							"expanded_url": "http://nesslake.bandcamp.com",
+							"display_url": "nesslake.bandcamp.com",
 							"indices": [
 								0,
 								23
@@ -53604,20 +48487,30 @@ Grailbird.data.tweets_2018_10 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/lgpdYXm7J1",
+							"expanded_url": "https://bit.ly/2rx7LkG",
+							"display_url": "bit.ly/2rx7LkG",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
-			"listed_count": 10,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"followers_count": 624,
+			"friends_count": 433,
+			"listed_count": 3,
+			"created_at": "Sun Nov 12 01:09:37 +0000 2017",
+			"favourites_count": 3026,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 1488,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -53626,15 +48519,15 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991090458716667904/2DRBDzd2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991090458716667904/2DRBDzd2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929516497445310464/1527185163",
+			"profile_link_color": "ABB8C2",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
 			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -53646,199 +48539,25 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Oct 03 18:59:22 +0000 2018",
-			"id": 1047561767797383200,
-			"id_str": "1047561767797383168",
-			"text": "https://t.co/OWz2PdRGUE",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1047561761489084400,
-						"id_str": "1047561761489084416",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
-						"url": "https://t.co/OWz2PdRGUE",
-						"display_url": "pic.twitter.com/OWz2PdRGUE",
-						"expanded_url": "https://twitter.com/n3sslake/status/1047561767797383168/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 734,
-								"h": 485,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 449,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 734,
-								"h": 485,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1047561761489084400,
-						"id_str": "1047561761489084416",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/Domv3zHW4AAkAso.jpg",
-						"url": "https://t.co/OWz2PdRGUE",
-						"display_url": "pic.twitter.com/OWz2PdRGUE",
-						"expanded_url": "https://twitter.com/n3sslake/status/1047561767797383168/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 734,
-								"h": 485,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 449,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 734,
-								"h": 485,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 929516497445310500,
-				"id_str": "929516497445310464",
-				"name": "ness lake",
-				"screen_name": "n3sslake",
-				"location": "Ypsilanti, MI",
-				"description": "scorpio moon, reverb rising | powered by chandler/alex/jack | @t3hrecords | purchase our debut album, 'kicking': https://t.co/lgpdYXm7J1",
-				"url": "https://t.co/pPpuJtWtA5",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/pPpuJtWtA5",
-								"expanded_url": "http://nesslake.bandcamp.com",
-								"display_url": "nesslake.bandcamp.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/lgpdYXm7J1",
-								"expanded_url": "https://bit.ly/2rx7LkG",
-								"display_url": "bit.ly/2rx7LkG",
-								"indices": [
-									113,
-									136
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 565,
-				"friends_count": 388,
-				"listed_count": 2,
-				"created_at": "Sun Nov 12 01:09:37 +0000 2017",
-				"favourites_count": 2669,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 1309,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/991090458716667904/2DRBDzd2_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991090458716667904/2DRBDzd2_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/929516497445310464/1527185163",
-				"profile_link_color": "ABB8C2",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 731,
-			"favorite_count": 2332,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
-		"retweet_count": 731,
-		"favorite_count": 0,
+		"retweet_count": 800,
+		"favorite_count": 2580,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/OWz2PdRGUE"
 	},
 	{
 		"created_at": "Thu Oct 04 06:26:02 +0000 2018",
 		"id": 1047734572769796100,
 		"id_str": "1047734572769796098",
-		"text": "I need more noise music in my life",
+		"full_text": "I need more noise music in my life",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -53857,7 +48576,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -53878,16 +48597,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -53921,14 +48640,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I need more noise music in my life"
 	},
 	{
 		"created_at": "Thu Oct 04 05:57:22 +0000 2018",
 		"id": 1047727358634025000,
 		"id_str": "1047727358634024960",
-		"text": "Waking up stoned. Oof I have to get ready for school",
+		"full_text": "Waking up stoned. Oof I have to get ready for school",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -53947,7 +48671,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, and musician ✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -53968,16 +48692,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 278,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14518,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54011,14 +48735,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Waking up stoned. Oof I have to get ready for school"
 	},
 	{
 		"created_at": "Wed Oct 03 16:10:52 +0000 2018",
 		"id": 1047519362217910300,
 		"id_str": "1047519362217910273",
-		"text": "@OleSkippy I never started properly smoking cigarettes. But like. Nicotine is good",
+		"full_text": "@OleSkippy I never started properly smoking cigarettes. But like. Nicotine is good",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			82
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -54048,7 +48777,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -54070,15 +48799,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54112,14 +48841,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@OleSkippy I never started properly smoking cigarettes. But like. Nicotine is good"
 	},
 	{
 		"created_at": "Wed Oct 03 12:26:53 +0000 2018",
 		"id": 1047462995348115500,
 		"id_str": "1047462995348115456",
-		"text": "I need a vape. But for the sole reason that nicotine is like good. And smoking is badd",
+		"full_text": "I need a vape. But for the sole reason that nicotine is like good. And smoking is badd",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -54138,7 +48872,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -54160,15 +48894,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54199,24 +48933,29 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I need a vape. But for the sole reason that nicotine is like good. And smoking is badd"
 	},
 	{
 		"created_at": "Wed Oct 03 12:25:18 +0000 2018",
 		"id": 1047462597593890800,
 		"id_str": "1047462597593890817",
-		"text": "@aDreamGazer AHHHH thank you!!! Hopefully it'll become something eventually. But. Bass is really really fun",
+		"full_text": "@aDreamGazer AHHHH thank you!!! Hopefully it'll become something eventually. But. Bass is really really fun",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			107
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "aDreamGazer",
-					"name": "Julia🌺✨",
+					"name": "Jules💖🌙",
 					"id": 3130901105,
 					"id_str": "3130901105",
 					"indices": [
@@ -54239,7 +48978,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -54261,15 +49000,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54303,29 +49042,24 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@aDreamGazer AHHHH thank you!!! Hopefully it'll become something eventually. But. Bass is really really fun"
 	},
 	{
 		"created_at": "Wed Oct 03 11:56:21 +0000 2018",
 		"id": 1047455310284251100,
 		"id_str": "1047455310284251136",
-		"text": "I'll get a drummer to record since I can't play but I'll write everything. There will prolly be some post rock elem… https://t.co/GoMywIg2lf",
-		"truncated": true,
+		"full_text": "I'll get a drummer to record since I can't play but I'll write everything. There will prolly be some post rock elements. Prolly gonna keep writing and play some stuff for some people before I go all in.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/GoMywIg2lf",
-					"expanded_url": "https://twitter.com/i/web/status/1047455310284251136",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": 1047455307713204200,
@@ -54339,7 +49073,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -54361,15 +49095,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54403,29 +49137,24 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I'll get a drummer to record since I can't play but I'll write everything. There will prolly be some post rock elements. Prolly gonna keep writing and play some stuff for some people before I go all in."
 	},
 	{
 		"created_at": "Wed Oct 03 11:56:20 +0000 2018",
 		"id": 1047455307713204200,
 		"id_str": "1047455307713204225",
-		"text": "Anyway. I'm doing a stoner/noise rock solo album I've decided. It's gonna take a while but like it's a goal. It's g… https://t.co/QX3pdmIgDt",
-		"truncated": true,
+		"full_text": "Anyway. I'm doing a stoner/noise rock solo album I've decided. It's gonna take a while but like it's a goal. It's gonna be written mainly on bass/drums",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/QX3pdmIgDt",
-					"expanded_url": "https://twitter.com/i/web/status/1047455307713204225",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": 1047455305418903600,
@@ -54439,7 +49168,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -54461,15 +49190,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54503,14 +49232,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Anyway. I'm doing a stoner/noise rock solo album I've decided. It's gonna take a while but like it's a goal. It's gonna be written mainly on bass/drums"
 	},
 	{
 		"created_at": "Wed Oct 03 11:56:20 +0000 2018",
 		"id": 1047455305418903600,
 		"id_str": "1047455305418903552",
-		"text": "Jeez Ive been trying to tweet this vid since yesterday",
+		"full_text": "Jeez Ive been trying to tweet this vid since yesterday",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -54529,7 +49263,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -54551,15 +49285,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54593,14 +49327,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Jeez Ive been trying to tweet this vid since yesterday"
 	},
 	{
 		"created_at": "Wed Oct 03 11:53:38 +0000 2018",
 		"id": 1047454625673240600,
 		"id_str": "1047454625673240576",
-		"text": "https://t.co/oD1PTGTaE6",
+		"full_text": "https://t.co/oD1PTGTaE6",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -54728,7 +49467,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -54750,15 +49489,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54793,37 +49532,31 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/oD1PTGTaE6"
 	},
 	{
-		"created_at": "Wed Oct 03 11:52:06 +0000 2018",
-		"id": 1047454241525305300,
-		"id_str": "1047454241525305349",
-		"text": "RT @tatamepi: 毒キネコ🍄 https://t.co/uFuAcjq9oE",
+		"created_at": "Sat Sep 29 12:04:06 +0000 2018",
+		"id": 1046007709970001900,
+		"id_str": "1046007709970001920",
+		"full_text": "毒キネコ🍄 https://t.co/uFuAcjq9oE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "tatamepi",
-					"name": "たたメーピー",
-					"id": 972505042879103000,
-					"id_str": "972505042879102976",
-					"indices": [
-						3,
-						12
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 1046007704848805900,
 					"id_str": "1046007704848805888",
 					"indices": [
-						20,
-						43
+						6,
+						29
 					],
 					"media_url": "http://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
@@ -54852,11 +49585,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 680,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1046007709970001900,
-					"source_status_id_str": "1046007709970001920",
-					"source_user_id": 972505042879103000,
-					"source_user_id_str": "972505042879102976"
+					}
 				}
 			]
 		},
@@ -54866,8 +49595,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 1046007704848805900,
 					"id_str": "1046007704848805888",
 					"indices": [
-						20,
-						43
+						6,
+						29
 					],
 					"media_url": "http://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
@@ -54896,75 +49625,58 @@ Grailbird.data.tweets_2018_10 =
 							"h": 680,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1046007709970001900,
-					"source_status_id_str": "1046007709970001920",
-					"source_user_id": 972505042879103000,
-					"source_user_id_str": "972505042879102976"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 972505042879103000,
+			"id_str": "972505042879102976",
+			"name": "たたメーピー",
+			"screen_name": "tatamepi",
+			"location": "",
+			"description": "9.22〜猫好きのお絵かきアカウントです🍓🐈ちょっと変なモノ好き。略呼びok FRB.ok🌳🏠🍀☘️☘️",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 279,
-			"friends_count": 292,
-			"listed_count": 10,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"followers_count": 4666,
+			"friends_count": 58,
+			"listed_count": 55,
+			"created_at": "Sat Mar 10 16:10:45 +0000 2018",
+			"favourites_count": 1290,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14499,
-			"lang": "en",
+			"statuses_count": 426,
+			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043383528090550272/PbayApKk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043383528090550272/PbayApKk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/972505042879102976/1525391286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -54975,183 +49687,32 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Sep 29 12:04:06 +0000 2018",
-			"id": 1046007709970001900,
-			"id_str": "1046007709970001920",
-			"text": "毒キネコ🍄 https://t.co/uFuAcjq9oE",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1046007704848805900,
-						"id_str": "1046007704848805888",
-						"indices": [
-							6,
-							29
-						],
-						"media_url": "http://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
-						"url": "https://t.co/uFuAcjq9oE",
-						"display_url": "pic.twitter.com/uFuAcjq9oE",
-						"expanded_url": "https://twitter.com/tatamepi/status/1046007709970001920/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 904,
-								"h": 904,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 904,
-								"h": 904,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 680,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1046007704848805900,
-						"id_str": "1046007704848805888",
-						"indices": [
-							6,
-							29
-						],
-						"media_url": "http://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoQqdy_VsAA4F6F.jpg",
-						"url": "https://t.co/uFuAcjq9oE",
-						"display_url": "pic.twitter.com/uFuAcjq9oE",
-						"expanded_url": "https://twitter.com/tatamepi/status/1046007709970001920/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 904,
-								"h": 904,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 904,
-								"h": 904,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 680,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 972505042879103000,
-				"id_str": "972505042879102976",
-				"name": "たたメーピー",
-				"screen_name": "tatamepi",
-				"location": "",
-				"description": "9.22〜猫好きのお絵かきアカウントです🍓🐈ちょっと変なモノ好き。略呼びok FRB.ok🌳🏠🍀☘️☘️",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 352,
-				"friends_count": 52,
-				"listed_count": 2,
-				"created_at": "Sat Mar 10 16:10:45 +0000 2018",
-				"favourites_count": 246,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 79,
-				"lang": "ja",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1043383528090550272/PbayApKk_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043383528090550272/PbayApKk_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972505042879102976/1525391286",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2487,
-			"favorite_count": 6860,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ja"
-		},
 		"is_quote_status": false,
-		"retweet_count": 2487,
-		"favorite_count": 0,
+		"retweet_count": 3166,
+		"favorite_count": 8587,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "ja"
+		"lang": "ja",
+		"text": "毒キネコ🍄 https://t.co/uFuAcjq9oE"
 	},
 	{
 		"created_at": "Wed Oct 03 11:31:41 +0000 2018",
 		"id": 1047449103116976100,
 		"id_str": "1047449103116976129",
-		"text": "@GamersAreEvil I think it was very very necessary",
+		"full_text": "@GamersAreEvil I think it was very very necessary",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			49
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "GamersAreEvil",
-					"name": "Rosa 🏴",
+					"name": "Rosa🔻",
 					"id": 1002610179488256000,
 					"id_str": "1002610179488256000",
 					"indices": [
@@ -55174,7 +49735,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55196,15 +49757,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55238,14 +49799,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@GamersAreEvil I think it was very very necessary"
 	},
 	{
 		"created_at": "Wed Oct 03 11:29:14 +0000 2018",
 		"id": 1047448485346336800,
 		"id_str": "1047448485346336768",
-		"text": "Stop tweeting the meme acquisition image it's not funny just save the fucking meme lmao",
+		"full_text": "Stop tweeting the meme acquisition image it's not funny just save the fucking meme lmao",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55264,7 +49830,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55286,15 +49852,15 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 279,
-			"friends_count": 292,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14499,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55328,29 +49894,24 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Stop tweeting the meme acquisition image it's not funny just save the fucking meme lmao"
 	},
 	{
 		"created_at": "Wed Oct 03 00:43:10 +0000 2018",
 		"id": 1047285899875274800,
 		"id_str": "1047285899875274752",
-		"text": "I am gonna become who I want to be. I will start dressing I want and start creating things I want to create. I am D… https://t.co/AB5QfE4S9V",
-		"truncated": true,
+		"full_text": "I am gonna become who I want to be. I will start dressing I want and start creating things I want to create. I am Daniel Breiner and I can heckin do it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/AB5QfE4S9V",
-					"expanded_url": "https://twitter.com/i/web/status/1047285899875274752",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
@@ -55364,7 +49925,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55385,16 +49946,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14492,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55428,14 +49989,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I am gonna become who I want to be. I will start dressing I want and start creating things I want to create. I am Daniel Breiner and I can heckin do it"
 	},
 	{
 		"created_at": "Wed Oct 03 00:39:10 +0000 2018",
 		"id": 1047284893036765200,
 		"id_str": "1047284893036765187",
-		"text": "Like very beginning where do I start lmao",
+		"full_text": "Like very beginning where do I start lmao",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55454,7 +50020,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55475,16 +50041,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14492,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55518,14 +50084,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Like very beginning where do I start lmao"
 	},
 	{
 		"created_at": "Wed Oct 03 00:38:08 +0000 2018",
 		"id": 1047284631756791800,
 		"id_str": "1047284631756791808",
-		"text": "How do I start making noise music?",
+		"full_text": "How do I start making noise music?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55544,7 +50115,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55565,16 +50136,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 293,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14258,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14492,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55604,18 +50175,23 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
+		"retweet_count": 1,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "How do I start making noise music?"
 	},
 	{
 		"created_at": "Mon Oct 01 14:02:00 +0000 2018",
 		"id": 1046762155889094700,
 		"id_str": "1046762155889094657",
-		"text": "hey you guys remember john maus? cuz  hes  really good and you should https://t.co/yqtqhRgsou",
+		"full_text": "hey you guys remember john maus? cuz  hes  really good and you should https://t.co/yqtqhRgsou",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55644,7 +50220,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55665,16 +50241,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14489,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55709,14 +50285,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "hey you guys remember john maus? cuz  hes  really good and you should https://t.co/yqtqhRgsou"
 	},
 	{
 		"created_at": "Mon Oct 01 13:53:24 +0000 2018",
 		"id": 1046759992274112500,
 		"id_str": "1046759992274112513",
-		"text": "https://t.co/7F4rXNUPLr this  is just. really good",
+		"full_text": "https://t.co/7F4rXNUPLr this  is just. really good",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55745,7 +50326,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55766,16 +50347,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14489,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55810,14 +50391,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "https://t.co/7F4rXNUPLr this  is just. really good"
 	},
 	{
 		"created_at": "Mon Oct 01 13:07:54 +0000 2018",
 		"id": 1046748542403072000,
 		"id_str": "1046748542403072007",
-		"text": "I saved a @YouTube playlist https://t.co/bFd0aSIFqA Falling",
+		"full_text": "I saved a @YouTube playlist https://t.co/bFd0aSIFqA Falling",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55857,7 +50443,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55878,16 +50464,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14489,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -55922,14 +50508,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I saved a @YouTube playlist https://t.co/bFd0aSIFqA Falling"
 	},
 	{
 		"created_at": "Mon Oct 01 12:50:19 +0000 2018",
 		"id": 1046744116296654800,
 		"id_str": "1046744116296654853",
-		"text": "wish i could play drums now lmao. letter people show is a good song and made me realize",
+		"full_text": "wish i could play drums now lmao. letter people show is a good song and made me realize",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55948,7 +50539,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -55969,16 +50560,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14489,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -56012,29 +50603,24 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "wish i could play drums now lmao. letter people show is a good song and made me realize"
 	},
 	{
 		"created_at": "Mon Oct 01 12:47:56 +0000 2018",
 		"id": 1046743517614288900,
 		"id_str": "1046743517614288896",
-		"text": "drums are so expressive  as  instruments tbh. and in like a unexpected way. they kinda just have a lot of personali… https://t.co/Igji9xACAn",
-		"truncated": true,
+		"full_text": "drums are so expressive  as  instruments tbh. and in like a unexpected way. they kinda just have a lot of personality when  played with personality",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/Igji9xACAn",
-					"expanded_url": "https://twitter.com/i/web/status/1046743517614288896",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
@@ -56048,7 +50634,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -56069,16 +50655,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14489,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -56112,14 +50698,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "drums are so expressive  as  instruments tbh. and in like a unexpected way. they kinda just have a lot of personality when  played with personality"
 	},
 	{
 		"created_at": "Mon Oct 01 12:46:40 +0000 2018",
 		"id": 1046743197307867100,
 		"id_str": "1046743197307867136",
-		"text": "#nowplaying this is pretty neat https://t.co/RRZjWqXfzN",
+		"full_text": "#nowplaying this is pretty neat https://t.co/RRZjWqXfzN",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -56224,7 +50815,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -56245,16 +50836,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14489,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -56289,14 +50880,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#nowplaying this is pretty neat https://t.co/RRZjWqXfzN"
 	},
 	{
 		"created_at": "Mon Oct 01 12:29:48 +0000 2018",
 		"id": 1046738954391900200,
 		"id_str": "1046738954391900160",
-		"text": "lrt:  naruto  was actually heckin good. believe it",
+		"full_text": "lrt:  naruto  was actually heckin good. believe it",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -56315,7 +50911,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️ FUCKING BASS",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -56336,16 +50932,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
+			"followers_count": 279,
+			"friends_count": 330,
 			"listed_count": 10,
 			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"favourites_count": 14522,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14489,
+			"statuses_count": 15158,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -56379,37 +50975,31 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "lrt:  naruto  was actually heckin good. believe it"
 	},
 	{
-		"created_at": "Mon Oct 01 12:29:30 +0000 2018",
-		"id": 1046738876486889500,
-		"id_str": "1046738876486889474",
-		"text": "RT @qwe1007: https://t.co/zgluwoBsQL",
+		"created_at": "Fri Sep 28 19:41:33 +0000 2018",
+		"id": 1045760442449113100,
+		"id_str": "1045760442449113088",
+		"full_text": "https://t.co/zgluwoBsQL",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "qwe1007",
-					"name": "골골",
-					"id": 1453213603,
-					"id_str": "1453213603",
-					"indices": [
-						3,
-						11
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 1045760411813830700,
 					"id_str": "1045760411813830656",
 					"indices": [
-						13,
-						36
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
@@ -56438,11 +51028,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 578,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1045760442449113100,
-					"source_status_id_str": "1045760442449113088",
-					"source_user_id": 1453213603,
-					"source_user_id_str": "1453213603"
+					}
 				}
 			]
 		},
@@ -56452,8 +51038,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 1045760411813830700,
 					"id_str": "1045760411813830656",
 					"indices": [
-						13,
-						36
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
@@ -56482,35 +51068,31 @@ Grailbird.data.tweets_2018_10 =
 							"h": 578,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1045760442449113100,
-					"source_status_id_str": "1045760442449113088",
-					"source_user_id": 1453213603,
-					"source_user_id_str": "1453213603"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 2528303382,
-			"id_str": "2528303382",
-			"name": "Dan🌱🌲",
-			"screen_name": "watahbufala",
-			"location": "Cork, Ireland",
-			"description": "✖️17 | he/him✖️music enthusiast, creator, guitarist✖️ I really like opossums, GY!BE, and homestuck sorta✖️",
-			"url": "https://t.co/WQlPbtvFQr",
+			"id": 1453213603,
+			"id_str": "1453213603",
+			"name": "골골",
+			"screen_name": "qwe1007",
+			"location": "대한민국",
+			"description": "낙서/ 장르팔로x/ Icon-@ffl169",
+			"url": "https://t.co/OP6adcnLb9",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/WQlPbtvFQr",
-							"expanded_url": "https://imnotedgyiswear.carrd.co",
-							"display_url": "imnotedgyiswear.carrd.co",
+							"url": "https://t.co/OP6adcnLb9",
+							"expanded_url": "http://nnnn0000.tistory.com/entry/%EC%BB%B4%EC%88%80?category=300917",
+							"display_url": "nnnn0000.tistory.com/entry/%EC%BB%B…",
 							"indices": [
 								0,
 								23
@@ -56523,32 +51105,32 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 277,
-			"friends_count": 292,
-			"listed_count": 10,
-			"created_at": "Tue May 27 21:32:02 +0000 2014",
-			"favourites_count": 14257,
+			"followers_count": 14659,
+			"friends_count": 474,
+			"listed_count": 184,
+			"created_at": "Fri May 24 04:18:52 +0000 2013",
+			"favourites_count": 9926,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14489,
-			"lang": "en",
+			"statuses_count": 1948,
+			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980432743506038784/uNeooCPm_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
-			"profile_link_color": "036016",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031933746004484096/2EWQ5yVE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031933746004484096/2EWQ5yVE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1453213603/1535742079",
+			"profile_link_color": "000000",
 			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
@@ -56561,181 +51143,13 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Sep 28 19:41:33 +0000 2018",
-			"id": 1045760442449113100,
-			"id_str": "1045760442449113088",
-			"text": "https://t.co/zgluwoBsQL",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1045760411813830700,
-						"id_str": "1045760411813830656",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
-						"url": "https://t.co/zgluwoBsQL",
-						"display_url": "pic.twitter.com/zgluwoBsQL",
-						"expanded_url": "https://twitter.com/qwe1007/status/1045760442449113088/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1248,
-								"h": 1061,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 1020,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 578,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1045760411813830700,
-						"id_str": "1045760411813830656",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoNJjcpUYAAiJHn.jpg",
-						"url": "https://t.co/zgluwoBsQL",
-						"display_url": "pic.twitter.com/zgluwoBsQL",
-						"expanded_url": "https://twitter.com/qwe1007/status/1045760442449113088/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1248,
-								"h": 1061,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 1020,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 578,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 1453213603,
-				"id_str": "1453213603",
-				"name": "골골",
-				"screen_name": "qwe1007",
-				"location": "대한민국",
-				"description": "낙서/장르팔로x/프사-@ffl169 ㅠㅠ",
-				"url": "https://t.co/7gtQ6zQgqY",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/7gtQ6zQgqY",
-								"expanded_url": "http://nnnn0000.tistory.com",
-								"display_url": "nnnn0000.tistory.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 13205,
-				"friends_count": 479,
-				"listed_count": 147,
-				"created_at": "Fri May 24 04:18:52 +0000 2013",
-				"favourites_count": 9889,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 1890,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1031933746004484096/2EWQ5yVE_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031933746004484096/2EWQ5yVE_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1453213603/1535742079",
-				"profile_link_color": "000000",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "EFEFEF",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 4420,
-			"favorite_count": 14346,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
-		"retweet_count": 4420,
-		"favorite_count": 0,
+		"retweet_count": 5008,
+		"favorite_count": 16036,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/zgluwoBsQL"
 	}
 ]
