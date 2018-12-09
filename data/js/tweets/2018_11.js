@@ -77,6 +77,129 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1240946,
+			"friends_count": 219,
+			"listed_count": 4324,
+			"created_at": "Mon Sep 15 17:21:54 +0000 2008",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847818629840228354/VXyQHfn0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847818629840228354/VXyQHfn0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16298441/1394248006",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "5B5BA8",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4274,
+		"favorite_count": 23876,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i hate it when im jacking off, and... And, uh,.  thats it. thats the tweet"
+	},
+	{
+		"created_at": "Fri Nov 30 18:57:35 +0000 2018",
+		"id": 1068579814653612000,
+		"id_str": "1068579814653612033",
+		"full_text": "i hate it when im jacking off, and... And, uh,.  thats it. thats the tweet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16298441,
+			"id_str": "16298441",
+			"name": "wint",
+			"screen_name": "dril",
+			"location": "Los Angeles, CA",
+			"description": "- power meeting Grace - favs Unbound - abraham lincon of posts https://t.co/7s3kzPVS58 book: https://t.co/EEkj3HsC6h  pdf: https://t.co/exiXvbtJLz",
+			"url": "https://t.co/gFieIN1TkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gFieIN1TkS",
+							"expanded_url": "http://www.wint.co",
+							"display_url": "wint.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7s3kzPVS58",
+							"expanded_url": "http://patreon.com/dril",
+							"display_url": "patreon.com/dril",
+							"indices": [
+								63,
+								86
+							]
+						},
+						{
+							"url": "https://t.co/EEkj3HsC6h",
+							"expanded_url": "http://amzn.to/2PtWjS5",
+							"display_url": "amzn.to/2PtWjS5",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/exiXvbtJLz",
+							"expanded_url": "http://gum.co/drilbook",
+							"display_url": "gum.co/drilbook",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 1240411,
 			"friends_count": 219,
 			"listed_count": 4316,
@@ -25833,7 +25956,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "𝕊𝕒𝕕 𝕔𝕠𝕨𝕓𝕠𝕪 🅥",
 			"screen_name": "fatherjstn",
 			"location": "TX 🛫LA",
-			"description": "‍ ‍ 𝙮𝙚𝙚 “𝘢𝘯𝘥 𝘪 𝘤𝘢𝘯’𝘵 𝘴𝘵𝘳𝘦𝘴𝘴 𝘵𝘩𝘪𝘴 𝘦𝘯𝘰𝘶𝘨𝘩” 𝙝𝙖𝙬",
+			"description": "  𝙮𝙚𝙚 “𝘢𝘯𝘥 𝘪 𝘤𝘢𝘯’𝘵 𝘴𝘵𝘳𝘦𝘴𝘴 𝘵𝘩𝘪𝘴 𝘦𝘯𝘰𝘶𝘨𝘩” 𝙝𝙖𝙬",
 			"url": "https://t.co/odhW9gmXwY",
 			"entities": {
 				"url": {
@@ -45201,7 +45324,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "Wren",
 			"screen_name": "sleeprealms",
 			"location": "colorado",
-			"description": "I'm a cartoonist, games maker and aloof goblin. Trans. Working on a game with @bombsfall  she 🏳️‍🌈 ⛥",
+			"description": "I'm a cartoonist, games maker and aloof goblin. Trans. Working on a game with @bombsfall  she 🏳️🌈 ⛥",
 			"url": "https://t.co/kszRTrn4EO",
 			"entities": {
 				"url": {
@@ -49873,7 +49996,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "Wren",
 			"screen_name": "sleeprealms",
 			"location": "colorado",
-			"description": "I'm a cartoonist, games maker and aloof goblin. Trans. Working on a game with @bombsfall  she 🏳️‍🌈 ⛥",
+			"description": "I'm a cartoonist, games maker and aloof goblin. Trans. Working on a game with @bombsfall  she 🏳️🌈 ⛥",
 			"url": "https://t.co/kszRTrn4EO",
 			"entities": {
 				"url": {
@@ -50155,7 +50278,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "Wren",
 			"screen_name": "sleeprealms",
 			"location": "colorado",
-			"description": "I'm a cartoonist, games maker and aloof goblin. Trans. Working on a game with @bombsfall  she 🏳️‍🌈 ⛥",
+			"description": "I'm a cartoonist, games maker and aloof goblin. Trans. Working on a game with @bombsfall  she 🏳️🌈 ⛥",
 			"url": "https://t.co/kszRTrn4EO",
 			"entities": {
 				"url": {
