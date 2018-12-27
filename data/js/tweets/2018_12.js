@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 16:02:14 +0000 2018",
+		"id": 1077595383507836900,
+		"id_str": "1077595383507836929",
+		"full_text": "i think about this alot https://t.co/XDxYakD1uM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077595380546596900,
+					"id_str": "1077595380546596864",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DvRjSg0U8AAQHF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvRjSg0U8AAQHF-.jpg",
+					"url": "https://t.co/XDxYakD1uM",
+					"display_url": "pic.twitter.com/XDxYakD1uM",
+					"expanded_url": "https://twitter.com/strayyato/status/1077595383507836929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077595380546596900,
+					"id_str": "1077595380546596864",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DvRjSg0U8AAQHF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvRjSg0U8AAQHF-.jpg",
+					"url": "https://t.co/XDxYakD1uM",
+					"display_url": "pic.twitter.com/XDxYakD1uM",
+					"expanded_url": "https://twitter.com/strayyato/status/1077595383507836929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996364397088989200,
+			"id_str": "996364397088989184",
+			"name": "den",
+			"screen_name": "strayyato",
+			"location": "she/her",
+			"description": "somebody once told me it's your quirk todoroki",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3927,
+			"friends_count": 647,
+			"listed_count": 68,
+			"created_at": "Tue May 15 12:19:18 +0000 2018",
+			"favourites_count": 16726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077489013307535362/QwY_DNH9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077489013307535362/QwY_DNH9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996364397088989184/1545729141",
+			"profile_link_color": "8A0707",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1405,
+		"favorite_count": 2886,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i think about this alot https://t.co/XDxYakD1uM"
+	},
+	{
+		"created_at": "Wed Dec 26 04:40:02 +0000 2018",
+		"id": 1077786090755498000,
+		"id_str": "1077786090755497984",
+		"full_text": "did you fuck my mom? did you\n\nfuck\n\n          my\n  \n                   mom\n\ndid you fuck my mom, santa clause? did you fuck my mom? did you 𝒇𝒖𝒄𝒌 her? did you \n\n𝓯𝓾𝓬𝓴\n\nmy\n\n𝓯𝓾𝓬𝓴𝓲𝓷𝓰 𝓶𝓸𝓶\n\n𝔻𝕀𝔻 𝕐𝕆𝕌 𝔽𝕌ℂ𝕂 𝕄𝕐 𝕄𝕆𝕄, 𝕊𝔸ℕ𝕋𝔸?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4291192037,
+			"id_str": "4291192037",
+			"name": "𝕲𝖔𝖙𝖍 𝕵𝖆𝖈𝖐𝖎𝖊 𝕭𝖚𝖗𝖐𝖍𝖆𝖗𝖙",
+			"screen_name": "itstatyannag",
+			"location": "Fascination Street",
+			"description": "Sweetness, sweetness I was only joking when I said I’d like to smash every tooth in your head 🦷 Instagram: gothjackieburkhart",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7913,
+			"friends_count": 573,
+			"listed_count": 139,
+			"created_at": "Fri Nov 27 01:33:10 +0000 2015",
+			"favourites_count": 157285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070765452073332737/U5TUwdaD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070765452073332737/U5TUwdaD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4291192037/1545151868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2325,
+		"favorite_count": 9163,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "did you fuck my mom? did you\n\nfuck\n\n          my\n  \n                   mom\n\ndid you fuck my mom, santa clause? did you fuck my mom? did you 𝒇𝒖𝒄𝒌 her? did you \n\n𝓯𝓾𝓬𝓴\n\nmy\n\n𝓯𝓾𝓬𝓴𝓲𝓷𝓰 𝓶𝓸𝓶\n\n𝔻𝕀𝔻 𝕐𝕆𝕌 𝔽𝕌ℂ𝕂 𝕄𝕐 𝕄𝕆𝕄, 𝕊𝔸ℕ𝕋𝔸?"
+	},
+	{
+		"created_at": "Wed Dec 26 00:43:44 +0000 2018",
+		"id": 1077726620964786200,
+		"id_str": "1077726620964786176",
+		"full_text": "this dude on mercari is selling sonic and the black knight for a thousand dollars https://t.co/pSJe4y0Xgh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077726531215077400,
+					"id_str": "1077726531215077376",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DvTakfIWsAAHqJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvTakfIWsAAHqJR.jpg",
+					"url": "https://t.co/pSJe4y0Xgh",
+					"display_url": "pic.twitter.com/pSJe4y0Xgh",
+					"expanded_url": "https://twitter.com/wmvnotmp4/status/1077726620964786176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1351,
+							"h": 629,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077726531215077400,
+					"id_str": "1077726531215077376",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DvTakfIWsAAHqJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvTakfIWsAAHqJR.jpg",
+					"url": "https://t.co/pSJe4y0Xgh",
+					"display_url": "pic.twitter.com/pSJe4y0Xgh",
+					"expanded_url": "https://twitter.com/wmvnotmp4/status/1077726620964786176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1351,
+							"h": 629,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077726558696206300,
+					"id_str": "1077726558696206346",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DvTamFgXcAoTzUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvTamFgXcAoTzUn.jpg",
+					"url": "https://t.co/pSJe4y0Xgh",
+					"display_url": "pic.twitter.com/pSJe4y0Xgh",
+					"expanded_url": "https://twitter.com/wmvnotmp4/status/1077726620964786176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 331,
+							"h": 404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 331,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2907288472,
+			"id_str": "2907288472",
+			"name": "Olivier.wmv",
+			"screen_name": "wmvnotmp4",
+			"location": "Pumpkin Hill",
+			"description": "my account is where the Internet ends, and hell begins.",
+			"url": "https://t.co/e7ikkJ8YbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e7ikkJ8YbI",
+							"expanded_url": "https://www.youtube.com/channel/UCxsrt8Gvn0InP9-DqnotZWA",
+							"display_url": "youtube.com/channel/UCxsrt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 343,
+			"listed_count": 6,
+			"created_at": "Sat Dec 06 04:01:13 +0000 2014",
+			"favourites_count": 48375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077761171074306048/Ir6paIVY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077761171074306048/Ir6paIVY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2907288472/1540048375",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 473,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this dude on mercari is selling sonic and the black knight for a thousand dollars https://t.co/pSJe4y0Xgh"
+	},
+	{
+		"created_at": "Wed Dec 26 14:02:20 +0000 2018",
+		"id": 1077927597332488200,
+		"id_str": "1077927597332488193",
+		"full_text": "What a colossal unit. Day 7. I think he should stop growing soon?? https://t.co/lMdYdk7xC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077927589786931200,
+					"id_str": "1077927589786931200",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DvWRborX0AA2ouu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvWRborX0AA2ouu.jpg",
+					"url": "https://t.co/lMdYdk7xC6",
+					"display_url": "pic.twitter.com/lMdYdk7xC6",
+					"expanded_url": "https://twitter.com/watahbufala/status/1077927597332488193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077927589786931200,
+					"id_str": "1077927589786931200",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DvWRborX0AA2ouu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvWRborX0AA2ouu.jpg",
+					"url": "https://t.co/lMdYdk7xC6",
+					"display_url": "pic.twitter.com/lMdYdk7xC6",
+					"expanded_url": "https://twitter.com/watahbufala/status/1077927597332488193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077569431897886700,
+		"in_reply_to_status_id_str": "1077569431897886720",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 280,
+			"friends_count": 326,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1536837734",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a colossal unit. Day 7. I think he should stop growing soon?? https://t.co/lMdYdk7xC6"
+	},
+	{
 		"created_at": "Tue Dec 25 23:04:17 +0000 2018",
 		"id": 1077701594358140900,
 		"id_str": "1077701594358140929",
