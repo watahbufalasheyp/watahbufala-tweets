@@ -1,6 +1,1189 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 01:26:49 +0000 2019",
+		"id": 1088609099938443300,
+		"id_str": "1088609099938443264",
+		"full_text": "No one:\n\nJK Rowling: Dobby has a 10 inch cock",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815972466875072500,
+			"id_str": "815972466875072518",
+			"name": "fraser",
+			"screen_name": "iNabberTV",
+			"location": "https://discord.gg/BJS4cTX",
+			"description": "BEAN NATION",
+			"url": "https://t.co/kYsydhyIIm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kYsydhyIIm",
+							"expanded_url": "https://www.youtube.com/channel/UCwM8W2IEsCLRQWc6krOlRVw",
+							"display_url": "youtube.com/channel/UCwM8W…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35010,
+			"friends_count": 651,
+			"listed_count": 197,
+			"created_at": "Mon Jan 02 17:26:10 +0000 2017",
+			"favourites_count": 56269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088232713591635970/VOpqL9-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088232713591635970/VOpqL9-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815972466875072518/1537179552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27527,
+		"favorite_count": 136049,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "No one:\n\nJK Rowling: Dobby has a 10 inch cock"
+	},
+	{
+		"created_at": "Thu Jan 24 01:25:52 +0000 2019",
+		"id": 1088246473719013400,
+		"id_str": "1088246473719013377",
+		"full_text": "patrick star is licensed to fuck your wife https://t.co/eDIUdJv0Dp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088246453619675100,
+					"id_str": "1088246453619675137",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxo6YkAUUAEo07g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxo6YkAUUAEo07g.jpg",
+					"url": "https://t.co/eDIUdJv0Dp",
+					"display_url": "pic.twitter.com/eDIUdJv0Dp",
+					"expanded_url": "https://twitter.com/Emerytchi/status/1088246473719013377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 413,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 413,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 413,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088246453619675100,
+					"id_str": "1088246453619675137",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxo6YkAUUAEo07g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxo6YkAUUAEo07g.jpg",
+					"url": "https://t.co/eDIUdJv0Dp",
+					"display_url": "pic.twitter.com/eDIUdJv0Dp",
+					"expanded_url": "https://twitter.com/Emerytchi/status/1088246473719013377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 413,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 413,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 413,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1301639382,
+			"id_str": "1301639382",
+			"name": "Emery McEmerson™️",
+			"screen_name": "Emerytchi",
+			"location": "Toronto, Ontario",
+			"description": "☁️ Emery | 22 | ⚢ 🏳️‍🌈 | They ☁️ —— I am very mysterious and I know a lot about Tamagotchis — 🌙 {Art: @EmeryMunro}",
+			"url": "https://t.co/tWloBbrxVP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tWloBbrxVP",
+							"expanded_url": "https://mudflap.carrd.co/",
+							"display_url": "mudflap.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 200,
+			"listed_count": 7,
+			"created_at": "Mon Mar 25 23:50:34 +0000 2013",
+			"favourites_count": 25402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0D1EF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089221646723006464/yIGV7gvW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089221646723006464/yIGV7gvW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1301639382/1548551697",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2211,
+		"favorite_count": 6032,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "patrick star is licensed to fuck your wife https://t.co/eDIUdJv0Dp"
+	},
+	{
+		"created_at": "Fri Jan 25 03:30:36 +0000 2019",
+		"id": 1088640249347989500,
+		"id_str": "1088640249347989506",
+		"full_text": "when u get out the shower and they still haven't text u back https://t.co/FfqjwPfM6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfqjwPfM6C",
+					"expanded_url": "https://twitter.com/noidontloveu/status/1088637690826903553",
+					"display_url": "twitter.com/noidontloveu/s…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1497325416,
+			"id_str": "1497325416",
+			"name": "ᵇᵃᵇʸ ᵍ♡",
+			"screen_name": "foreigngalgerm",
+			"location": "tyler texas",
+			"description": "follow me for funny and relatable tweets ♡\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ni sell nudes l 👻: this_lilgerman",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25953,
+			"friends_count": 4041,
+			"listed_count": 468,
+			"created_at": "Mon Jun 10 04:35:28 +0000 2013",
+			"favourites_count": 10640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1138,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086703949317632000/3ct3nvdz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086703949317632000/3ct3nvdz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1497325416/1547925384",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088637690826903600,
+		"quoted_status_id_str": "1088637690826903553",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FfqjwPfM6C",
+			"expanded": "https://twitter.com/noidontloveu/status/1088637690826903553",
+			"display": "twitter.com/noidontloveu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 03:20:26 +0000 2019",
+			"id": 1088637690826903600,
+			"id_str": "1088637690826903553",
+			"full_text": "Caption this😂 https://t.co/dTMR4hEmau",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				13
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1088637688398327800,
+						"id_str": "1088637688398327808",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DxueNbIVsAAUY3c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxueNbIVsAAUY3c.jpg",
+						"url": "https://t.co/dTMR4hEmau",
+						"display_url": "pic.twitter.com/dTMR4hEmau",
+						"expanded_url": "https://twitter.com/noidontloveu/status/1088637690826903553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 648,
+								"h": 472,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 648,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 648,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088637688398327800,
+						"id_str": "1088637688398327808",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DxueNbIVsAAUY3c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxueNbIVsAAUY3c.jpg",
+						"url": "https://t.co/dTMR4hEmau",
+						"display_url": "pic.twitter.com/dTMR4hEmau",
+						"expanded_url": "https://twitter.com/noidontloveu/status/1088637690826903553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 648,
+								"h": 472,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 648,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 648,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1050142505994457100,
+				"id_str": "1050142505994457089",
+				"name": "Keke",
+				"screen_name": "noidontloveu",
+				"location": "atl",
+				"description": "no i don't love u l 23 l 🇵🇷🇧🇷",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 230,
+				"friends_count": 263,
+				"listed_count": 0,
+				"created_at": "Wed Oct 10 21:54:18 +0000 2018",
+				"favourites_count": 84,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082358339625979905/py7t04hQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358339625979905/py7t04hQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050142505994457089/1546800572",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 169,
+			"favorite_count": 1453,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 65078,
+		"favorite_count": 252367,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "when u get out the shower and they still haven't text u back https://t.co/FfqjwPfM6C"
+	},
+	{
+		"created_at": "Sat Jan 26 03:46:06 +0000 2019",
+		"id": 1089006540063998000,
+		"id_str": "1089006540063997952",
+		"full_text": "dont say this i dont want people to rediscover this movie because then theyre gonna all wanna fuck the evil suit robot https://t.co/bxcOxKAHvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bxcOxKAHvt",
+					"expanded_url": "https://twitter.com/muniz678/status/1088180707732717568",
+					"display_url": "twitter.com/muniz678/statu…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3929629875,
+			"id_str": "3929629875",
+			"name": "no weaknesses no regrets",
+			"screen_name": "PsychicTerrain",
+			"location": "asstown",
+			"description": "i have bitch disorder | backup is @psychic_terrain",
+			"url": "https://t.co/h0MdhlUstQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h0MdhlUstQ",
+							"expanded_url": "https://espurr.carrd.co",
+							"display_url": "espurr.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6989,
+			"friends_count": 5311,
+			"listed_count": 336,
+			"created_at": "Sun Oct 11 17:37:22 +0000 2015",
+			"favourites_count": 191175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 140336,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066933014188474368/1EsVry1m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066933014188474368/1EsVry1m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3929629875/1543653696",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088180707732717600,
+		"quoted_status_id_str": "1088180707732717568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bxcOxKAHvt",
+			"expanded": "https://twitter.com/muniz678/status/1088180707732717568",
+			"display": "twitter.com/muniz678/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 23 21:04:32 +0000 2019",
+			"id": 1088180707732717600,
+			"id_str": "1088180707732717568",
+			"full_text": "This movie is slept on https://t.co/5H1zQ9SpEs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1088180698148626400,
+						"id_str": "1088180698148626432",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxn-lFyV4AAYGOK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxn-lFyV4AAYGOK.jpg",
+						"url": "https://t.co/5H1zQ9SpEs",
+						"display_url": "pic.twitter.com/5H1zQ9SpEs",
+						"expanded_url": "https://twitter.com/muniz678/status/1088180707732717568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088180698148626400,
+						"id_str": "1088180698148626432",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxn-lFyV4AAYGOK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxn-lFyV4AAYGOK.jpg",
+						"url": "https://t.co/5H1zQ9SpEs",
+						"display_url": "pic.twitter.com/5H1zQ9SpEs",
+						"expanded_url": "https://twitter.com/muniz678/status/1088180707732717568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1730707993,
+				"id_str": "1730707993",
+				"name": "Rick",
+				"screen_name": "muniz678",
+				"location": "Mercedes, TX",
+				"description": "|AGTG|  meme dealer to the one and only @virih30 😘😍.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108,
+				"friends_count": 212,
+				"listed_count": 1,
+				"created_at": "Thu Sep 05 03:30:09 +0000 2013",
+				"favourites_count": 11868,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1765,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045053979204485125/1ZLnTQN5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045053979204485125/1ZLnTQN5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1730707993/1525212769",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17058,
+			"favorite_count": 58201,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4285,
+		"favorite_count": 17209,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "dont say this i dont want people to rediscover this movie because then theyre gonna all wanna fuck the evil suit robot https://t.co/bxcOxKAHvt"
+	},
+	{
+		"created_at": "Sat Jan 26 08:24:42 +0000 2019",
+		"id": 1089076650405294100,
+		"id_str": "1089076650405294080",
+		"full_text": "Idea: Live action Doraemon starring Danny DeVito. \nI have actual things I need to do but I end up doing this. https://t.co/xj4Zwkx8S6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089076645661556700,
+					"id_str": "1089076645661556736",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx0tcGXUwAAACgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx0tcGXUwAAACgF.jpg",
+					"url": "https://t.co/xj4Zwkx8S6",
+					"display_url": "pic.twitter.com/xj4Zwkx8S6",
+					"expanded_url": "https://twitter.com/JamesTurner_42/status/1089076650405294080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2040,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089076645661556700,
+					"id_str": "1089076645661556736",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx0tcGXUwAAACgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx0tcGXUwAAACgF.jpg",
+					"url": "https://t.co/xj4Zwkx8S6",
+					"display_url": "pic.twitter.com/xj4Zwkx8S6",
+					"expanded_url": "https://twitter.com/JamesTurner_42/status/1089076650405294080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2040,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3405261700,
+			"id_str": "3405261700",
+			"name": "James Turner",
+			"screen_name": "JamesTurner_42",
+			"location": "Tokyo-to, Japan",
+			"description": "Designer and Art Director at Game Freak on the Pokémon series. I am a carbon-based biped.",
+			"url": "https://t.co/IuBSAC7j0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IuBSAC7j0j",
+							"expanded_url": "https://www.youtube.com/channel/UCPm-v-xcLHYrxV0PG-TOZeQ",
+							"display_url": "youtube.com/channel/UCPm-v…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10754,
+			"friends_count": 245,
+			"listed_count": 50,
+			"created_at": "Thu Aug 06 05:16:23 +0000 2015",
+			"favourites_count": 12342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057790199680266240/WulgxU8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057790199680266240/WulgxU8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3405261700/1521971260",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 492,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Idea: Live action Doraemon starring Danny DeVito. \nI have actual things I need to do but I end up doing this. https://t.co/xj4Zwkx8S6"
+	},
+	{
+		"created_at": "Sat Jan 26 12:26:47 +0000 2019",
+		"id": 1089137572712992800,
+		"id_str": "1089137572712992768",
+		"full_text": "I'm a fucking \"scientist\" https://t.co/whYD58irbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/whYD58irbv",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1088481752044183554",
+					"display_url": "twitter.com/ThatEricAlper/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, and musician ✖️ I like stoner metal, nature, and just a bit of nerd shit✖️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 328,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 14741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1546650681",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088481752044183600,
+		"quoted_status_id_str": "1088481752044183554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/whYD58irbv",
+			"expanded": "https://twitter.com/ThatEricAlper/status/1088481752044183554",
+			"display": "twitter.com/ThatEricAlper/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 17:00:47 +0000 2019",
+			"id": 1088481752044183600,
+			"id_str": "1088481752044183554",
+			"full_text": "Congratulations! The job you wanted to have when you were 5 is now yours. What do you now do for a living?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22018221,
+				"id_str": "22018221",
+				"name": "Eric Alper",
+				"screen_name": "ThatEricAlper",
+				"location": "Toronto",
+				"description": "Freelance Music Publicist. SiriusXM Host. Billboard & Paste Best on Twitter. I talk about Music News in the Media. Lifelong Musicaholic. Eric@ThatEricAlper.com",
+				"url": "https://t.co/yyQlWheDQf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yyQlWheDQf",
+								"expanded_url": "https://ThatEricAlper.com",
+								"display_url": "ThatEricAlper.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 630083,
+				"friends_count": 255730,
+				"listed_count": 5188,
+				"created_at": "Thu Feb 26 15:08:31 +0000 2009",
+				"favourites_count": 396,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 149280,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/652285840962519040/BNchJKJh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/652285840962519040/BNchJKJh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22018221/1530493821",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1420,
+			"favorite_count": 14461,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm a fucking \"scientist\" https://t.co/whYD58irbv"
+	},
+	{
 		"created_at": "Fri Jan 25 23:50:30 +0000 2019",
 		"id": 1088947247667183600,
 		"id_str": "1088947247667183616",
@@ -1760,7 +2943,7 @@ Grailbird.data.tweets_2019_01 =
 			"user": {
 				"id": 1073844220589416400,
 				"id_str": "1073844220589416448",
-				"name": "‎ 𝙰 𝚗 𝚗",
+				"name": " 𝙰 𝚗 𝚗",
 				"screen_name": "arianaismybitxh",
 				"location": "",
 				"description": "",
