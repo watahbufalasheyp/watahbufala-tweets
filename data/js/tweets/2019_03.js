@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 21:42:02 +0000 2019",
+		"id": 1107396700791021600,
+		"id_str": "1107396700791021579",
+		"full_text": "Sad boy energy emits from me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, dumb nerd✖️ I like stoner metal, nature, and (maybe) anime✖️ (i  also talk about drugs a lot rip)",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 349,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 15241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16428,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1549615039",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Sad boy energy emits from me"
+	},
+	{
+		"created_at": "Sun Mar 17 21:41:39 +0000 2019",
+		"id": 1107376453769936900,
+		"id_str": "1107396602698874881",
+		"full_text": "https://t.co/E8XeiGhiT5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107376452247474200,
+					"id_str": "1107376452247474176",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D14xBCTX0AAuVsa.png",
+					"media_url_https": "https://pbs.twimg.com/media/D14xBCTX0AAuVsa.png",
+					"url": "https://t.co/E8XeiGhiT5",
+					"display_url": "pic.twitter.com/E8XeiGhiT5",
+					"expanded_url": "https://twitter.com/WITCHES_WIZARDS/status/1107376453769936902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 510,
+							"h": 763,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 510,
+							"h": 763,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107376452247474200,
+					"id_str": "1107376452247474176",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D14xBCTX0AAuVsa.png",
+					"media_url_https": "https://pbs.twimg.com/media/D14xBCTX0AAuVsa.png",
+					"url": "https://t.co/E8XeiGhiT5",
+					"display_url": "pic.twitter.com/E8XeiGhiT5",
+					"expanded_url": "https://twitter.com/WITCHES_WIZARDS/status/1107376453769936902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 510,
+							"h": 763,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 510,
+							"h": 763,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.yahoo.com\" rel=\"nofollow\">Witches and Wizards Clipart</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1019024168984219600,
+			"id_str": "1019024168984219649",
+			"name": "Witches+Wizards Clipart",
+			"screen_name": "WITCHES_WIZARDS",
+			"location": "A Mystical Spire",
+			"description": "I found an insane clipart CD from 1998 at Goodwill and this bot is posting every image from it onto Twitter.\n// admin @coolguyzone\n// thanks to @botwikidotorg",
+			"url": "https://t.co/WrN23XH9Av",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WrN23XH9Av",
+							"expanded_url": "https://witches-wizards.glitch.me/",
+							"display_url": "witches-wizards.glitch.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 8,
+			"listed_count": 14,
+			"created_at": "Tue Jul 17 01:01:09 +0000 2018",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 255,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019618663782080512/Wrrrg7nz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019618663782080512/Wrrrg7nz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1019024168984219649/1531926854",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/E8XeiGhiT5"
+	},
+	{
 		"created_at": "Sat Mar 16 22:51:34 +0000 2019",
 		"id": 1107051812396429300,
 		"id_str": "1107051812396429312",
