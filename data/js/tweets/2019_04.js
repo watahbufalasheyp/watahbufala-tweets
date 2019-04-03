@@ -1,6 +1,2106 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 18:54:12 +0000 2019",
+		"id": 1113095510729068500,
+		"id_str": "1113152670985015297",
+		"full_text": "From the instruction booklet~ \n\nF-Zero (SNES) https://t.co/jEQW5F5GTc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113095503678525400,
+					"id_str": "1113095503678525440",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3KCdpHX0AAXjLF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3KCdpHX0AAXjLF.jpg",
+					"url": "https://t.co/jEQW5F5GTc",
+					"display_url": "pic.twitter.com/jEQW5F5GTc",
+					"expanded_url": "https://twitter.com/VGArtAndTidbits/status/1113095510729068544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113095503678525400,
+					"id_str": "1113095503678525440",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3KCdpHX0AAXjLF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3KCdpHX0AAXjLF.jpg",
+					"url": "https://t.co/jEQW5F5GTc",
+					"display_url": "pic.twitter.com/jEQW5F5GTc",
+					"expanded_url": "https://twitter.com/VGArtAndTidbits/status/1113095510729068544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113095503674310700,
+					"id_str": "1113095503674310658",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3KCdpGXgAI-T9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3KCdpGXgAI-T9d.jpg",
+					"url": "https://t.co/jEQW5F5GTc",
+					"display_url": "pic.twitter.com/jEQW5F5GTc",
+					"expanded_url": "https://twitter.com/VGArtAndTidbits/status/1113095510729068544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113095503678525400,
+					"id_str": "1113095503678525443",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3KCdpHX0AMLpAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3KCdpHX0AMLpAL.jpg",
+					"url": "https://t.co/jEQW5F5GTc",
+					"display_url": "pic.twitter.com/jEQW5F5GTc",
+					"expanded_url": "https://twitter.com/VGArtAndTidbits/status/1113095510729068544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1384,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113095503678488600,
+					"id_str": "1113095503678488576",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3KCdpHXQAAP5zd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3KCdpHXQAAP5zd.jpg",
+					"url": "https://t.co/jEQW5F5GTc",
+					"display_url": "pic.twitter.com/jEQW5F5GTc",
+					"expanded_url": "https://twitter.com/VGArtAndTidbits/status/1113095510729068544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 777293987392598000,
+			"id_str": "777293987392598016",
+			"name": "VideoGameArt&Tidbits",
+			"screen_name": "VGArtAndTidbits",
+			"location": "New York, NY",
+			"description": "Dedicated to official high-res video game artwork, retro ads, articles, and other video game goodies! Everything here is scanned by me, @TanookiKuribo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55155,
+			"friends_count": 20,
+			"listed_count": 344,
+			"created_at": "Sat Sep 17 23:51:42 +0000 2016",
+			"favourites_count": 13741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925668150057816065/JUTV7MtD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925668150057816065/JUTV7MtD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/777293987392598016/1497321891",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 206,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From the instruction booklet~ \n\nF-Zero (SNES) https://t.co/jEQW5F5GTc"
+	},
+	{
+		"created_at": "Tue Apr 02 18:51:09 +0000 2019",
+		"id": 1113151902886309900,
+		"id_str": "1113151902886309888",
+		"full_text": "Menthol vape juice good.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, dumb nerd✖️ I like stoner metal, nature, and (maybe) anime✖️ (i  also talk about drugs a lot rip)",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 350,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 15368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1549615039",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Menthol vape juice good."
+	},
+	{
+		"created_at": "Tue Apr 02 15:15:28 +0000 2019",
+		"id": 1112722624692604900,
+		"id_str": "1113097621919490048",
+		"full_text": "I present to you all....\n\nThis absolute treasure https://t.co/rW7ZU4JKIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112722619781075000,
+					"id_str": "1112722619781074946",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D3EvU8WX0AIjHgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3EvU8WX0AIjHgK.jpg",
+					"url": "https://t.co/rW7ZU4JKIX",
+					"display_url": "pic.twitter.com/rW7ZU4JKIX",
+					"expanded_url": "https://twitter.com/FizzySodaWave/status/1112722624692604931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112722619781075000,
+					"id_str": "1112722619781074946",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D3EvU8WX0AIjHgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3EvU8WX0AIjHgK.jpg",
+					"url": "https://t.co/rW7ZU4JKIX",
+					"display_url": "pic.twitter.com/rW7ZU4JKIX",
+					"expanded_url": "https://twitter.com/FizzySodaWave/status/1112722624692604931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1648216506,
+			"id_str": "1648216506",
+			"name": "Pikachu stole all my fruit and called me a bitch",
+			"screen_name": "FizzySodaWave",
+			"location": "Icon: TAHK0",
+			"description": "☁️Hi I’m Fizzy!☁️ I can’t stop talking about Hibiki and Pikachu. I also eat ramen and drink ramune 24/7☁️ ☁️loves making friends!☁️ ☁️bi☁️ ☁️they/them☁️ ☁️21☁️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21155,
+			"friends_count": 779,
+			"listed_count": 488,
+			"created_at": "Mon Aug 05 17:11:39 +0000 2013",
+			"favourites_count": 31578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112926104904482816/v-xF5YFp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112926104904482816/v-xF5YFp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1648216506/1554075530",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5112,
+		"favorite_count": 16026,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I present to you all....\n\nThis absolute treasure https://t.co/rW7ZU4JKIX"
+	},
+	{
+		"created_at": "Tue Apr 02 13:47:58 +0000 2019",
+		"id": 1112772737687343100,
+		"id_str": "1113075603236847617",
+		"full_text": "Worm on String™ is available in Minecraft! https://t.co/DEUIKobWLY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112772736173199400,
+					"id_str": "1112772736173199360",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Fc6GdX0AAuG90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Fc6GdX0AAuG90.jpg",
+					"url": "https://t.co/DEUIKobWLY",
+					"display_url": "pic.twitter.com/DEUIKobWLY",
+					"expanded_url": "https://twitter.com/WORMONSTRlNG/status/1112772737687343115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112772736173199400,
+					"id_str": "1112772736173199360",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Fc6GdX0AAuG90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Fc6GdX0AAuG90.jpg",
+					"url": "https://t.co/DEUIKobWLY",
+					"display_url": "pic.twitter.com/DEUIKobWLY",
+					"expanded_url": "https://twitter.com/WORMONSTRlNG/status/1112772737687343115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1026671216227246100,
+			"id_str": "1026671216227246080",
+			"name": "₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡",
+			"screen_name": "robiinya",
+			"location": "",
+			"description": "･ﾟ: *✧･ﾟ:*『 robin ♡  they/she ♡ 19 』                 *⑅୨୧*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1194,
+			"friends_count": 557,
+			"listed_count": 32,
+			"created_at": "Tue Aug 07 03:27:47 +0000 2018",
+			"favourites_count": 30965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112890641414086656/8Wpc1BfZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112890641414086656/8Wpc1BfZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1026671216227246080/1554168779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2479,
+		"favorite_count": 6694,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Worm on String™ is available in Minecraft! https://t.co/DEUIKobWLY"
+	},
+	{
+		"created_at": "Tue Apr 02 13:46:22 +0000 2019",
+		"id": 1112751383869038600,
+		"id_str": "1113075202525749248",
+		"full_text": "another day at the depression sucking factory https://t.co/AFmUwJsW1v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112751377451753500,
+					"id_str": "1112751377451753475",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3FJe3BWoAMMnHQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3FJe3BWoAMMnHQ.jpg",
+					"url": "https://t.co/AFmUwJsW1v",
+					"display_url": "pic.twitter.com/AFmUwJsW1v",
+					"expanded_url": "https://twitter.com/LydiaBurrell/status/1112751383869038593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112751377451753500,
+					"id_str": "1112751377451753475",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3FJe3BWoAMMnHQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3FJe3BWoAMMnHQ.jpg",
+					"url": "https://t.co/AFmUwJsW1v",
+					"display_url": "pic.twitter.com/AFmUwJsW1v",
+					"expanded_url": "https://twitter.com/LydiaBurrell/status/1112751383869038593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112751377485361200,
+					"id_str": "1112751377485361152",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D3FJe3JXcAAyTNz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3FJe3JXcAAyTNz.jpg",
+					"url": "https://t.co/AFmUwJsW1v",
+					"display_url": "pic.twitter.com/AFmUwJsW1v",
+					"expanded_url": "https://twitter.com/LydiaBurrell/status/1112751383869038593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 215,
+							"h": 226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 215,
+							"h": 226,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 215,
+							"h": 226,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369087621,
+			"id_str": "369087621",
+			"name": "Your pal Lb classic",
+			"screen_name": "LydiaBurrell",
+			"location": "Louisville, KY",
+			"description": "calm and smart.",
+			"url": "https://t.co/fBMakEICXo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBMakEICXo",
+							"expanded_url": "http://lydiaburrell.com",
+							"display_url": "lydiaburrell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7754,
+			"friends_count": 1044,
+			"listed_count": 77,
+			"created_at": "Tue Sep 06 19:02:12 +0000 2011",
+			"favourites_count": 31419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088137187974152192/0tu2VBB3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088137187974152192/0tu2VBB3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369087621/1540959691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7835,
+		"favorite_count": 51858,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "another day at the depression sucking factory https://t.co/AFmUwJsW1v"
+	},
+	{
+		"created_at": "Tue Apr 02 13:45:56 +0000 2019",
+		"id": 1112860094813749200,
+		"id_str": "1113075092702027776",
+		"full_text": "The year is 2019 and the creator of the crab rave meme announced on April Fools that he's actually making a game based on it. https://t.co/G0YT9WtM7t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112859989306044400,
+					"id_str": "1112859989306044416",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3GsQ5tU8AAsX4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3GsQ5tU8AAsX4J.jpg",
+					"url": "https://t.co/G0YT9WtM7t",
+					"display_url": "pic.twitter.com/G0YT9WtM7t",
+					"expanded_url": "https://twitter.com/Nitomatta/status/1112860094813749249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112859989306044400,
+					"id_str": "1112859989306044416",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3GsQ5tU8AAsX4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3GsQ5tU8AAsX4J.jpg",
+					"url": "https://t.co/G0YT9WtM7t",
+					"display_url": "pic.twitter.com/G0YT9WtM7t",
+					"expanded_url": "https://twitter.com/Nitomatta/status/1112860094813749249/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							230,
+							129
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D3GsQ5tU8AAsX4J.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1000075145279520800,
+			"id_str": "1000075145279520768",
+			"name": "Pixelbuster",
+			"screen_name": "Nitomatta",
+			"location": "Tucson, AZ",
+			"description": "21, Media connoisseur, Intern and Mr. X enthusiast. Obsesses over Nitocris and NieR. I promote affiliate links from places like Humble. AVI: @ScruffyTurtles",
+			"url": "https://t.co/qIKG882a4y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qIKG882a4y",
+							"expanded_url": "https://pixelbuster.carrd.co",
+							"display_url": "pixelbuster.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7234,
+			"friends_count": 825,
+			"listed_count": 76,
+			"created_at": "Fri May 25 18:04:29 +0000 2018",
+			"favourites_count": 31119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103130274043314176/SPE5Vg56_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103130274043314176/SPE5Vg56_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000075145279520768/1551579486",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4248,
+		"favorite_count": 17243,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The year is 2019 and the creator of the crab rave meme announced on April Fools that he's actually making a game based on it. https://t.co/G0YT9WtM7t"
+	},
+	{
+		"created_at": "Tue Apr 02 13:45:22 +0000 2019",
+		"id": 1113074950032814100,
+		"id_str": "1113074950032814080",
+		"full_text": "I'm so tired oof",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, dumb nerd✖️ I like stoner metal, nature, and (maybe) anime✖️ (i  also talk about drugs a lot rip)",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 350,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 15368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1549615039",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I'm so tired oof"
+	},
+	{
+		"created_at": "Tue Apr 02 13:41:14 +0000 2019",
+		"id": 1113073909551849500,
+		"id_str": "1113073909551849474",
+		"full_text": "I love Al cisneros",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, dumb nerd✖️ I like stoner metal, nature, and (maybe) anime✖️ (i  also talk about drugs a lot rip)",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 350,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 15368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1549615039",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I love Al cisneros"
+	},
+	{
+		"created_at": "Tue Apr 02 13:37:11 +0000 2019",
+		"id": 1113072891741065200,
+		"id_str": "1113072891741065217",
+		"full_text": "Being sick with a septum piercing is awful. Like dang flipping it up for school and I feel like I'm gonna sneeze and can't blow my nose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, dumb nerd✖️ I like stoner metal, nature, and (maybe) anime✖️ (i  also talk about drugs a lot rip)",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 350,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 15368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1549615039",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Being sick with a septum piercing is awful. Like dang flipping it up for school and I feel like I'm gonna sneeze and can't blow my nose"
+	},
+	{
+		"created_at": "Tue Apr 02 13:07:52 +0000 2019",
+		"id": 1113063546273714200,
+		"id_str": "1113065510977994752",
+		"full_text": "https://t.co/hx5Yi42lXj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113063544491130900,
+					"id_str": "1113063544491130885",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3JlZX3UwAUp80J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3JlZX3UwAUp80J.jpg",
+					"url": "https://t.co/hx5Yi42lXj",
+					"display_url": "pic.twitter.com/hx5Yi42lXj",
+					"expanded_url": "https://twitter.com/PossumEveryHour/status/1113063546273714176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113063544491130900,
+					"id_str": "1113063544491130885",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3JlZX3UwAUp80J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3JlZX3UwAUp80J.jpg",
+					"url": "https://t.co/hx5Yi42lXj",
+					"display_url": "pic.twitter.com/hx5Yi42lXj",
+					"expanded_url": "https://twitter.com/PossumEveryHour/status/1113063546273714176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022089486849765400,
+			"id_str": "1022089486849765376",
+			"name": "Possum Every Hour",
+			"screen_name": "PossumEveryHour",
+			"location": "",
+			"description": "All images belong to their original owners. This is literally an experiment getting out of hand. It may fail occasionally. For problems contact: @ThunderySteak",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39443,
+			"friends_count": 1,
+			"listed_count": 109,
+			"created_at": "Wed Jul 25 12:01:37 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022090933343608833/xZvdXf7E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022090933343608833/xZvdXf7E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022089486849765376/1546021838",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 586,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/hx5Yi42lXj"
+	},
+	{
+		"created_at": "Tue Apr 02 13:05:11 +0000 2019",
+		"id": 1113000326531964900,
+		"id_str": "1113064835925737474",
+		"full_text": "SFM porn? Pfff, fuck that noise. Gimme that Quake engine porn bro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1322565949,
+			"id_str": "1322565949",
+			"name": "Triple-Q",
+			"screen_name": "TripleKyun",
+			"location": "",
+			"description": "illustrator/graphic designer || music enthusiast || gangnam man slays shitty anime and becomes number 1 hit on itunes || Discord: https://t.co/pzYNKzvkSZ",
+			"url": "https://t.co/FJjvfwC9gv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJjvfwC9gv",
+							"expanded_url": "https://youtube.com/triplekyun",
+							"display_url": "youtube.com/triplekyun",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pzYNKzvkSZ",
+							"expanded_url": "http://discord.gg/DyUjMQs",
+							"display_url": "discord.gg/DyUjMQs",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33331,
+			"friends_count": 127,
+			"listed_count": 100,
+			"created_at": "Tue Apr 02 14:05:03 +0000 2013",
+			"favourites_count": 48455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081414364836507648/MxsfSbpN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081414364836507648/MxsfSbpN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1322565949/1546656988",
+			"profile_link_color": "33B98C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 1327,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "SFM porn? Pfff, fuck that noise. Gimme that Quake engine porn bro"
+	},
+	{
+		"created_at": "Tue Apr 02 13:04:30 +0000 2019",
+		"id": 1112787195784462300,
+		"id_str": "1113064665972563969",
+		"full_text": "https://t.co/MTWQxZ8VaM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112787107242762200,
+					"id_str": "1112787107242762240",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Fp-m3W4AAhRX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Fp-m3W4AAhRX0.jpg",
+					"url": "https://t.co/MTWQxZ8VaM",
+					"display_url": "pic.twitter.com/MTWQxZ8VaM",
+					"expanded_url": "https://twitter.com/critterparty/status/1112787195784462337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 581,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112787107242762200,
+					"id_str": "1112787107242762240",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Fp-m3W4AAhRX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Fp-m3W4AAhRX0.jpg",
+					"url": "https://t.co/MTWQxZ8VaM",
+					"display_url": "pic.twitter.com/MTWQxZ8VaM",
+					"expanded_url": "https://twitter.com/critterparty/status/1112787195784462337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 581,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112787115627176000,
+					"id_str": "1112787115627175936",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Fp_GGW4AA2-Jx.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3Fp_GGW4AA2-Jx.png",
+					"url": "https://t.co/MTWQxZ8VaM",
+					"display_url": "pic.twitter.com/MTWQxZ8VaM",
+					"expanded_url": "https://twitter.com/critterparty/status/1112787195784462337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3288602422,
+			"id_str": "3288602422",
+			"name": "🏰🥩martie🦷🦈",
+			"screen_name": "critterparty",
+			"location": "earth’s core",
+			"description": "funny cartoon demon 🏭 20 🌋 biology student 📡 I post my cave paintings here 🌴 locked acc @core_dweller",
+			"url": "https://t.co/vyh2uxWH6d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vyh2uxWH6d",
+							"expanded_url": "https://worminadogsheart.carrd.co",
+							"display_url": "worminadogsheart.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 342,
+			"listed_count": 11,
+			"created_at": "Mon May 18 15:19:27 +0000 2015",
+			"favourites_count": 21706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6021,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "5C848C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077239777764757504/dAP3JPKq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077239777764757504/dAP3JPKq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3288602422/1544882383",
+			"profile_link_color": "E6F115",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4679,
+		"favorite_count": 13580,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MTWQxZ8VaM"
+	},
+	{
+		"created_at": "Tue Apr 02 07:57:27 +0000 2019",
+		"id": 1112972523254104000,
+		"id_str": "1112987393819398144",
+		"full_text": "https://t.co/DmFUCHXEEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112972498918760400,
+					"id_str": "1112972498918760449",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ISl0rU4AEfeRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ISl0rU4AEfeRz.jpg",
+					"url": "https://t.co/DmFUCHXEEE",
+					"display_url": "pic.twitter.com/DmFUCHXEEE",
+					"expanded_url": "https://twitter.com/OneyNG/status/1112972523254104064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 1396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1157,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112972498918760400,
+					"id_str": "1112972498918760449",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ISl0rU4AEfeRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ISl0rU4AEfeRz.jpg",
+					"url": "https://t.co/DmFUCHXEEE",
+					"display_url": "pic.twitter.com/DmFUCHXEEE",
+					"expanded_url": "https://twitter.com/OneyNG/status/1112972523254104064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 1396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1157,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245157986,
+			"id_str": "245157986",
+			"name": "Oney",
+			"screen_name": "OneyNG",
+			"location": "Los Angeles, CA",
+			"description": "I made some flash toons many years ago. Now I'm working on a video game!\n\nemail me at business@oneyplays.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 221781,
+			"friends_count": 940,
+			"listed_count": 291,
+			"created_at": "Mon Jan 31 01:08:35 +0000 2011",
+			"favourites_count": 19770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094818627524517889/qxbRp0q8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094818627524517889/qxbRp0q8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245157986/1431023348",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 354,
+		"favorite_count": 6704,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/DmFUCHXEEE"
+	},
+	{
+		"created_at": "Tue Apr 02 06:48:45 +0000 2019",
+		"id": 1112970103702859800,
+		"id_str": "1112970103702859776",
+		"full_text": "Yaknow. If I was to invest in something it'd definitely be gold or something. I know crypto currency is the future but its really dumb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | ♂️ ✖️music enthusiast, dumb nerd✖️ I like stoner metal, nature, and (maybe) anime✖️ (i  also talk about drugs a lot rip)",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 350,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 15368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1549615039",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Yaknow. If I was to invest in something it'd definitely be gold or something. I know crypto currency is the future but its really dumb"
+	},
+	{
 		"created_at": "Tue Apr 02 00:14:03 +0000 2019",
 		"id": 1112870774761766900,
 		"id_str": "1112870774761766912",
