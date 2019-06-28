@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 15:11:34 +0000 2019",
+		"id": 1144261998500298800,
+		"id_str": "1144261998500298753",
+		"full_text": "I wear a fanny pack now its epic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1144261862508437500,
+		"in_reply_to_status_id_str": "1144261862508437505",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of light, derse, ♌",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 506,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 16974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I wear a fanny pack now its epic"
+	},
+	{
+		"created_at": "Thu Jun 27 15:11:02 +0000 2019",
+		"id": 1144261862508437500,
+		"id_str": "1144261862508437505",
+		"full_text": "Gang style https://t.co/9mxMfqHu3R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144261572308721700,
+					"id_str": "1144261572308721664",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D-E71mOXYAATY6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-E71mOXYAATY6H.jpg",
+					"url": "https://t.co/9mxMfqHu3R",
+					"display_url": "pic.twitter.com/9mxMfqHu3R",
+					"expanded_url": "https://twitter.com/watahbufala/status/1144261862508437505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144261572308721700,
+					"id_str": "1144261572308721664",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D-E71mOXYAATY6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-E71mOXYAATY6H.jpg",
+					"url": "https://t.co/9mxMfqHu3R",
+					"display_url": "pic.twitter.com/9mxMfqHu3R",
+					"expanded_url": "https://twitter.com/watahbufala/status/1144261862508437505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️17 | he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of light, derse, ♌",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 506,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 16974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068994580677312513/wUWPwBU1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gang style https://t.co/9mxMfqHu3R"
+	},
+	{
+		"created_at": "Thu Jun 27 12:19:00 +0000 2019",
+		"id": 1143922344118956000,
+		"id_str": "1144218570123075585",
+		"full_text": "People are assuming that trans john would choose June as her name and that's cool, but what better way to symbolize her escape from the narrative than breaking the 4 letter rule, while ending right where we began? I propose: April Egbert.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 891570103,
+			"id_str": "891570103",
+			"name": "Jokes: Cure for the Human Condition",
+			"screen_name": "Eromancery",
+			"location": "",
+			"description": "Writer, Voice Actor, Clown. You might have seen me around before. Maybe out of the corner of your eye one dark night, or maybe on discord. 18, Any/All pronouns",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 76,
+			"listed_count": 1,
+			"created_at": "Fri Oct 19 18:37:26 +0000 2012",
+			"favourites_count": 1056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070129080907919360/0jFwW_H3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070129080907919360/0jFwW_H3_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 158,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "People are assuming that trans john would choose June as her name and that's cool, but what better way to symbolize her escape from the narrative than breaking the 4 letter rule, while ending right where we began? I propose: April Egbert."
+	},
+	{
+		"created_at": "Thu Jun 27 12:00:32 +0000 2019",
+		"id": 1144107021207130100,
+		"id_str": "1144213921756319744",
+		"full_text": "we're in an era that because of homestuck when people google zodiac signs theres a strong possibility they'll get a result that is a homestuck color and wont know it and will get that tattooed on their body and never be burdened with the knowledge of who gamzee is",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41222620,
+			"id_str": "41222620",
+			"name": "Ｊａｍｅｓ　Ｒｏａｃｈ",
+			"screen_name": "hamesatron",
+			"location": "Burbank, CA",
+			"description": "Hispanic, he/they. Editor, Composer and Sound Designer available for work. Composed Hiveswap/Friendsim | jamesroach.music@gmail.com | icon and header: @merrigo_",
+			"url": "https://t.co/basNLoZwf0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/basNLoZwf0",
+							"expanded_url": "https://soundcloud.com/jamesroachmusic",
+							"display_url": "soundcloud.com/jamesroachmusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13189,
+			"friends_count": 414,
+			"listed_count": 37,
+			"created_at": "Tue May 19 21:59:54 +0000 2009",
+			"favourites_count": 41682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966767779574513665/9RHac1IA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966767779574513665/9RHac1IA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41222620/1522103712",
+			"profile_link_color": "4E2A4E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 435,
+		"favorite_count": 1553,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "we're in an era that because of homestuck when people google zodiac signs theres a strong possibility they'll get a result that is a homestuck color and wont know it and will get that tattooed on their body and never be burdened with the knowledge of who gamzee is"
+	},
+	{
+		"created_at": "Thu Jun 27 11:59:31 +0000 2019",
+		"id": 1143949901354721300,
+		"id_str": "1144213668638470144",
+		"full_text": "Someone made a chrome extension for Netflix so it plays Fly me to the moon after each episode https://t.co/Ii91L8nR1T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143949897399275500,
+					"id_str": "1143949897399275521",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D-AgXutUEAEoP3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-AgXutUEAEoP3s.jpg",
+					"url": "https://t.co/Ii91L8nR1T",
+					"display_url": "pic.twitter.com/Ii91L8nR1T",
+					"expanded_url": "https://twitter.com/hustleboned/status/1143949901354721282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143949897399275500,
+					"id_str": "1143949897399275521",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D-AgXutUEAEoP3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-AgXutUEAEoP3s.jpg",
+					"url": "https://t.co/Ii91L8nR1T",
+					"display_url": "pic.twitter.com/Ii91L8nR1T",
+					"expanded_url": "https://twitter.com/hustleboned/status/1143949901354721282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 454546797,
+			"id_str": "454546797",
+			"name": "skarr 💤",
+			"screen_name": "hustleboned",
+			"location": "The Past",
+			"description": "I'm in your area | Rei is best girl | 21 M",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 214,
+			"listed_count": 0,
+			"created_at": "Wed Jan 04 03:35:39 +0000 2012",
+			"favourites_count": 6228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144030465814216707/kkg-fHY7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144030465814216707/kkg-fHY7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/454546797/1561621853",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3929,
+		"favorite_count": 12576,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone made a chrome extension for Netflix so it plays Fly me to the moon after each episode https://t.co/Ii91L8nR1T"
+	},
+	{
+		"created_at": "Thu Jun 27 11:58:50 +0000 2019",
+		"id": 1144073088486785000,
+		"id_str": "1144213495233351690",
+		"full_text": "Somebody pointed out that John hasnt pulled a single full fledged prank since his dad died and i think about that so fucking much...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 922252906321121300,
+			"id_str": "922252906321121281",
+			"name": "🌈🌻 KANSASTUCK ⛈🌪",
+			"screen_name": "spacearbys",
+			"location": "Alternian Kansas",
+			"description": "18, any pronouns, Chixie Roixmr from @Friendsimfandub I preach every other day to try to get people to listen to Wolf 359. you should listen to it.",
+			"url": "https://t.co/C0qDE54dbp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C0qDE54dbp",
+							"expanded_url": "https://kansasjustgotgayer.tumblr.com",
+							"display_url": "kansasjustgotgayer.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 413,
+			"listed_count": 3,
+			"created_at": "Mon Oct 23 00:06:42 +0000 2017",
+			"favourites_count": 15312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142152110106132480/a4muDyWR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142152110106132480/a4muDyWR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/922252906321121281/1560519557",
+			"profile_link_color": "E600FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Somebody pointed out that John hasnt pulled a single full fledged prank since his dad died and i think about that so fucking much..."
+	},
+	{
 		"created_at": "Wed Jun 26 15:40:07 +0000 2019",
 		"id": 1143654225584500700,
 		"id_str": "1143906797570445312",
@@ -1032,7 +1733,7 @@ Grailbird.data.tweets_2019_06 =
 		"user": {
 			"id": 344685593,
 			"id_str": "344685593",
-			"name": "🤹‍♀️",
+			"name": "🤹♀️",
 			"screen_name": "fristdynamo",
 			"location": "",
 			"description": "🎨click for art https://t.co/TenyYLBN1c",
