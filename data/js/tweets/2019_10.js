@@ -1,6 +1,766 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 22:15:27 +0000 2019",
+		"id": 1179882681666068500,
+		"id_str": "1179882681666068482",
+		"full_text": "I love dave strider so much like oh my god what a funny feen who's also relatable as hell",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I love dave strider so much like oh my god what a funny feen who's also relatable as hell"
+	},
+	{
+		"created_at": "Thu Oct 03 22:12:33 +0000 2019",
+		"id": 1179881953379704800,
+		"id_str": "1179881953379704832",
+		"full_text": "Oh man I really really want a harmonic percolator, they're such good pedals I'm just learning about them now but fuck dude they're so unique and sound amazing",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Oh man I really really want a harmonic percolator, they're such good pedals I'm just learning about them now but fuck dude they're so unique and sound amazing"
+	},
+	{
+		"created_at": "Thu Oct 03 19:06:11 +0000 2019",
+		"id": 1179835051116241000,
+		"id_str": "1179835051116240897",
+		"full_text": "Guess I'm just gonna have to live like this for a bit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1179835049920925700,
+		"in_reply_to_status_id_str": "1179835049920925696",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Guess I'm just gonna have to live like this for a bit"
+	},
+	{
+		"created_at": "Thu Oct 03 19:06:10 +0000 2019",
+		"id": 1179835049920925700,
+		"id_str": "1179835049920925696",
+		"full_text": "AAAAA I WAS TRYING FO FIX THE TREMOLO ON MY MUSTANG AND I LOST A SCREW AAAAA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "AAAAA I WAS TRYING FO FIX THE TREMOLO ON MY MUSTANG AND I LOST A SCREW AAAAA"
+	},
+	{
+		"created_at": "Thu Oct 03 18:34:27 +0000 2019",
+		"id": 1179827066100965400,
+		"id_str": "1179827066100965377",
+		"full_text": "It's really sad to hear Kim shattuck from the pixies died, hope she's resting in peace",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It's really sad to hear Kim shattuck from the pixies died, hope she's resting in peace"
+	},
+	{
+		"created_at": "Thu Oct 03 12:07:45 +0000 2019",
+		"id": 1179729749423382500,
+		"id_str": "1179729749423382528",
+		"full_text": "Man pesterquest has been a bit spoiled for me aaaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Man pesterquest has been a bit spoiled for me aaaa"
+	},
+	{
+		"created_at": "Thu Oct 03 11:10:43 +0000 2019",
+		"id": 1179715395835584500,
+		"id_str": "1179715395835584512",
+		"full_text": "I mean now I got energy but also I hate the way caffeine effects me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1179715394669629400,
+		"in_reply_to_status_id_str": "1179715394669629441",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I mean now I got energy but also I hate the way caffeine effects me"
+	},
+	{
+		"created_at": "Thu Oct 03 11:10:42 +0000 2019",
+		"id": 1179715394669629400,
+		"id_str": "1179715394669629441",
+		"full_text": "Fuck caffeine man. Like I drank a can of monster before school and I felt like shit for like 20 minutes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbte4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbte4rR",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 17973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Fuck caffeine man. Like I drank a can of monster before school and I felt like shit for like 20 minutes"
+	},
+	{
 		"created_at": "Wed Oct 02 22:55:23 +0000 2019",
 		"id": 1179530343025664000,
 		"id_str": "1179530343025664002",
@@ -28,7 +788,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -323,7 +1083,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -592,7 +1352,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -1047,7 +1807,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -1143,7 +1903,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -1238,7 +1998,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -1333,7 +2093,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -1718,7 +2478,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -1813,7 +2573,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -1908,7 +2668,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -2003,7 +2763,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
