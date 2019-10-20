@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 21:19:19 +0000 2019",
+		"id": 1185214892963438600,
+		"id_str": "1185666761242415105",
+		"full_text": "\"Hey guys, this is my first time at the gym, would you mind helping me get adjusted?\"\n\"Yeah that's fine dude, I'm free to help\"\n\"Yeah me too\"\n\"Make that a third\" https://t.co/r7JZ7KmhRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185214877771718700,
+					"id_str": "1185214877771718657",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK6ptwXYAEoT6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK6ptwXYAEoT6d.jpg",
+					"url": "https://t.co/r7JZ7KmhRv",
+					"display_url": "pic.twitter.com/r7JZ7KmhRv",
+					"expanded_url": "https://twitter.com/JasTheLass/status/1185214892963438593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185214877771718700,
+					"id_str": "1185214877771718657",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK6ptwXYAEoT6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK6ptwXYAEoT6d.jpg",
+					"url": "https://t.co/r7JZ7KmhRv",
+					"display_url": "pic.twitter.com/r7JZ7KmhRv",
+					"expanded_url": "https://twitter.com/JasTheLass/status/1185214892963438593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185214880875458600,
+					"id_str": "1185214880875458561",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK6p5UWsAEyKhJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK6p5UWsAEyKhJ.jpg",
+					"url": "https://t.co/r7JZ7KmhRv",
+					"display_url": "pic.twitter.com/r7JZ7KmhRv",
+					"expanded_url": "https://twitter.com/JasTheLass/status/1185214892963438593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185214883509559300,
+					"id_str": "1185214883509559296",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK6qDIX4AAm8Ig.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK6qDIX4AAm8Ig.jpg",
+					"url": "https://t.co/r7JZ7KmhRv",
+					"display_url": "pic.twitter.com/r7JZ7KmhRv",
+					"expanded_url": "https://twitter.com/JasTheLass/status/1185214892963438593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 622,
+							"h": 615,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 615,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 615,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185214885971595300,
+					"id_str": "1185214885971595265",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK6qMTXkAEDSje.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK6qMTXkAEDSje.jpg",
+					"url": "https://t.co/r7JZ7KmhRv",
+					"display_url": "pic.twitter.com/r7JZ7KmhRv",
+					"expanded_url": "https://twitter.com/JasTheLass/status/1185214892963438593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113137055960363000,
+			"id_str": "1113137055960363008",
+			"name": "Saber's Wife @ Nasutober 👻 🏳️‍⚧️",
+			"screen_name": "JasTheLass",
+			"location": "17, no NSFW",
+			"description": "Jasmine | she/her | ♀️ | ⚢ | Nasuverse fan in training | currently reading Tsukihime, mute #Jaskihime to avoid spoilers | Take care of yourself",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 266,
+			"listed_count": 13,
+			"created_at": "Tue Apr 02 17:52:10 +0000 2019",
+			"favourites_count": 53350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185670532521451523/k4E3Zc1w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185670532521451523/k4E3Zc1w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113137055960363008/1570698005",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11018,
+		"favorite_count": 43421,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Hey guys, this is my first time at the gym, would you mind helping me get adjusted?\"\n\"Yeah that's fine dude, I'm free to help\"\n\"Yeah me too\"\n\"Make that a third\" https://t.co/r7JZ7KmhRv"
+	},
+	{
+		"created_at": "Sat Oct 19 21:18:26 +0000 2019",
+		"id": 1185659986833281000,
+		"id_str": "1185666541783834624",
+		"full_text": "I love shapes https://t.co/k7SAMElGZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185659981120594000,
+					"id_str": "1185659981120593926",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EHRPeI8W4AYd8DK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHRPeI8W4AYd8DK.png",
+					"url": "https://t.co/k7SAMElGZ5",
+					"display_url": "pic.twitter.com/k7SAMElGZ5",
+					"expanded_url": "https://twitter.com/elenaditgoia/status/1185659986833281035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185659981120594000,
+					"id_str": "1185659981120593926",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EHRPeI8W4AYd8DK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHRPeI8W4AYd8DK.png",
+					"url": "https://t.co/k7SAMElGZ5",
+					"display_url": "pic.twitter.com/k7SAMElGZ5",
+					"expanded_url": "https://twitter.com/elenaditgoia/status/1185659986833281035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115399636062228500,
+			"id_str": "1115399636062228481",
+			"name": "ELENADITGOIA",
+			"screen_name": "elenaditgoia",
+			"location": "Firenze, Toscana",
+			"description": "Elena ❦ XXIII ❦ Libra ❦ Firenze, Italy ❦ TUMBLR: elenaditgoia ❦ INSTA: elenaditgoia",
+			"url": "https://t.co/0T47Z5HE7H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0T47Z5HE7H",
+							"expanded_url": "https://instagram.com/elenaditgoia",
+							"display_url": "instagram.com/elenaditgoia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129,
+			"friends_count": 43,
+			"listed_count": 0,
+			"created_at": "Mon Apr 08 23:42:51 +0000 2019",
+			"favourites_count": 1052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185327490555957249/h1wHNDJL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185327490555957249/h1wHNDJL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115399636062228481/1571041558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 402,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love shapes https://t.co/k7SAMElGZ5"
+	},
+	{
 		"created_at": "Fri Oct 18 20:59:28 +0000 2019",
 		"id": 1184841850332598300,
 		"id_str": "1185299380854759425",
@@ -123,7 +566,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -218,7 +661,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -313,7 +756,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -408,7 +851,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
@@ -598,7 +1041,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of breath, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbte4rR",
 			"entities": {
 				"url": {
