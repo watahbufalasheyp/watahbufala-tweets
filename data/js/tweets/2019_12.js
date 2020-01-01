@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 16:57:22 +0000 2019",
+		"id": 1211757851535802400,
+		"id_str": "1212055156042416128",
+		"full_text": "this game https://t.co/zDYn8XNejO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1211757846540406800,
+					"id_str": "1211757846540406786",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/ENEHV1zVUAITgLY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENEHV1zVUAITgLY.jpg",
+					"url": "https://t.co/zDYn8XNejO",
+					"display_url": "pic.twitter.com/zDYn8XNejO",
+					"expanded_url": "https://twitter.com/captain_howdie/status/1211757851535802368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 863,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 863,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 460,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 745,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 745,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 745,
+									"h": 88,
+									"w": 88
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211757846540406800,
+					"id_str": "1211757846540406786",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/ENEHV1zVUAITgLY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENEHV1zVUAITgLY.jpg",
+					"url": "https://t.co/zDYn8XNejO",
+					"display_url": "pic.twitter.com/zDYn8XNejO",
+					"expanded_url": "https://twitter.com/captain_howdie/status/1211757851535802368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 863,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 863,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 460,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 745,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 745,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 745,
+									"h": 88,
+									"w": 88
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852333179323035600,
+			"id_str": "852333179323035650",
+			"name": "captainhowdie",
+			"screen_name": "captain_howdie",
+			"location": "nowhere",
+			"description": "a mortal\nhttps://t.co/ipvLWH5uiI\nhttps://t.co/0uzDZSCGoN",
+			"url": "https://t.co/eBcZ0250sq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eBcZ0250sq",
+							"expanded_url": "https://ranfren.neocities.org/",
+							"display_url": "ranfren.neocities.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ipvLWH5uiI",
+							"expanded_url": "http://captainhowdie.tumblr.com",
+							"display_url": "captainhowdie.tumblr.com",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/0uzDZSCGoN",
+							"expanded_url": "http://monteglover.deviantart.com",
+							"display_url": "monteglover.deviantart.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 214,
+			"listed_count": 3,
+			"created_at": "Thu Apr 13 01:30:40 +0000 2017",
+			"favourites_count": 4756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183665572489265154/Z5oBEowW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183665572489265154/Z5oBEowW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852333179323035650/1562713387",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 411,
+		"favorite_count": 1311,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this game https://t.co/zDYn8XNejO"
+	},
+	{
+		"created_at": "Tue Dec 31 16:53:15 +0000 2019",
+		"id": 1212054119067869200,
+		"id_str": "1212054119067869184",
+		"full_text": "Bought a new vape and some cbd juice??? It's kinda epic. Also insence now my room smells nice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 554,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 18546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Bought a new vape and some cbd juice??? It's kinda epic. Also insence now my room smells nice"
+	},
+	{
+		"created_at": "Tue Dec 31 14:10:39 +0000 2019",
+		"id": 1211753486569918500,
+		"id_str": "1212013199853326336",
+		"full_text": "We are OUT of time Undertale might not happen what do I do please help https://t.co/4ac3dhEgnM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ac3dhEgnM",
+					"expanded_url": "https://twitter.com/UndertaleYellow/status/1201577853986492416",
+					"display_url": "twitter.com/UndertaleYello…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700428313542729700,
+			"id_str": "700428313542729728",
+			"name": "Undertale Yellow",
+			"screen_name": "UndertaleYellow",
+			"location": "",
+			"description": "UTY is a fan-made prequel to Undertale. Made by a team of people that probably should never go near game making. Tweets by @MasterSwrdRemix  \nDEMO AVAILABLE 💛",
+			"url": "https://t.co/uWiw1n7Jdu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uWiw1n7Jdu",
+							"expanded_url": "http://gamejolt.com/games/undertale-yellow/136925",
+							"display_url": "gamejolt.com/games/undertal…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7923,
+			"friends_count": 104,
+			"listed_count": 6,
+			"created_at": "Thu Feb 18 21:14:58 +0000 2016",
+			"favourites_count": 1142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112935614620622848/Fduf_ztU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112935614620622848/Fduf_ztU_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700428313542729728/1532709568",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201577853986492400,
+		"quoted_status_id_str": "1201577853986492416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4ac3dhEgnM",
+			"expanded": "https://twitter.com/UndertaleYellow/status/1201577853986492416",
+			"display": "twitter.com/UndertaleYello…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 02 19:04:19 +0000 2019",
+			"id": 1201577853986492400,
+			"id_str": "1201577853986492416",
+			"full_text": "Undertale only has one month to happen guys https://t.co/dwJ4OLGPln",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1201577850358382600,
+						"id_str": "1201577850358382592",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EKzcsEyWwAAkQo8.png",
+						"media_url_https": "https://pbs.twimg.com/media/EKzcsEyWwAAkQo8.png",
+						"url": "https://t.co/dwJ4OLGPln",
+						"display_url": "pic.twitter.com/dwJ4OLGPln",
+						"expanded_url": "https://twitter.com/UndertaleYellow/status/1201577853986492416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 856,
+								"h": 614,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 856,
+								"h": 614,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 488,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1201577850358382600,
+						"id_str": "1201577850358382592",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EKzcsEyWwAAkQo8.png",
+						"media_url_https": "https://pbs.twimg.com/media/EKzcsEyWwAAkQo8.png",
+						"url": "https://t.co/dwJ4OLGPln",
+						"display_url": "pic.twitter.com/dwJ4OLGPln",
+						"expanded_url": "https://twitter.com/UndertaleYellow/status/1201577853986492416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 856,
+								"h": 614,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 856,
+								"h": 614,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 488,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 700428313542729700,
+				"id_str": "700428313542729728",
+				"name": "Undertale Yellow",
+				"screen_name": "UndertaleYellow",
+				"location": "",
+				"description": "UTY is a fan-made prequel to Undertale. Made by a team of people that probably should never go near game making. Tweets by @MasterSwrdRemix  \nDEMO AVAILABLE 💛",
+				"url": "https://t.co/uWiw1n7Jdu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uWiw1n7Jdu",
+								"expanded_url": "http://gamejolt.com/games/undertale-yellow/136925",
+								"display_url": "gamejolt.com/games/undertal…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7923,
+				"friends_count": 104,
+				"listed_count": 6,
+				"created_at": "Thu Feb 18 21:14:58 +0000 2016",
+				"favourites_count": 1142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2030,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112935614620622848/Fduf_ztU_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112935614620622848/Fduf_ztU_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/700428313542729728/1532709568",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 414,
+			"favorite_count": 1758,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2636,
+		"favorite_count": 9566,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are OUT of time Undertale might not happen what do I do please help https://t.co/4ac3dhEgnM"
+	},
+	{
 		"created_at": "Mon Dec 30 18:22:27 +0000 2019",
 		"id": 1211714177502523400,
 		"id_str": "1211714177502523393",
@@ -39,7 +733,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, mage of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
