@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 12:35:11 +0000 2020",
+		"id": 1252172022349586400,
+		"id_str": "1252214228372672518",
+		"full_text": "Adopts 20$ paypal each! Dm or comment to claim! ^ -^\nbelow is tos and details! Thank you for looking! 💙 https://t.co/1Z59OWOgjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252171579556950000,
+					"id_str": "1252171579556950016",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EWCbatVU8AAnfE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWCbatVU8AAnfE9.jpg",
+					"url": "https://t.co/1Z59OWOgjG",
+					"display_url": "pic.twitter.com/1Z59OWOgjG",
+					"expanded_url": "https://twitter.com/rabbitpet2/status/1252172022349586433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 396,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252171579556950000,
+					"id_str": "1252171579556950016",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EWCbatVU8AAnfE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWCbatVU8AAnfE9.jpg",
+					"url": "https://t.co/1Z59OWOgjG",
+					"display_url": "pic.twitter.com/1Z59OWOgjG",
+					"expanded_url": "https://twitter.com/rabbitpet2/status/1252172022349586433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 396,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 841741230669099000,
+			"id_str": "841741230669099008",
+			"name": "Navii",
+			"screen_name": "rabbitpet2",
+			"location": "",
+			"description": "Commission: closed \n🚫NO Redistribution, NO Quote retweets!🚫\n💥Commission: https://t.co/bGuGI4bpsI 💥\nazpainter",
+			"url": "https://t.co/YpIcz4gA4Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpIcz4gA4Z",
+							"expanded_url": "https://marzworld.neocities.org/COMMISSION.html",
+							"display_url": "marzworld.neocities.org/COMMISSION.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bGuGI4bpsI",
+							"expanded_url": "http://marzworld.neocities.org/COMMISSION.html",
+							"display_url": "marzworld.neocities.org/COMMISSION.html",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1241,
+			"friends_count": 0,
+			"listed_count": 15,
+			"created_at": "Tue Mar 14 20:02:03 +0000 2017",
+			"favourites_count": 313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251439320210132992/YvM4IVtS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251439320210132992/YvM4IVtS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/841741230669099008/1587343815",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 83,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adopts 20$ paypal each! Dm or comment to claim! ^ -^\nbelow is tos and details! Thank you for looking! 💙 https://t.co/1Z59OWOgjG"
+	},
+	{
 		"created_at": "Mon Apr 20 01:18:35 +0000 2020",
 		"id": 1252043956357148700,
 		"id_str": "1252043956357148672",
@@ -28,7 +212,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -123,7 +307,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -218,7 +402,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -313,7 +497,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -408,7 +592,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
