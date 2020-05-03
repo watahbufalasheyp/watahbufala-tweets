@@ -1,6 +1,903 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 21:19:05 +0000 2020",
+		"id": 1256694113254150100,
+		"id_str": "1256694724175581189",
+		"full_text": "https://t.co/uKxnEd2cvE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256694110511038500,
+					"id_str": "1256694110511038468",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXCsoqBWAAQfuYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXCsoqBWAAQfuYa.jpg",
+					"url": "https://t.co/uKxnEd2cvE",
+					"display_url": "pic.twitter.com/uKxnEd2cvE",
+					"expanded_url": "https://twitter.com/archillect/status/1256694113254150145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1017,
+							"h": 497,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256694110511038500,
+					"id_str": "1256694110511038468",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXCsoqBWAAQfuYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXCsoqBWAAQfuYa.jpg",
+					"url": "https://t.co/uKxnEd2cvE",
+					"display_url": "pic.twitter.com/uKxnEd2cvE",
+					"expanded_url": "https://twitter.com/archillect/status/1256694113254150145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1017,
+							"h": 497,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://machinu.net\" rel=\"nofollow\">Archillect</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2907774137,
+			"id_str": "2907774137",
+			"name": "Archillect",
+			"screen_name": "archillect",
+			"location": "Meta",
+			"description": "The ocular engine. \nSources: @archillinks\nhttps://t.co/U7Oh7xumQp",
+			"url": "https://t.co/l6SZrvMcZV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l6SZrvMcZV",
+							"expanded_url": "http://instagram.com/archillect",
+							"display_url": "instagram.com/archillect",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U7Oh7xumQp",
+							"expanded_url": "http://archillect.com",
+							"display_url": "archillect.com",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1953369,
+			"friends_count": 1,
+			"listed_count": 12739,
+			"created_at": "Sat Dec 06 14:07:45 +0000 2014",
+			"favourites_count": 9873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 280420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2907774137/1418102176",
+			"profile_link_color": "191919",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 1448,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/uKxnEd2cvE"
+	},
+	{
+		"created_at": "Sat May 02 21:18:46 +0000 2020",
+		"id": 1256694647381950500,
+		"id_str": "1256694647381950465",
+		"full_text": "Okay but devo kinda sick doe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 573,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 20072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Okay but devo kinda sick doe"
+	},
+	{
+		"created_at": "Sat May 02 20:02:44 +0000 2020",
+		"id": 1256675510698066000,
+		"id_str": "1256675510698065920",
+		"full_text": "Mental health = not good litterally the worst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "Dan🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 573,
+			"listed_count": 11,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 20072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Mental health = not good litterally the worst"
+	},
+	{
+		"created_at": "Sat May 02 17:28:00 +0000 2020",
+		"id": 1256338781092733000,
+		"id_str": "1256636573627617284",
+		"full_text": "were u a tumblr kid in 2014 or are u normal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1195412004174909400,
+			"id_str": "1195412004174909440",
+			"name": "but whole",
+			"screen_name": "cybrnymph",
+			"location": "she/they",
+			"description": "I’m way less annoying on ig 🕸🍄🦇🪐👽🛸🧛🏻‍♀️ priv: @grossthottie ig: cybrnymph",
+			"url": "https://t.co/ZLg281LhHX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZLg281LhHX",
+							"expanded_url": "http://cash.app/$grossprincessdied",
+							"display_url": "cash.app/$grossprincess…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2480,
+			"friends_count": 288,
+			"listed_count": 13,
+			"created_at": "Fri Nov 15 18:43:32 +0000 2019",
+			"favourites_count": 2188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256683982529261569/T0Eg_QgW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256683982529261569/T0Eg_QgW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1195412004174909440/1587082110",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12963,
+		"favorite_count": 67408,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "were u a tumblr kid in 2014 or are u normal"
+	},
+	{
+		"created_at": "Sat May 02 13:16:39 +0000 2020",
+		"id": 1256392770295525400,
+		"id_str": "1256573315365457924",
+		"full_text": "n o w h e r e   t o   r u n\nn o w h e r e   t o   h i d e\n\n#screenshotsaturday #gamedev #indiedev #madewithunity #unity3D #gameart #horrordev #lowpoly https://t.co/HsSBxtn98z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "screenshotsaturday",
+					"indices": [
+						59,
+						78
+					]
+				},
+				{
+					"text": "gamedev",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "indiedev",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "madewithunity",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "unity3D",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "gameart",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "horrordev",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "lowpoly",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256391326465011700,
+					"id_str": "1256391326465011712",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EW-ZQTjUMAAYo2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EW-ZQTjUMAAYo2q.jpg",
+					"url": "https://t.co/HsSBxtn98z",
+					"display_url": "pic.twitter.com/HsSBxtn98z",
+					"expanded_url": "https://twitter.com/leakyfingers/status/1256392770295525378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 622,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256391326465011700,
+					"id_str": "1256391326465011712",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EW-ZQTjUMAAYo2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EW-ZQTjUMAAYo2q.jpg",
+					"url": "https://t.co/HsSBxtn98z",
+					"display_url": "pic.twitter.com/HsSBxtn98z",
+					"expanded_url": "https://twitter.com/leakyfingers/status/1256392770295525378/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 622,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							415,
+							311
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EW-ZQTjUMAAYo2q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093022914910158800,
+			"id_str": "1093022914910158848",
+			"name": "ＬＥＡＫＹＦＩＮＧＥＲＳ",
+			"screen_name": "leakyfingers",
+			"location": "",
+			"description": "lurching amalgam of rotted metal and rusting flesh\nhorror game developer\nhe/him \n\nget my games & development tools for free at https://t.co/TKRrYbfMZj",
+			"url": "https://t.co/mU9l3a1BJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mU9l3a1BJW",
+							"expanded_url": "https://leakyfingers.itch.io/",
+							"display_url": "leakyfingers.itch.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TKRrYbfMZj",
+							"expanded_url": "http://leakyfingers.itch.io",
+							"display_url": "leakyfingers.itch.io",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 215,
+			"listed_count": 1,
+			"created_at": "Wed Feb 06 05:45:45 +0000 2019",
+			"favourites_count": 3352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224344953448488963/ApKa1i18_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224344953448488963/ApKa1i18_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093022914910158848/1577659767",
+			"profile_link_color": "262626",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 1116,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "n o w h e r e   t o   r u n\nn o w h e r e   t o   h i d e\n\n#screenshotsaturday #gamedev #indiedev #madewithunity #unity3D #gameart #horrordev #lowpoly https://t.co/HsSBxtn98z"
+	},
+	{
+		"created_at": "Sat May 02 13:16:32 +0000 2020",
+		"id": 1256398168427835400,
+		"id_str": "1256573287259398145",
+		"full_text": "idk why nobody wants to talk about this https://t.co/RxurCaPbs3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256398126245728300,
+					"id_str": "1256398126245728256",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-fcGtX0AAEGa_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-fcGtX0AAEGa_.jpg",
+					"url": "https://t.co/RxurCaPbs3",
+					"display_url": "pic.twitter.com/RxurCaPbs3",
+					"expanded_url": "https://twitter.com/BLOODSADx/status/1256398168427835392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256398126245728300,
+					"id_str": "1256398126245728256",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-fcGtX0AAEGa_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-fcGtX0AAEGa_.jpg",
+					"url": "https://t.co/RxurCaPbs3",
+					"display_url": "pic.twitter.com/RxurCaPbs3",
+					"expanded_url": "https://twitter.com/BLOODSADx/status/1256398168427835392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 792995960641220600,
+			"id_str": "792995960641220609",
+			"name": "ivy ruth!!! ❌",
+			"screen_name": "BLOODSADx",
+			"location": "",
+			"description": "she/her. i make comics.",
+			"url": "https://t.co/peb6EsaDwY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/peb6EsaDwY",
+							"expanded_url": "http://bloodsad.com",
+							"display_url": "bloodsad.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 784,
+			"listed_count": 3,
+			"created_at": "Mon Oct 31 07:45:44 +0000 2016",
+			"favourites_count": 48079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228502111442423809/bVZ7HGl__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228502111442423809/bVZ7HGl__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/792995960641220609/1561778325",
+			"profile_link_color": "FC0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 894,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "idk why nobody wants to talk about this https://t.co/RxurCaPbs3"
+	},
+	{
 		"created_at": "Fri May 01 21:49:49 +0000 2020",
 		"id": 1256340069981450200,
 		"id_str": "1256340069981450240",
@@ -28,7 +925,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -201,7 +1098,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -297,7 +1194,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -392,7 +1289,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -704,7 +1601,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -799,7 +1696,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Dan🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
