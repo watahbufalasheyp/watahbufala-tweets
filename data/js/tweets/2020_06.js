@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 12:04:17 +0000 2020",
+		"id": 1272500171675447300,
+		"id_str": "1272500171675447296",
+		"full_text": "I wanna draw comics still",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 579,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 20588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I wanna draw comics still"
+	},
+	{
+		"created_at": "Mon Jun 15 12:04:09 +0000 2020",
+		"id": 1272239892366491600,
+		"id_str": "1272500138687238144",
+		"full_text": "Death's gate https://t.co/vTCVE8pRG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272239871982211000,
+					"id_str": "1272239871982211082",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EafnbEaWkAoU4Va.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EafnbEaWkAoU4Va.jpg",
+					"url": "https://t.co/vTCVE8pRG6",
+					"display_url": "pic.twitter.com/vTCVE8pRG6",
+					"expanded_url": "https://twitter.com/pew_laser/status/1272239892366491652/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1843,
+							"h": 1215,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272239871982211000,
+					"id_str": "1272239871982211082",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EafnbEaWkAoU4Va.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EafnbEaWkAoU4Va.jpg",
+					"url": "https://t.co/vTCVE8pRG6",
+					"display_url": "pic.twitter.com/vTCVE8pRG6",
+					"expanded_url": "https://twitter.com/pew_laser/status/1272239892366491652/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1843,
+							"h": 1215,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147399805674672100,
+			"id_str": "1147399805674672128",
+			"name": "LaserPewPew",
+			"screen_name": "pew_laser",
+			"location": "",
+			"description": "💛✉️Local mail boy✉️💛 (COMMISSIONS OPEN) see pinned tweet for details\n\nemail: laserpewpewart@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2869,
+			"friends_count": 214,
+			"listed_count": 4,
+			"created_at": "Sat Jul 06 07:00:06 +0000 2019",
+			"favourites_count": 3013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204214199343296519/8HzyhsHy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204214199343296519/8HzyhsHy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147399805674672128/1584246755",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 106,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Death's gate https://t.co/vTCVE8pRG6"
+	},
+	{
+		"created_at": "Mon Jun 15 12:02:53 +0000 2020",
+		"id": 1272499820712902700,
+		"id_str": "1272499820712902656",
+		"full_text": "Its just make everday life a lot easier",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272499818938728400,
+		"in_reply_to_status_id_str": "1272499818938728448",
+		"in_reply_to_user_id": 2528303382,
+		"in_reply_to_user_id_str": "2528303382",
+		"in_reply_to_screen_name": "watahbufala",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 579,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 20588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Its just make everday life a lot easier"
+	},
+	{
+		"created_at": "Mon Jun 15 12:02:53 +0000 2020",
+		"id": 1272499818938728400,
+		"id_str": "1272499818938728448",
+		"full_text": "Medical marijuana should be legal in ireland. Genuinely dont think i would have to be on anti depressants if i had government regulated weed whenever i needed it. Like if i just smoked a joint when i woke up and before bed id be so happy with my life",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 579,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 20588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Medical marijuana should be legal in ireland. Genuinely dont think i would have to be on anti depressants if i had government regulated weed whenever i needed it. Like if i just smoked a joint when i woke up and before bed id be so happy with my life"
+	},
+	{
+		"created_at": "Mon Jun 15 12:01:17 +0000 2020",
+		"id": 1272499418357477400,
+		"id_str": "1272499418357477379",
+		"full_text": "Duck https://t.co/zkB2boctSH https://t.co/sADFJt4XKc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zkB2boctSH",
+					"expanded_url": "https://twitter.com/hexaes/status/1272392877704794112",
+					"display_url": "twitter.com/hexaes/status/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272499403266429000,
+					"id_str": "1272499403266428928",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EajTdxyXkAAlH75.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajTdxyXkAAlH75.jpg",
+					"url": "https://t.co/sADFJt4XKc",
+					"display_url": "pic.twitter.com/sADFJt4XKc",
+					"expanded_url": "https://twitter.com/watahbufala/status/1272499418357477379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 977,
+							"h": 1306,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272499403266429000,
+					"id_str": "1272499403266428928",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EajTdxyXkAAlH75.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajTdxyXkAAlH75.jpg",
+					"url": "https://t.co/sADFJt4XKc",
+					"display_url": "pic.twitter.com/sADFJt4XKc",
+					"expanded_url": "https://twitter.com/watahbufala/status/1272499418357477379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 977,
+							"h": 1306,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272499410967167000,
+					"id_str": "1272499410967166978",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EajTeOeXgAIlqnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajTeOeXgAIlqnr.jpg",
+					"url": "https://t.co/sADFJt4XKc",
+					"display_url": "pic.twitter.com/sADFJt4XKc",
+					"expanded_url": "https://twitter.com/watahbufala/status/1272499418357477379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 965,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 579,
+			"listed_count": 10,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 20588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272392877704794000,
+		"quoted_status_id_str": "1272392877704794112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zkB2boctSH",
+			"expanded": "https://twitter.com/hexaes/status/1272392877704794112",
+			"display": "twitter.com/hexaes/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 04:57:56 +0000 2020",
+			"id": 1272392877704794000,
+			"id_str": "1272392877704794112",
+			"full_text": "gang i made a \"what duck are you\" quiz show me ur duck https://t.co/gjRGoBhvid",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gjRGoBhvid",
+						"expanded_url": "https://uquiz.com/quiz/geoj1q/what-duck-are-you",
+						"display_url": "uquiz.com/quiz/geoj1q/wh…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 723448111025119200,
+				"id_str": "723448111025119232",
+				"name": "hexlor",
+				"screen_name": "hexaes",
+				"location": "they/he, 18",
+				"description": "evan/hexa: LOCAL DUCK ENTHUSIAST / icon: @charjain, header: @mordhiobhail",
+				"url": "https://t.co/WIdv25hZhw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WIdv25hZhw",
+								"expanded_url": "http://hexa.carrd.co",
+								"display_url": "hexa.carrd.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3198,
+				"friends_count": 108,
+				"listed_count": 11,
+				"created_at": "Fri Apr 22 09:47:25 +0000 2016",
+				"favourites_count": 7033,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28403,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225741156224360452/w3Pwcg_m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225741156224360452/w3Pwcg_m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/723448111025119232/1554095805",
+				"profile_link_color": "C2D5AC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Duck https://t.co/zkB2boctSH https://t.co/sADFJt4XKc"
+	},
+	{
 		"created_at": "Sun Jun 14 18:46:56 +0000 2020",
 		"id": 1272239113996046300,
 		"id_str": "1272239113996046339",
@@ -38,7 +816,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -323,7 +1101,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
