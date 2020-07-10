@@ -1,6 +1,1005 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 21:53:36 +0000 2020",
+		"id": 1281345787381919700,
+		"id_str": "1281345787381919744",
+		"full_text": "@droawsy Would wear this shirt alot",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "droawsy",
+					"name": "🌧orion federico🌧",
+					"id": 1248676336287260700,
+					"id_str": "1248676336287260672",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1281327006106431500,
+		"in_reply_to_status_id_str": "1281327006106431490",
+		"in_reply_to_user_id": 1248676336287260700,
+		"in_reply_to_user_id_str": "1248676336287260672",
+		"in_reply_to_screen_name": "droawsy",
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 578,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 20843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@droawsy Would wear this shirt alot"
+	},
+	{
+		"created_at": "Thu Jul 09 20:38:53 +0000 2020",
+		"id": 1281297422870810600,
+		"id_str": "1281326985361477632",
+		"full_text": "easy life https://t.co/rzmlFEMHbl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281297395964412000,
+					"id_str": "1281297395964411910",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EcgVMWoXgAYPkEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcgVMWoXgAYPkEr.jpg",
+					"url": "https://t.co/rzmlFEMHbl",
+					"display_url": "pic.twitter.com/rzmlFEMHbl",
+					"expanded_url": "https://twitter.com/5outho/status/1281297422870810624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281297395964412000,
+					"id_str": "1281297395964411910",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EcgVMWoXgAYPkEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcgVMWoXgAYPkEr.jpg",
+					"url": "https://t.co/rzmlFEMHbl",
+					"display_url": "pic.twitter.com/rzmlFEMHbl",
+					"expanded_url": "https://twitter.com/5outho/status/1281297422870810624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3109048559,
+			"id_str": "3109048559",
+			"name": "mosssoldier boy ஐ",
+			"screen_name": "5outho",
+			"location": "Moss Area",
+			"description": "Big Adventure ^.^ 🇻🇳\nbOyCuLLT ♥\n\n whateverr: hello5outho@outlook.com",
+			"url": "https://t.co/E6OevRxMy6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E6OevRxMy6",
+							"expanded_url": "http://5outho.tumblr.com",
+							"display_url": "5outho.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1205,
+			"friends_count": 91,
+			"listed_count": 6,
+			"created_at": "Tue Mar 24 00:30:54 +0000 2015",
+			"favourites_count": 12096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268692707662233601/Rcy17oye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268692707662233601/Rcy17oye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3109048559/1592866227",
+			"profile_link_color": "FFB8B8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 520,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "easy life https://t.co/rzmlFEMHbl"
+	},
+	{
+		"created_at": "Thu Jul 09 13:33:16 +0000 2020",
+		"id": 1280924901982048300,
+		"id_str": "1281219872073146368",
+		"full_text": "Here's what i think The legend of zelda would look like if Moomin creator Tove Jansson had illustrated it https://t.co/muclWBqnbx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280924690769481700,
+					"id_str": "1280924690769481731",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbCODlXkAMrh2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbCODlXkAMrh2x.jpg",
+					"url": "https://t.co/muclWBqnbx",
+					"display_url": "pic.twitter.com/muclWBqnbx",
+					"expanded_url": "https://twitter.com/Cronks_964/status/1280924901982048257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1968,
+							"h": 1567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280924690769481700,
+					"id_str": "1280924690769481731",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbCODlXkAMrh2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbCODlXkAMrh2x.jpg",
+					"url": "https://t.co/muclWBqnbx",
+					"display_url": "pic.twitter.com/muclWBqnbx",
+					"expanded_url": "https://twitter.com/Cronks_964/status/1280924901982048257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1968,
+							"h": 1567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070211558255542300,
+			"id_str": "1070211558255542272",
+			"name": "Lasse 964",
+			"screen_name": "Cronks_964",
+			"location": "Viborg, Danmark",
+			"description": "Lasse | He/Him | Bisexual | Demiboy| 27 | 🇩🇰 | Artist | Teacher student |❤️@pianta_❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 966,
+			"listed_count": 6,
+			"created_at": "Wed Dec 05 07:01:33 +0000 2018",
+			"favourites_count": 15725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277321964202471430/XYvfxxdw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277321964202471430/XYvfxxdw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070211558255542272/1593372405",
+			"profile_link_color": "FFB100",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2847,
+		"favorite_count": 10440,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's what i think The legend of zelda would look like if Moomin creator Tove Jansson had illustrated it https://t.co/muclWBqnbx"
+	},
+	{
+		"created_at": "Thu Jul 09 13:30:29 +0000 2020",
+		"id": 1280658220705611800,
+		"id_str": "1281219172937195522",
+		"full_text": "I’ve never seen such a threatening advertisement for a game in my life lmao https://t.co/YXVQMRvoGK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280658215131402200,
+					"id_str": "1280658215131402240",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EcXP3IeX0AAdrYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcXP3IeX0AAdrYi.jpg",
+					"url": "https://t.co/YXVQMRvoGK",
+					"display_url": "pic.twitter.com/YXVQMRvoGK",
+					"expanded_url": "https://twitter.com/Mevans2703/status/1280658220705611776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280658215131402200,
+					"id_str": "1280658215131402240",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EcXP3IeX0AAdrYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcXP3IeX0AAdrYi.jpg",
+					"url": "https://t.co/YXVQMRvoGK",
+					"display_url": "pic.twitter.com/YXVQMRvoGK",
+					"expanded_url": "https://twitter.com/Mevans2703/status/1280658220705611776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3023473419,
+			"id_str": "3023473419",
+			"name": "Mεναηs ツ (CEO of Pyra)",
+			"screen_name": "Mevans2703",
+			"location": "Cardiff, Wales",
+			"description": "🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿 19, autistic, he/him | Mario, Crash Bandicoot, Doraemon, Marvel, Viz & Batman fan | Pyra is my waifu ❤️ | PFP by @LilacMurasaki",
+			"url": "https://t.co/kwAVH6g2e9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kwAVH6g2e9",
+							"expanded_url": "https://m.fanfiction.net/u/11878508/",
+							"display_url": "m.fanfiction.net/u/11878508/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3704,
+			"friends_count": 5005,
+			"listed_count": 13,
+			"created_at": "Sat Feb 07 17:30:10 +0000 2015",
+			"favourites_count": 171284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212163817783906304/UNX7eGq6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212163817783906304/UNX7eGq6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3023473419/1582572945",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6936,
+		"favorite_count": 38209,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve never seen such a threatening advertisement for a game in my life lmao https://t.co/YXVQMRvoGK"
+	},
+	{
+		"created_at": "Thu Jul 09 11:59:36 +0000 2020",
+		"id": 1280956542473457700,
+		"id_str": "1281196302995505154",
+		"full_text": "recent commission! https://t.co/7zWMQ58H7q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280956459015114800,
+					"id_str": "1280956459015114756",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbfHNhWkAQt76y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbfHNhWkAQt76y.jpg",
+					"url": "https://t.co/7zWMQ58H7q",
+					"display_url": "pic.twitter.com/7zWMQ58H7q",
+					"expanded_url": "https://twitter.com/Alaingruetter/status/1280956542473457672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1431,
+							"h": 1596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1076,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280956459015114800,
+					"id_str": "1280956459015114756",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbfHNhWkAQt76y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbfHNhWkAQt76y.jpg",
+					"url": "https://t.co/7zWMQ58H7q",
+					"display_url": "pic.twitter.com/7zWMQ58H7q",
+					"expanded_url": "https://twitter.com/Alaingruetter/status/1280956542473457672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1431,
+							"h": 1596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1076,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1102763648433442800,
+			"id_str": "1102763648433442816",
+			"name": "Bagboss",
+			"screen_name": "Alaingruetter",
+			"location": "Florida, USA",
+			"description": "In the ponds cool depths; the happy frog plays in spring; his life, a slow game.",
+			"url": "https://t.co/LumlFtDsex",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LumlFtDsex",
+							"expanded_url": "https://www.instagram.com/bagboss.art/",
+							"display_url": "instagram.com/bagboss.art/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 817,
+			"listed_count": 17,
+			"created_at": "Tue Mar 05 02:51:56 +0000 2019",
+			"favourites_count": 5791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241405919445082112/cXnNRQag_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241405919445082112/cXnNRQag_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1102763648433442816/1594149089",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 952,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "recent commission! https://t.co/7zWMQ58H7q"
+	},
+	{
+		"created_at": "Thu Jul 09 11:57:22 +0000 2020",
+		"id": 1280937460319621000,
+		"id_str": "1281195739008434176",
+		"full_text": "sketched out a pose for a doodle i colored a while ago may or may not actually finish it someday https://t.co/rZ7oG1YRd0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280937453810040800,
+					"id_str": "1280937453810040833",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbN09nXQAEvIz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbN09nXQAEvIz4.jpg",
+					"url": "https://t.co/rZ7oG1YRd0",
+					"display_url": "pic.twitter.com/rZ7oG1YRd0",
+					"expanded_url": "https://twitter.com/aaillis/status/1280937460319621121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1153,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280937453810040800,
+					"id_str": "1280937453810040833",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbN09nXQAEvIz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbN09nXQAEvIz4.jpg",
+					"url": "https://t.co/rZ7oG1YRd0",
+					"display_url": "pic.twitter.com/rZ7oG1YRd0",
+					"expanded_url": "https://twitter.com/aaillis/status/1280937460319621121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1153,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280937453810000000,
+					"id_str": "1280937453809999874",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EcbN09nWoAITlmK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcbN09nWoAITlmK.jpg",
+					"url": "https://t.co/rZ7oG1YRd0",
+					"display_url": "pic.twitter.com/rZ7oG1YRd0",
+					"expanded_url": "https://twitter.com/aaillis/status/1280937460319621121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1251377818010861600,
+			"id_str": "1251377818010861573",
+			"name": "e ⚢",
+			"screen_name": "aaillis",
+			"location": "emily 18 any prns white",
+			"description": "art-only account for @frogmunchy B), same user but less active on insta",
+			"url": "https://t.co/MIoSU690LH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MIoSU690LH",
+							"expanded_url": "https://linktr.ee/acab",
+							"display_url": "linktr.ee/acab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496,
+			"friends_count": 256,
+			"listed_count": 2,
+			"created_at": "Sat Apr 18 05:11:43 +0000 2020",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261847644311347203/Nn7OSKXh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261847644311347203/Nn7OSKXh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1251377818010861573/1587186989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 335,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "sketched out a pose for a doodle i colored a while ago may or may not actually finish it someday https://t.co/rZ7oG1YRd0"
+	},
+	{
 		"created_at": "Wed Jul 08 21:45:40 +0000 2020",
 		"id": 1280981404319387600,
 		"id_str": "1280981404319387649",
@@ -39,7 +1038,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -134,7 +1133,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -229,7 +1228,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -661,7 +1660,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "✖️18 |/he/him ✖️music enthusiast, dumb nerd✖️ I like music, nature, and a load of nerd stuff (homestuck)✖️ INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
