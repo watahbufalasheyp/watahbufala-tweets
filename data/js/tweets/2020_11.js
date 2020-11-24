@@ -1,6 +1,871 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 15:08:19 +0000 2020",
+		"id": 1330890931311145000,
+		"id_str": "1330890931311144962",
+		"full_text": "Serious https://t.co/7k5CU4Mkhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7k5CU4Mkhn",
+					"expanded_url": "https://twitter.com/OnThisDayGaming/status/1330591174172741638",
+					"display_url": "twitter.com/OnThisDayGamin…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 604,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 22072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330591174172741600,
+		"quoted_status_id_str": "1330591174172741638",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7k5CU4Mkhn",
+			"expanded": "https://twitter.com/OnThisDayGaming/status/1330591174172741638",
+			"display": "twitter.com/OnThisDayGamin…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 22 19:17:11 +0000 2020",
+			"id": 1330591174172741600,
+			"id_str": "1330591174172741638",
+			"full_text": "Sonic Generations for 3ds was released on this day in North America, 9 years ago (2011) https://t.co/x7NW4LWQuY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1330591169139585000,
+						"id_str": "1330591169139585026",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Enc1nlnWMAIOVXj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Enc1nlnWMAIOVXj.jpg",
+						"url": "https://t.co/x7NW4LWQuY",
+						"display_url": "pic.twitter.com/x7NW4LWQuY",
+						"expanded_url": "https://twitter.com/OnThisDayGaming/status/1330591174172741638/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1330591169139585000,
+						"id_str": "1330591169139585026",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Enc1nlnWMAIOVXj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Enc1nlnWMAIOVXj.jpg",
+						"url": "https://t.co/x7NW4LWQuY",
+						"display_url": "pic.twitter.com/x7NW4LWQuY",
+						"expanded_url": "https://twitter.com/OnThisDayGaming/status/1330591174172741638/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2954618584,
+				"id_str": "2954618584",
+				"name": "OnThisDayInGaming",
+				"screen_name": "OnThisDayGaming",
+				"location": "Norway",
+				"description": "I will update you on which games came out on this day in gaming.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 191032,
+				"friends_count": 0,
+				"listed_count": 457,
+				"created_at": "Thu Jan 01 10:24:42 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6572,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800928245596254208/eyxgA8oh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800928245596254208/eyxgA8oh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2954618584/1435270427",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 185,
+			"favorite_count": 1894,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Serious https://t.co/7k5CU4Mkhn"
+	},
+	{
+		"created_at": "Mon Nov 23 15:06:18 +0000 2020",
+		"id": 1330635353976230000,
+		"id_str": "1330890424093958145",
+		"full_text": "Sunday Funday - Cool World art by Barry E. Jackson https://t.co/F3pi3VTQzm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1330635336922267600,
+					"id_str": "1330635336922267648",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EnddyfbVgAAz15M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnddyfbVgAAz15M.jpg",
+					"url": "https://t.co/F3pi3VTQzm",
+					"display_url": "pic.twitter.com/F3pi3VTQzm",
+					"expanded_url": "https://twitter.com/ralphbakshi/status/1330635353976229889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 868,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330635336922267600,
+					"id_str": "1330635336922267648",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EnddyfbVgAAz15M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnddyfbVgAAz15M.jpg",
+					"url": "https://t.co/F3pi3VTQzm",
+					"display_url": "pic.twitter.com/F3pi3VTQzm",
+					"expanded_url": "https://twitter.com/ralphbakshi/status/1330635353976229889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 868,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1330635336930664400,
+					"id_str": "1330635336930664449",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EnddyfdVoAE7y6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnddyfdVoAE7y6B.jpg",
+					"url": "https://t.co/F3pi3VTQzm",
+					"display_url": "pic.twitter.com/F3pi3VTQzm",
+					"expanded_url": "https://twitter.com/ralphbakshi/status/1330635353976229889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16962208,
+			"id_str": "16962208",
+			"name": "Ralph Bakshi",
+			"screen_name": "ralphbakshi",
+			"location": "",
+			"description": "Artist, Director, Animator, Writer, Producer. The Official Bakshi Productions, Inc. Page Run by the Bakshi Family.",
+			"url": "https://t.co/vSBngfPfnY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vSBngfPfnY",
+							"expanded_url": "http://bit.ly/Bakshi_Productions_Animationart",
+							"display_url": "bit.ly/Bakshi_Product…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31099,
+			"friends_count": 993,
+			"listed_count": 388,
+			"created_at": "Sat Oct 25 04:18:38 +0000 2008",
+			"favourites_count": 11542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128084309351362561/Sdgmu7H5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128084309351362561/Sdgmu7H5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16962208/1594518222",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 364,
+		"favorite_count": 1686,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sunday Funday - Cool World art by Barry E. Jackson https://t.co/F3pi3VTQzm"
+	},
+	{
+		"created_at": "Mon Nov 23 14:13:02 +0000 2020",
+		"id": 1330838224030240800,
+		"id_str": "1330877017252835331",
+		"full_text": "Just keep going. https://t.co/ULv2PklxXS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1330838220448284700,
+					"id_str": "1330838220448284672",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EngWT3dVQAAYubX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EngWT3dVQAAYubX.jpg",
+					"url": "https://t.co/ULv2PklxXS",
+					"display_url": "pic.twitter.com/ULv2PklxXS",
+					"expanded_url": "https://twitter.com/pajamabou/status/1330838224030240770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330838220448284700,
+					"id_str": "1330838220448284672",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EngWT3dVQAAYubX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EngWT3dVQAAYubX.jpg",
+					"url": "https://t.co/ULv2PklxXS",
+					"display_url": "pic.twitter.com/ULv2PklxXS",
+					"expanded_url": "https://twitter.com/pajamabou/status/1330838224030240770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995998571894751200,
+			"id_str": "995998571894751232",
+			"name": "ひまだなか🐟",
+			"screen_name": "pajamabou",
+			"location": "",
+			"description": "絵を描くコーラが好きな夜行性🌜万年換毛期🌚\n\n展示のお誘いや作品の依頼などはDMかpajamabou@gmail.comへお願いします。\nインスタ(https://t.co/GYcdkXVagV )\n原画の販売(https://t.co/YAdocjGjKq)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GYcdkXVagV",
+							"expanded_url": "http://instagram.com/himadanaka",
+							"display_url": "instagram.com/himadanaka",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/YAdocjGjKq",
+							"expanded_url": "http://pajamabou.booth.pm/",
+							"display_url": "pajamabou.booth.pm",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10249,
+			"friends_count": 243,
+			"listed_count": 120,
+			"created_at": "Mon May 14 12:05:39 +0000 2018",
+			"favourites_count": 51896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278497752524062720/WyhBe6gS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278497752524062720/WyhBe6gS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/995998571894751232/1593652677",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 496,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just keep going. https://t.co/ULv2PklxXS"
+	},
+	{
+		"created_at": "Mon Nov 23 14:08:16 +0000 2020",
+		"id": 1330835827518214100,
+		"id_str": "1330875821511290881",
+		"full_text": "(๑&gt;◡&lt;๑) They escaped from Kakariko!\n\nIt seems that I did have some motivation before the end of the year... \n\n#animation #Zelda https://t.co/nlfEfLoziW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "animation",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "Zelda",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1330833275124920300,
+					"id_str": "1330833275124920322",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EngR0AsXMAIFRgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EngR0AsXMAIFRgj.jpg",
+					"url": "https://t.co/nlfEfLoziW",
+					"display_url": "pic.twitter.com/nlfEfLoziW",
+					"expanded_url": "https://twitter.com/croa_san/status/1330835827518214144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330833275124920300,
+					"id_str": "1330833275124920322",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EngR0AsXMAIFRgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EngR0AsXMAIFRgj.jpg",
+					"url": "https://t.co/nlfEfLoziW",
+					"display_url": "pic.twitter.com/nlfEfLoziW",
+					"expanded_url": "https://twitter.com/croa_san/status/1330835827518214144/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EngR0AsXMAIFRgj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16502167,
+			"id_str": "16502167",
+			"name": "croasan",
+			"screen_name": "croa_san",
+			"location": "",
+			"description": "Animator at Moon Studios \n\nOri and the Will of the Wisps",
+			"url": "https://t.co/TVEZ01FyVX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TVEZ01FyVX",
+							"expanded_url": "https://vimeo.com/croasan",
+							"display_url": "vimeo.com/croasan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26509,
+			"friends_count": 520,
+			"listed_count": 238,
+			"created_at": "Sun Sep 28 20:05:35 +0000 2008",
+			"favourites_count": 3267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263052051057123330/VnqHrdiv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263052051057123330/VnqHrdiv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16502167/1358707736",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5031,
+		"favorite_count": 25168,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(๑&gt;◡&lt;๑) They escaped from Kakariko!\n\nIt seems that I did have some motivation before the end of the year... \n\n#animation #Zelda https://t.co/nlfEfLoziW"
+	},
+	{
 		"created_at": "Sun Nov 22 21:56:43 +0000 2020",
 		"id": 1330631319819350000,
 		"id_str": "1330631319819350026",
@@ -106,7 +971,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -202,7 +1067,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -471,7 +1336,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -566,7 +1431,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1927,7 +2792,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2032,7 +2897,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2103,7 +2968,7 @@ Grailbird.data.tweets_2020_11 =
 			"created_at": "Sat Nov 21 19:56:32 +0000 2020",
 			"id": 1330238687511253000,
 			"id_str": "1330238687511252992",
-			"full_text": "WIN a custom Marceline electric guitar or bass thanks to our friends at @gibsonguitar / @Epiphone! 🧛‍♀️🎸🔥Now you can shred like Marceline does in the @HBOMax Original #AdventureTimeDistantLands #Obsidian!\n\nClick here for rules and entry 👉 https://t.co/mTE9la7CaW https://t.co/w1mVawzKs0",
+			"full_text": "WIN a custom Marceline electric guitar or bass thanks to our friends at @gibsonguitar / @Epiphone! 🧛♀️🎸🔥Now you can shred like Marceline does in the @HBOMax Original #AdventureTimeDistantLands #Obsidian!\n\nClick here for rules and entry 👉 https://t.co/mTE9la7CaW https://t.co/w1mVawzKs0",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -2472,7 +3337,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2567,7 +3432,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2978,7 +3843,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
