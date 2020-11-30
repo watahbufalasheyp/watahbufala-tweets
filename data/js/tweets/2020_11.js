@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 29 20:40:19 +0000 2020",
+		"id": 1332924537772470300,
+		"id_str": "1333148807979290630",
+		"full_text": "https://t.co/iT3GSaXGpq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332924525776752600,
+					"id_str": "1332924525776752640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/En9_y0dUUAAfaTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9_y0dUUAAfaTW.jpg",
+					"url": "https://t.co/iT3GSaXGpq",
+					"display_url": "pic.twitter.com/iT3GSaXGpq",
+					"expanded_url": "https://twitter.com/Choplogik/status/1332924537772470277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 752,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332924525776752600,
+					"id_str": "1332924525776752640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/En9_y0dUUAAfaTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9_y0dUUAAfaTW.jpg",
+					"url": "https://t.co/iT3GSaXGpq",
+					"display_url": "pic.twitter.com/iT3GSaXGpq",
+					"expanded_url": "https://twitter.com/Choplogik/status/1332924537772470277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 752,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14968484,
+			"id_str": "14968484",
+			"name": "regular gem",
+			"screen_name": "Choplogik",
+			"location": "vancouver, bc",
+			"description": "ditch &culvert based spells & spellcasting",
+			"url": "https://t.co/kIQ9TwDh7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kIQ9TwDh7u",
+							"expanded_url": "http://choplogik.org",
+							"display_url": "choplogik.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16349,
+			"friends_count": 405,
+			"listed_count": 213,
+			"created_at": "Sun Jun 01 02:43:44 +0000 2008",
+			"favourites_count": 371561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 123134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058082010692866048/VPLEMAVm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058082010692866048/VPLEMAVm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14968484/1591234037",
+			"profile_link_color": "FECBE7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E1E6ED",
+			"profile_text_color": "1B2645",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5438,
+		"favorite_count": 33468,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/iT3GSaXGpq"
+	},
+	{
+		"created_at": "Sun Nov 29 20:39:01 +0000 2020",
+		"id": 1333148481054257200,
+		"id_str": "1333148481054257154",
+		"full_text": "Ive spent pretry much the day waiting for battlefront 2 to be done downloading so it better be worth it in the end",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 606,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 22091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Ive spent pretry much the day waiting for battlefront 2 to be done downloading so it better be worth it in the end"
+	},
+	{
+		"created_at": "Sun Nov 29 20:21:08 +0000 2020",
+		"id": 1333140448328691700,
+		"id_str": "1333143982822526981",
+		"full_text": "Composition surréaliste, 1932 #victorbrauner #brauner https://t.co/agq0d6YWQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "victorbrauner",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"text": "brauner",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333140446692995000,
+					"id_str": "1333140446692995077",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EoBELEjXcAUhnpg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoBELEjXcAUhnpg.jpg",
+					"url": "https://t.co/agq0d6YWQK",
+					"display_url": "pic.twitter.com/agq0d6YWQK",
+					"expanded_url": "https://twitter.com/artistbrauner/status/1333140448328691712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 415,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 415,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333140446692995000,
+					"id_str": "1333140446692995077",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EoBELEjXcAUhnpg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoBELEjXcAUhnpg.jpg",
+					"url": "https://t.co/agq0d6YWQK",
+					"display_url": "pic.twitter.com/agq0d6YWQK",
+					"expanded_url": "https://twitter.com/artistbrauner/status/1333140448328691712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 415,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 415,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.offtheeasel.com/\" rel=\"nofollow\">Off The Easel Bots</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 802625846439776300,
+			"id_str": "802625846439776256",
+			"name": "Victor Brauner",
+			"screen_name": "artistbrauner",
+			"location": "(World) Paris, France",
+			"description": "Fan account of Victor Brauner, a Romanian Jewish sculptor and painter of surrealistic images. #artbot by @andreitr",
+			"url": "https://t.co/vKbauHIK0a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vKbauHIK0a",
+							"expanded_url": "https://en.wikipedia.org/wiki/Victor_Brauner",
+							"display_url": "en.wikipedia.org/wiki/Victor_Br…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8005,
+			"friends_count": 257,
+			"listed_count": 156,
+			"created_at": "Sat Nov 26 21:31:28 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/815223194558705665/YaCtub_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/815223194558705665/YaCtub_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/802625846439776256/1483198687",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Composition surréaliste, 1932 #victorbrauner #brauner https://t.co/agq0d6YWQK"
+	},
+	{
+		"created_at": "Sun Nov 29 20:20:13 +0000 2020",
+		"id": 1332856123678990300,
+		"id_str": "1333143751926145025",
+		"full_text": "Me and the boys when we get the Covid vaccination https://t.co/NcsthjeAbZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332856121401487400,
+					"id_str": "1332856121401487360",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/En9BlKTXMAAqQ71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9BlKTXMAAqQ71.jpg",
+					"url": "https://t.co/NcsthjeAbZ",
+					"display_url": "pic.twitter.com/NcsthjeAbZ",
+					"expanded_url": "https://twitter.com/ArmyStrang/status/1332856123678990336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 831,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332856121401487400,
+					"id_str": "1332856121401487360",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/En9BlKTXMAAqQ71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9BlKTXMAAqQ71.jpg",
+					"url": "https://t.co/NcsthjeAbZ",
+					"display_url": "pic.twitter.com/NcsthjeAbZ",
+					"expanded_url": "https://twitter.com/ArmyStrang/status/1332856123678990336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 831,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16666014,
+			"id_str": "16666014",
+			"name": "American Propagandist",
+			"screen_name": "ArmyStrang",
+			"location": "St Louis, MO",
+			"description": "Cohost of the podcast @HellOfAWay with @inthesedeserts, writer, retired soldier, picture taker, Ben Sisko stan. Regional Emmy Award Winner, gunfucker",
+			"url": "https://t.co/u0OcRMkTd1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u0OcRMkTd1",
+							"expanded_url": "https://www.patreon.com/Hellofawaytodie",
+							"display_url": "patreon.com/Hellofawaytodie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26339,
+			"friends_count": 1090,
+			"listed_count": 179,
+			"created_at": "Thu Oct 09 13:35:13 +0000 2008",
+			"favourites_count": 68581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155265267821400064/btbCwJ5E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155265267821400064/btbCwJ5E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16666014/1536951917",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11569,
+		"favorite_count": 146094,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me and the boys when we get the Covid vaccination https://t.co/NcsthjeAbZ"
+	},
+	{
 		"created_at": "Sat Nov 28 20:04:47 +0000 2020",
 		"id": 1332777477270286300,
 		"id_str": "1332777477270286336",
@@ -28,7 +660,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱18 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
