@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 20:34:36 +0000 2020",
+		"id": 1339282100411900000,
+		"id_str": "1339307964138713089",
+		"full_text": "de chirico's nostalgia for a past that never truly existed https://t.co/shk56rlsAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339281735721349000,
+					"id_str": "1339281735721349129",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYVpI_W8AkV4f1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYVpI_W8AkV4f1.jpg",
+					"url": "https://t.co/shk56rlsAB",
+					"display_url": "pic.twitter.com/shk56rlsAB",
+					"expanded_url": "https://twitter.com/gnonymus/status/1339282100411899905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1504,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339281735721349000,
+					"id_str": "1339281735721349129",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYVpI_W8AkV4f1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYVpI_W8AkV4f1.jpg",
+					"url": "https://t.co/shk56rlsAB",
+					"display_url": "pic.twitter.com/shk56rlsAB",
+					"expanded_url": "https://twitter.com/gnonymus/status/1339282100411899905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1504,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339281787781062700,
+					"id_str": "1339281787781062656",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYVsK7XIAAxuC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYVsK7XIAAxuC6.jpg",
+					"url": "https://t.co/shk56rlsAB",
+					"display_url": "pic.twitter.com/shk56rlsAB",
+					"expanded_url": "https://twitter.com/gnonymus/status/1339282100411899905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1956,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339281870140412000,
+					"id_str": "1339281870140411904",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYVw9vXEAAwGWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYVw9vXEAAwGWq.jpg",
+					"url": "https://t.co/shk56rlsAB",
+					"display_url": "pic.twitter.com/shk56rlsAB",
+					"expanded_url": "https://twitter.com/gnonymus/status/1339282100411899905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 976,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1627,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339282049811755000,
+					"id_str": "1339282049811755015",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYV7bEWMAc9k1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYV7bEWMAc9k1K.jpg",
+					"url": "https://t.co/shk56rlsAB",
+					"display_url": "pic.twitter.com/shk56rlsAB",
+					"expanded_url": "https://twitter.com/gnonymus/status/1339282100411899905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 325,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 957,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214229232357802000,
+			"id_str": "1214229232357801985",
+			"name": "gnonymus bosch",
+			"screen_name": "gnonymus",
+			"location": "'s-hertogenbosch",
+			"description": "dutch are praised as painters of landscapes, italians of people and gods. the italians have their genius in their brain, the dutch in their diligent hand 🌲🌊🌞",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4213,
+			"friends_count": 185,
+			"listed_count": 7,
+			"created_at": "Mon Jan 06 16:56:29 +0000 2020",
+			"favourites_count": 10724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246499330053353473/OP-rrvEu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246499330053353473/OP-rrvEu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1214229232357801985/1585992470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 197,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "de chirico's nostalgia for a past that never truly existed https://t.co/shk56rlsAB"
+	},
+	{
+		"created_at": "Wed Dec 16 20:34:09 +0000 2020",
+		"id": 1339306490515976200,
+		"id_str": "1339307850288558082",
+		"full_text": "welcome to my account 😎 https://t.co/16ohWGVBp0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339306486149730300,
+					"id_str": "1339306486149730305",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYsJzhU0AErhLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYsJzhU0AErhLK.jpg",
+					"url": "https://t.co/16ohWGVBp0",
+					"display_url": "pic.twitter.com/16ohWGVBp0",
+					"expanded_url": "https://twitter.com/Reach4ACopsGun/status/1339306490515976192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339306486149730300,
+					"id_str": "1339306486149730305",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYsJzhU0AErhLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYsJzhU0AErhLK.jpg",
+					"url": "https://t.co/16ohWGVBp0",
+					"display_url": "pic.twitter.com/16ohWGVBp0",
+					"expanded_url": "https://twitter.com/Reach4ACopsGun/status/1339306490515976192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339306486149783600,
+					"id_str": "1339306486149783552",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EpYsJzhVoAAG1VP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpYsJzhVoAAG1VP.jpg",
+					"url": "https://t.co/16ohWGVBp0",
+					"display_url": "pic.twitter.com/16ohWGVBp0",
+					"expanded_url": "https://twitter.com/Reach4ACopsGun/status/1339306490515976192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1878174157,
+			"id_str": "1878174157",
+			"name": "꧁꧂𝐖𝐚𝐡𝐝𝐚𝐝𝐝𝐢𝐧 𝐓𝐫𝐨𝐭𝐩𝐨𝐬𝐭𝐢𝐧’࿆۞",
+			"screen_name": "Reach4ACopsGun",
+			"location": "☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷ ▐██▓▓▒▒░░",
+			"description": "☸Radical JudeoBuddhist Thought Leader✡ ۞Art Historian۞ ꧁꧂◌Propagandalogist◌꧁꧂ ꧁꧂⚐☭ⒶAnarcho-Surrealist Neo-Quaker Acid-MarxistⒶ☭⚐ ۞ G◌D DM ✞ 222 PHD.PDF 1111 ۞",
+			"url": "https://t.co/bZIN0tch7C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bZIN0tch7C",
+							"expanded_url": "http://xn--8m9ac.com",
+							"display_url": "꧁꧂.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4745,
+			"friends_count": 1132,
+			"listed_count": 34,
+			"created_at": "Wed Sep 18 05:21:13 +0000 2013",
+			"favourites_count": 20099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325273020567445505/0ljVGapv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325273020567445505/0ljVGapv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1878174157/1604804996",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "welcome to my account 😎 https://t.co/16ohWGVBp0"
+	},
+	{
+		"created_at": "Wed Dec 16 20:10:35 +0000 2020",
+		"id": 1338849447778902000,
+		"id_str": "1339301919974694913",
+		"full_text": "This might be the hardest picture of the year. https://t.co/OlI9OkgZhb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338849403164037000,
+					"id_str": "1338849403164037121",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EpSMcEtWEAE2DGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpSMcEtWEAE2DGH.jpg",
+					"url": "https://t.co/OlI9OkgZhb",
+					"display_url": "pic.twitter.com/OlI9OkgZhb",
+					"expanded_url": "https://twitter.com/feelickss/status/1338849447778902016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338849403164037000,
+					"id_str": "1338849403164037121",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EpSMcEtWEAE2DGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpSMcEtWEAE2DGH.jpg",
+					"url": "https://t.co/OlI9OkgZhb",
+					"display_url": "pic.twitter.com/OlI9OkgZhb",
+					"expanded_url": "https://twitter.com/feelickss/status/1338849447778902016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 228286746,
+			"id_str": "228286746",
+			"name": "doctorlove",
+			"screen_name": "feelickss",
+			"location": "East Harlem, Manhattan",
+			"description": "Felix B ; the sheep that refuses to be counted ; the chicken who crossed the road when no one was looking ; the cat who survived curiosity .",
+			"url": "https://t.co/21RqBeKk1S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/21RqBeKk1S",
+							"expanded_url": "http://www.instagram.com/feelickss",
+							"display_url": "instagram.com/feelickss",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5768,
+			"friends_count": 1422,
+			"listed_count": 40,
+			"created_at": "Sun Dec 19 08:15:28 +0000 2010",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080006",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157076679388385286/YcO8pzsA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157076679388385286/YcO8pzsA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/228286746/1596152525",
+			"profile_link_color": "14CC30",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1970B3",
+			"profile_text_color": "DBDB11",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117983,
+		"favorite_count": 1076685,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This might be the hardest picture of the year. https://t.co/OlI9OkgZhb"
+	},
+	{
 		"created_at": "Tue Dec 15 19:34:30 +0000 2020",
 		"id": 1338923641363456000,
 		"id_str": "1338930450031632384",
@@ -272,7 +925,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -378,7 +1031,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -473,7 +1126,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
