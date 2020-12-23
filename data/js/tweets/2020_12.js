@@ -1,6 +1,1047 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 22:27:58 +0000 2020",
+		"id": 1341510820958748700,
+		"id_str": "1341510820958748674",
+		"full_text": "Man i just remembered i own hylics on steam and havent played it yet :/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 606,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 22184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Man i just remembered i own hylics on steam and havent played it yet :/"
+	},
+	{
+		"created_at": "Tue Dec 22 22:27:39 +0000 2020",
+		"id": 1341239195793158100,
+		"id_str": "1341510742810439682",
+		"full_text": "dumb idiot lmao https://t.co/BnismAfEO2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341239124028616700,
+					"id_str": "1341239124028616704",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ep0J4IqU8AAMMf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ep0J4IqU8AAMMf7.jpg",
+					"url": "https://t.co/BnismAfEO2",
+					"display_url": "pic.twitter.com/BnismAfEO2",
+					"expanded_url": "https://twitter.com/PoolmanSmasher/status/1341239195793158144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341239124028616700,
+					"id_str": "1341239124028616704",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ep0J4IqU8AAMMf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ep0J4IqU8AAMMf7.jpg",
+					"url": "https://t.co/BnismAfEO2",
+					"display_url": "pic.twitter.com/BnismAfEO2",
+					"expanded_url": "https://twitter.com/PoolmanSmasher/status/1341239195793158144/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ep0J4IqU8AAMMf7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280724166228889600,
+			"id_str": "1280724166228889602",
+			"name": "Deskinem",
+			"screen_name": "PoolmanSmasher",
+			"location": "Zealandia",
+			"description": "Lawkeeper of the Last Capital Gahlm, and owner of nails. Glorified Hylics fan account (He/Him)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 465,
+			"friends_count": 123,
+			"listed_count": 1,
+			"created_at": "Wed Jul 08 04:43:45 +0000 2020",
+			"favourites_count": 1953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281808485957529601/mJm2z0P6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281808485957529601/mJm2z0P6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280724166228889602/1608621132",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 843,
+		"favorite_count": 4686,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "dumb idiot lmao https://t.co/BnismAfEO2"
+	},
+	{
+		"created_at": "Tue Dec 22 14:50:32 +0000 2020",
+		"id": 1340800363906166800,
+		"id_str": "1341395703055216640",
+		"full_text": "when niggas at work be like “do you have this in the back?” i go to the back and nae nae for 60 seconds then tell them we don’t got it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1271651243233067000,
+			"id_str": "1271651243233067009",
+			"name": "mikey 𖤐",
+			"screen_name": "grimshoodie",
+			"location": "l",
+			"description": "## sad boy from chicago #++",
+			"url": "https://t.co/D4k4E0P5lN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D4k4E0P5lN",
+							"expanded_url": "http://soundcloud.com/grimshoodie/sets/pnkwve",
+							"display_url": "soundcloud.com/grimshoodie/se…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 475,
+			"friends_count": 268,
+			"listed_count": 2,
+			"created_at": "Sat Jun 13 03:52:09 +0000 2020",
+			"favourites_count": 1451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330657575629709313/9MaZKBfO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330657575629709313/9MaZKBfO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1271651243233067009/1605062839",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31956,
+		"favorite_count": 326922,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "when niggas at work be like “do you have this in the back?” i go to the back and nae nae for 60 seconds then tell them we don’t got it"
+	},
+	{
+		"created_at": "Tue Dec 22 13:19:32 +0000 2020",
+		"id": 1341371870717853700,
+		"id_str": "1341372801484263426",
+		"full_text": "US artist Hope Gangloff, Icicle Weeds on Monterey Bay, 2019 #womensart https://t.co/UABojXuGeh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensart",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341371797707604000,
+					"id_str": "1341371797707603973",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep2CiwoWwAU0bE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep2CiwoWwAU0bE7.jpg",
+					"url": "https://t.co/UABojXuGeh",
+					"display_url": "pic.twitter.com/UABojXuGeh",
+					"expanded_url": "https://twitter.com/womensart1/status/1341371870717853697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 922,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 922,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341371797707604000,
+					"id_str": "1341371797707603973",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep2CiwoWwAU0bE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep2CiwoWwAU0bE7.jpg",
+					"url": "https://t.co/UABojXuGeh",
+					"display_url": "pic.twitter.com/UABojXuGeh",
+					"expanded_url": "https://twitter.com/womensart1/status/1341371870717853697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 922,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 922,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4823705386,
+			"id_str": "4823705386",
+			"name": "#WOMENSART",
+			"screen_name": "womensart1",
+			"location": "",
+			"description": "Celebrating ♀'s art & creativity, curated by freelance writer & art historian @PL_Henderson1. Images are © to respective owners",
+			"url": "https://t.co/gDV7wWbjgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gDV7wWbjgm",
+							"expanded_url": "https://womensartblog.wordpress.com/",
+							"display_url": "womensartblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304366,
+			"friends_count": 0,
+			"listed_count": 3032,
+			"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+			"favourites_count": 26975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 898,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "US artist Hope Gangloff, Icicle Weeds on Monterey Bay, 2019 #womensart https://t.co/UABojXuGeh"
+	},
+	{
+		"created_at": "Tue Dec 22 13:18:44 +0000 2020",
+		"id": 1341099963028287500,
+		"id_str": "1341372603739631619",
+		"full_text": "i feel like we haven’t acknowledged how hard this time has been for FRIENDSHIPS.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23373186,
+			"id_str": "23373186",
+			"name": "darian symoné harvin",
+			"screen_name": "dariansymone",
+			"location": "LA via NYC + Buffalo",
+			"description": "reporter covering beauty at the intersection of politics x pop culture. subscribe to my newsletter: https://t.co/rxV4WIBnC2. mostly on IG: darian",
+			"url": "https://t.co/qAsQZRO2v5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qAsQZRO2v5",
+							"expanded_url": "https://linktr.ee/darian",
+							"display_url": "linktr.ee/darian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rxV4WIBnC2",
+							"expanded_url": "http://darian.substack.com/about",
+							"display_url": "darian.substack.com/about",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7705,
+			"friends_count": 7169,
+			"listed_count": 168,
+			"created_at": "Sun Mar 08 23:51:32 +0000 2009",
+			"favourites_count": 18574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5CFF0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336476240790732802/N-31q-ns_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336476240790732802/N-31q-ns_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23373186/1585204139",
+			"profile_link_color": "FE4D05",
+			"profile_sidebar_border_color": "050505",
+			"profile_sidebar_fill_color": "ED3B3B",
+			"profile_text_color": "78DFE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54405,
+		"favorite_count": 455708,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i feel like we haven’t acknowledged how hard this time has been for FRIENDSHIPS."
+	},
+	{
+		"created_at": "Tue Dec 22 11:50:24 +0000 2020",
+		"id": 1341301940978905000,
+		"id_str": "1341350370547785730",
+		"full_text": "https://t.co/8i8BlGr8H2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341301939611594800,
+					"id_str": "1341301939611594752",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1DAe8XcAAuKF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1DAe8XcAAuKF4.jpg",
+					"url": "https://t.co/8i8BlGr8H2",
+					"display_url": "pic.twitter.com/8i8BlGr8H2",
+					"expanded_url": "https://twitter.com/kpIusm/status/1341301940978905089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341301939611594800,
+					"id_str": "1341301939611594752",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1DAe8XcAAuKF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1DAe8XcAAuKF4.jpg",
+					"url": "https://t.co/8i8BlGr8H2",
+					"display_url": "pic.twitter.com/8i8BlGr8H2",
+					"expanded_url": "https://twitter.com/kpIusm/status/1341301940978905089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/kpIusm\" rel=\"nofollow\">kpIusm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130678250,
+			"id_str": "130678250",
+			"name": "[👁 ˍゝ👁 ]",
+			"screen_name": "kpIusm",
+			"location": "fb.com/kpIusm/",
+			"description": "𝓘𝓻𝓸𝓷𝓲𝓬 𝓻𝓮𝓽𝔀𝓮𝓮𝓽. 𝓢𝓾𝓹𝓮𝓻𝓼𝓸𝓷𝓲𝓬 𝓵𝓲𝓴𝓮. 𝓓𝓸𝓹𝓪𝓶𝓲𝓷𝓮 𝓻𝓮𝓵𝓮𝓪𝓼𝓮. 𝓢𝔂𝓷𝓽𝓱𝓮𝓼𝓲𝔃𝓮 𝓽𝓱𝓮 𝓻𝓮𝓪𝓵. 𝓤𝓵𝓽𝓻𝓪 𝓼𝓶𝓪𝓵𝓵 𝓷𝓲𝓬𝓱𝓮.  𝓼𝓸𝓬𝓲𝓪𝓵-𝓫𝓮𝓵𝓸𝓷𝓰𝓲𝓷𝓰. 𝓟𝓸𝓼𝓲𝓽𝓲𝓿𝓮 𝓻𝓮𝓼𝓾𝓵𝓽𝓼. 𝓓𝓸𝓬𝓾𝓶𝓮𝓷𝓽𝓼 𝓸𝓯 𝔀𝓸𝓻𝓵𝓭.",
+			"url": "https://t.co/ExQu50fEEv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ExQu50fEEv",
+							"expanded_url": "https://en.wikipedia.org/wiki/Special:Random",
+							"display_url": "en.wikipedia.org/wiki/Special:R…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9618,
+			"friends_count": 0,
+			"listed_count": 85,
+			"created_at": "Thu Apr 08 00:23:59 +0000 2010",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/757682078200856576/tjtVthTy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/757682078200856576/tjtVthTy_normal.jpg",
+			"profile_link_color": "4F844C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 210,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8i8BlGr8H2"
+	},
+	{
+		"created_at": "Tue Dec 22 11:50:15 +0000 2020",
+		"id": 1341350335508525000,
+		"id_str": "1341350335508525056",
+		"full_text": "Me https://t.co/8jUyhR6jKG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8jUyhR6jKG",
+					"expanded_url": "https://twitter.com/makeupaguy/status/1341238791873421313",
+					"display_url": "twitter.com/makeupaguy/sta…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 606,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 22184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341238791873421300,
+		"quoted_status_id_str": "1341238791873421313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8jUyhR6jKG",
+			"expanded": "https://twitter.com/makeupaguy/status/1341238791873421313",
+			"display": "twitter.com/makeupaguy/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 22 04:27:01 +0000 2020",
+			"id": 1341238791873421300,
+			"id_str": "1341238791873421313",
+			"full_text": "guy who gets very passionate about the lore for a franchise that isn't intended to have deep lore",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1316536928393744400,
+				"id_str": "1316536928393744384",
+				"name": "make up a guy",
+				"screen_name": "makeupaguy",
+				"location": "the guymakers realm",
+				"description": "im the guy who makes up guys.\ndm's are closed while I get through the backlog! •\nmain @makeupaguyguy\nhe/him • catguy\nhttps://t.co/88ryUA8SrE",
+				"url": "https://t.co/HYIUMUCGKL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HYIUMUCGKL",
+								"expanded_url": "https://www.twitch.tv/guymaker",
+								"display_url": "twitch.tv/guymaker",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/88ryUA8SrE",
+								"expanded_url": "https://discord.gg/W3epCrzjVm",
+								"display_url": "discord.gg/W3epCrzjVm",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80669,
+				"friends_count": 94,
+				"listed_count": 62,
+				"created_at": "Thu Oct 15 00:30:44 +0000 2020",
+				"favourites_count": 9989,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5680,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1316537558243905537/c0DWu_Pe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316537558243905537/c0DWu_Pe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1316536928393744384/1608154706",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6691,
+			"favorite_count": 56705,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Me https://t.co/8jUyhR6jKG"
+	},
+	{
 		"created_at": "Mon Dec 21 23:06:14 +0000 2020",
 		"id": 1341158061596172300,
 		"id_str": "1341158061596172289",
@@ -39,7 +1080,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -134,7 +1175,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -338,7 +1379,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -434,7 +1475,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1189,7 +2230,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
