@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 14:08:50 +0000 2021",
+		"id": 1344832847966777300,
+		"id_str": "1345009087466110976",
+		"full_text": "Rest in peace, MF DOOM 🕊️\nThank you for everything https://t.co/XgB9KUsMDa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344832706849501200,
+					"id_str": "1344832706849501185",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EqnOOL4XcAEpfta.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqnOOL4XcAEpfta.jpg",
+					"url": "https://t.co/XgB9KUsMDa",
+					"display_url": "pic.twitter.com/XgB9KUsMDa",
+					"expanded_url": "https://twitter.com/gobo3D/status/1344832847966777345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344832706849501200,
+					"id_str": "1344832706849501185",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EqnOOL4XcAEpfta.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqnOOL4XcAEpfta.jpg",
+					"url": "https://t.co/XgB9KUsMDa",
+					"display_url": "pic.twitter.com/XgB9KUsMDa",
+					"expanded_url": "https://twitter.com/gobo3D/status/1344832847966777345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344832722309705700,
+					"id_str": "1344832722309705734",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EqnOPFeXcAYJDJw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqnOPFeXcAYJDJw.png",
+					"url": "https://t.co/XgB9KUsMDa",
+					"display_url": "pic.twitter.com/XgB9KUsMDa",
+					"expanded_url": "https://twitter.com/gobo3D/status/1344832847966777345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 486,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 486,
+							"h": 406,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1344832737929289700,
+					"id_str": "1344832737929289733",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EqnOP_qXYAUL4A7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqnOP_qXYAUL4A7.png",
+					"url": "https://t.co/XgB9KUsMDa",
+					"display_url": "pic.twitter.com/XgB9KUsMDa",
+					"expanded_url": "https://twitter.com/gobo3D/status/1344832847966777345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 897,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 897,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936405141430906900,
+			"id_str": "936405141430906880",
+			"name": "𝙜𝙤𝙗𝙤 🍄",
+			"screen_name": "gobo3D",
+			"location": "",
+			"description": "🚪🚶🌎\n3D FRIEND- COME WITH ME 🚶‍♂️\ngobo3D@gmail.com\nCommissions Open 🤝",
+			"url": "https://t.co/9b1H2Bjxat",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9b1H2Bjxat",
+							"expanded_url": "https://artistsourced.com/collections/gobo-3d",
+							"display_url": "artistsourced.com/collections/go…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8017,
+			"friends_count": 996,
+			"listed_count": 52,
+			"created_at": "Fri Dec 01 01:22:38 +0000 2017",
+			"favourites_count": 10485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218678614725554176/ZC9Z1djC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218678614725554176/ZC9Z1djC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936405141430906880/1578382538",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3014,
+		"favorite_count": 14679,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rest in peace, MF DOOM 🕊️\nThank you for everything https://t.co/XgB9KUsMDa"
+	},
+	{
 		"created_at": "Fri Jan 01 00:58:42 +0000 2021",
 		"id": 1344789330875842600,
 		"id_str": "1344810245567238146",
@@ -651,7 +897,7 @@ Grailbird.data.tweets_2021_01 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -747,7 +993,7 @@ Grailbird.data.tweets_2021_01 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙‍♂️",
+			"description": "🌱19 |/he/him 🌱 musician, dumb nerd 🌱 I like music, nature, and a load of nerd stuff i talk about guitars too much🌱 INFP, maid of heart, prospit, ♌ 🧙♂️",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
