@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 17:27:34 +0000 2021",
+		"id": 1362809297890119700,
+		"id_str": "1362816108160507910",
+		"full_text": "From the bench of Master Builder Vince Van Trigt, comes this ‘52 Tele with a 70’s vibe, an Okume body, and a Josefina Campos ‘51 P bass style neck pick up. https://t.co/G10irO9X1M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362809290810138600,
+					"id_str": "1362809290810138628",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Eumr1FtXIAQRm4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eumr1FtXIAQRm4i.jpg",
+					"url": "https://t.co/G10irO9X1M",
+					"display_url": "pic.twitter.com/G10irO9X1M",
+					"expanded_url": "https://twitter.com/Fender/status/1362809297890119682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362809290810138600,
+					"id_str": "1362809290810138628",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Eumr1FtXIAQRm4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eumr1FtXIAQRm4i.jpg",
+					"url": "https://t.co/G10irO9X1M",
+					"display_url": "pic.twitter.com/G10irO9X1M",
+					"expanded_url": "https://twitter.com/Fender/status/1362809297890119682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1362809293662224400,
+					"id_str": "1362809293662224384",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Eumr1QVWgAA0lPo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eumr1QVWgAA0lPo.jpg",
+					"url": "https://t.co/G10irO9X1M",
+					"display_url": "pic.twitter.com/G10irO9X1M",
+					"expanded_url": "https://twitter.com/Fender/status/1362809297890119682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1362809295952351200,
+					"id_str": "1362809295952351234",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Eumr1Y3XEAIgFgY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eumr1Y3XEAIgFgY.jpg",
+					"url": "https://t.co/G10irO9X1M",
+					"display_url": "pic.twitter.com/G10irO9X1M",
+					"expanded_url": "https://twitter.com/Fender/status/1362809297890119682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Khoros Marketing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707913,
+			"id_str": "707913",
+			"name": "Fender",
+			"screen_name": "Fender",
+			"location": "www.instagram.com/fender",
+			"description": "Since 1946, Fender has been the world’s foremost manufacturer of electric and acoustic guitars, bass guitars, amplifiers & accessories. https://t.co/7wY6Do1Kpu",
+			"url": "http://t.co/QkGWpWtQXe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QkGWpWtQXe",
+							"expanded_url": "http://www.fender.com/",
+							"display_url": "fender.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7wY6Do1Kpu",
+							"expanded_url": "http://www.facebook.com/Fender",
+							"display_url": "facebook.com/Fender",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 672009,
+			"friends_count": 11515,
+			"listed_count": 4197,
+			"created_at": "Fri Jan 26 12:02:00 +0000 2007",
+			"favourites_count": 36997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783743036043866112/XeOiqdgp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783743036043866112/XeOiqdgp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/707913/1602605355",
+			"profile_link_color": "D52B1E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1A1B1F",
+			"profile_text_color": "AAAAAA",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 545,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From the bench of Master Builder Vince Van Trigt, comes this ‘52 Tele with a 70’s vibe, an Okume body, and a Josefina Campos ‘51 P bass style neck pick up. https://t.co/G10irO9X1M"
+	},
+	{
+		"created_at": "Fri Feb 19 15:41:11 +0000 2021",
+		"id": 1362789334999515100,
+		"id_str": "1362789334999515137",
+		"full_text": "https://t.co/frQW5qvwKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/frQW5qvwKC",
+					"expanded_url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c?si=sqizDsY6RVuyWHdNo003cw&utm_source=copy-link",
+					"display_url": "open.spotify.com/track/2MLuFz9Y…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 627,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 23144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/frQW5qvwKC"
+	},
+	{
+		"created_at": "Fri Feb 19 14:28:25 +0000 2021",
+		"id": 1362584208045203500,
+		"id_str": "1362771023448440841",
+		"full_text": "A few environments from a 1997 Ukrainian DOS fps \"Chasm: The Rift\". #DOSGaming https://t.co/ieDPTOl5GH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOSGaming",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362584167259775000,
+					"id_str": "1362584167259774982",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EujfFLIXIAYirQ-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EujfFLIXIAYirQ-.png",
+					"url": "https://t.co/ieDPTOl5GH",
+					"display_url": "pic.twitter.com/ieDPTOl5GH",
+					"expanded_url": "https://twitter.com/dosnostalgic/status/1362584208045203458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362584167259775000,
+					"id_str": "1362584167259774982",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EujfFLIXIAYirQ-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EujfFLIXIAYirQ-.png",
+					"url": "https://t.co/ieDPTOl5GH",
+					"display_url": "pic.twitter.com/ieDPTOl5GH",
+					"expanded_url": "https://twitter.com/dosnostalgic/status/1362584208045203458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1362584179872039000,
+					"id_str": "1362584179872038917",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EujfF6HXAAU2kuT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EujfF6HXAAU2kuT.png",
+					"url": "https://t.co/ieDPTOl5GH",
+					"display_url": "pic.twitter.com/ieDPTOl5GH",
+					"expanded_url": "https://twitter.com/dosnostalgic/status/1362584208045203458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1362584188743020500,
+					"id_str": "1362584188743020552",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EujfGbKXcAg1hFf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EujfGbKXcAg1hFf.png",
+					"url": "https://t.co/ieDPTOl5GH",
+					"display_url": "pic.twitter.com/ieDPTOl5GH",
+					"expanded_url": "https://twitter.com/dosnostalgic/status/1362584208045203458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1362584200109523000,
+					"id_str": "1362584200109522946",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EujfHFgWgAId_uv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EujfHFgWgAId_uv.png",
+					"url": "https://t.co/ieDPTOl5GH",
+					"display_url": "pic.twitter.com/ieDPTOl5GH",
+					"expanded_url": "https://twitter.com/dosnostalgic/status/1362584208045203458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34132596,
+			"id_str": "34132596",
+			"name": "𝔸𝕟𝕒𝕥𝕠𝕝𝕪 𝕊𝕙𝕒𝕤𝕙𝕜𝕚𝕟💾",
+			"screen_name": "dosnostalgic",
+			"location": "Upper Memory Block",
+			"description": "Living in the past. The IBM PC past that is. YouTuber/Podcaster. Ask me about DOS games! Tell me your DOS game memories! I retweet and swear a lot. (He/Him)",
+			"url": "https://t.co/5zd1Ftbm1R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5zd1Ftbm1R",
+							"expanded_url": "http://www.dosnostalgia.com",
+							"display_url": "dosnostalgia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23427,
+			"friends_count": 249,
+			"listed_count": 469,
+			"created_at": "Wed Apr 22 01:40:45 +0000 2009",
+			"favourites_count": 6007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 167562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343336949164204034/Sn_uEpn__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343336949164204034/Sn_uEpn__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34132596/1399933008",
+			"profile_link_color": "0C00B8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 991,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few environments from a 1997 Ukrainian DOS fps \"Chasm: The Rift\". #DOSGaming https://t.co/ieDPTOl5GH"
+	},
+	{
+		"created_at": "Fri Feb 19 11:43:36 +0000 2021",
+		"id": 1362729544340435000,
+		"id_str": "1362729544340434948",
+		"full_text": "I bought koala sampler. Its unreal tbh exactly what ive been looking for",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 627,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 23144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I bought koala sampler. Its unreal tbh exactly what ive been looking for"
+	},
+	{
 		"created_at": "Fri Feb 19 00:42:47 +0000 2021",
 		"id": 1362561922386849800,
 		"id_str": "1362563244485976064",
@@ -320,7 +1067,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -796,7 +1543,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -903,7 +1650,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1548,7 +2295,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
