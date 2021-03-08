@@ -1,6 +1,752 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 07 16:50:14 +0000 2021",
+		"id": 1368242602525347800,
+		"id_str": "1368604917338939393",
+		"full_text": "Last Light by Canadian painter Kim Dorland (b. 1974) https://t.co/CYKn0Y1yVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368242597995573200,
+					"id_str": "1368242597995573248",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Evz5ZMQVcAAYcQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evz5ZMQVcAAYcQZ.jpg",
+					"url": "https://t.co/CYKn0Y1yVS",
+					"display_url": "pic.twitter.com/CYKn0Y1yVS",
+					"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1368242602525347840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 821,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368242597995573200,
+					"id_str": "1368242597995573248",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Evz5ZMQVcAAYcQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evz5ZMQVcAAYcQZ.jpg",
+					"url": "https://t.co/CYKn0Y1yVS",
+					"display_url": "pic.twitter.com/CYKn0Y1yVS",
+					"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1368242602525347840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 821,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1063685129661382700,
+			"id_str": "1063685129661382656",
+			"name": "Diane Doniol-Valcroze",
+			"screen_name": "ddoniolvalcroze",
+			"location": "Hollywood, Los Angeles",
+			"description": "Writer:@41strange daughter of Jacques Doniol-Valcroze co-founder of Cahiers Du Cinéma",
+			"url": "https://t.co/lApirIcxFC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lApirIcxFC",
+							"expanded_url": "https://41strange.wordpress.com",
+							"display_url": "41strange.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101142,
+			"friends_count": 246,
+			"listed_count": 786,
+			"created_at": "Sat Nov 17 06:47:51 +0000 2018",
+			"favourites_count": 70357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063687642267607040/D4Dc2N9L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063687642267607040/D4Dc2N9L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063685129661382656/1613179210",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 1254,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last Light by Canadian painter Kim Dorland (b. 1974) https://t.co/CYKn0Y1yVS"
+	},
+	{
+		"created_at": "Sun Mar 07 16:47:48 +0000 2021",
+		"id": 1368590884225351700,
+		"id_str": "1368604304899256320",
+		"full_text": "https://t.co/9VFdQVtVpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368590880161038300,
+					"id_str": "1368590880161038336",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev42J4bWgAA05U6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ev42J4bWgAA05U6.jpg",
+					"url": "https://t.co/9VFdQVtVpK",
+					"display_url": "pic.twitter.com/9VFdQVtVpK",
+					"expanded_url": "https://twitter.com/thatsgoodweb/status/1368590884225351682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1265,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368590880161038300,
+					"id_str": "1368590880161038336",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev42J4bWgAA05U6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ev42J4bWgAA05U6.jpg",
+					"url": "https://t.co/9VFdQVtVpK",
+					"display_url": "pic.twitter.com/9VFdQVtVpK",
+					"expanded_url": "https://twitter.com/thatsgoodweb/status/1368590884225351682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1265,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176870030,
+			"id_str": "176870030",
+			"name": "𝔻𝕖𝕖𝕡 𝕋𝕙𝕠𝕥",
+			"screen_name": "thatsgoodweb",
+			"location": "in the net on the web",
+			"description": "you want to know when the end times are coming? look behind you. BLM/ACAB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14596,
+			"friends_count": 978,
+			"listed_count": 118,
+			"created_at": "Tue Aug 10 17:18:57 +0000 2010",
+			"favourites_count": 92132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352457651653906436/rdH1BfUq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352457651653906436/rdH1BfUq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176870030/1608170357",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 170,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/9VFdQVtVpK"
+	},
+	{
+		"created_at": "Sun Mar 07 16:16:52 +0000 2021",
+		"id": 1368596520052945000,
+		"id_str": "1368596520052944898",
+		"full_text": "https://t.co/MEAiQQ53g7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MEAiQQ53g7",
+					"expanded_url": "https://open.spotify.com/track/6DDLWhvJiWQ6xSMz4gW6hc?si=QQMLFy-YRUO73jittHS04Q&utm_source=copy-link",
+					"display_url": "open.spotify.com/track/6DDLWhvJ…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 627,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 23289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MEAiQQ53g7"
+	},
+	{
+		"created_at": "Sun Mar 07 16:10:39 +0000 2021",
+		"id": 1368509741387804700,
+		"id_str": "1368594956928094215",
+		"full_text": "ネオガラケー作りてぇ〜の絵 https://t.co/ULsv4E7qix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368509737147396000,
+					"id_str": "1368509737147396096",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev3sWvJVcAAyrMP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ev3sWvJVcAAyrMP.jpg",
+					"url": "https://t.co/ULsv4E7qix",
+					"display_url": "pic.twitter.com/ULsv4E7qix",
+					"expanded_url": "https://twitter.com/peter6409/status/1368509741387804673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 946,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1614,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368509737147396000,
+					"id_str": "1368509737147396096",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev3sWvJVcAAyrMP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ev3sWvJVcAAyrMP.jpg",
+					"url": "https://t.co/ULsv4E7qix",
+					"display_url": "pic.twitter.com/ULsv4E7qix",
+					"expanded_url": "https://twitter.com/peter6409/status/1368509741387804673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 946,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1614,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1368509737394872300,
+					"id_str": "1368509737394872330",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev3sWwEVoAoxpme.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ev3sWwEVoAoxpme.jpg",
+					"url": "https://t.co/ULsv4E7qix",
+					"display_url": "pic.twitter.com/ULsv4E7qix",
+					"expanded_url": "https://twitter.com/peter6409/status/1368509741387804673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1614,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 946,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 290468652,
+			"id_str": "290468652",
+			"name": "エヲカクPETER",
+			"screen_name": "peter6409",
+			"location": "Japan Tokyo",
+			"description": "絵を描くPETER(ペーター)！デザイナーです。画像の無断転載、無断使用ダメです。ラフ→(@shinobimaru_1) 仕事の連絡。→(ewokakupeter@gmail.com) 2021年4月以降でお願いします。",
+			"url": "https://t.co/zMWp2GeWQL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMWp2GeWQL",
+							"expanded_url": "https://peter6409.artstation.com/",
+							"display_url": "peter6409.artstation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75250,
+			"friends_count": 781,
+			"listed_count": 1134,
+			"created_at": "Sat Apr 30 09:57:07 +0000 2011",
+			"favourites_count": 6732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883370876325867521/oqzOHZNQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883370876325867521/oqzOHZNQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/290468652/1491473824",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10012,
+		"favorite_count": 47185,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ネオガラケー作りてぇ〜の絵 https://t.co/ULsv4E7qix"
+	},
+	{
+		"created_at": "Sun Mar 07 15:25:40 +0000 2021",
+		"id": 1368583636325392400,
+		"id_str": "1368583636325392388",
+		"full_text": "Why aren't there like libraries for power tools, i want a gaff i can go to and use a like vice for free",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 627,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 23289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Why aren't there like libraries for power tools, i want a gaff i can go to and use a like vice for free"
+	},
+	{
 		"created_at": "Sat Mar 06 23:48:52 +0000 2021",
 		"id": 1368347883846635500,
 		"id_str": "1368347883846635520",
@@ -137,7 +883,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -233,7 +979,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -423,7 +1169,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -884,7 +1630,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -990,7 +1736,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1106,7 +1852,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1201,7 +1947,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1296,7 +2042,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1391,7 +2137,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1486,7 +2232,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1581,7 +2327,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1958,7 +2704,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2053,7 +2799,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
