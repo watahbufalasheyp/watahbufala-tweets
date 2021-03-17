@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 16 13:05:35 +0000 2021",
+		"id": 1371595985076564000,
+		"id_str": "1371809873260855299",
+		"full_text": "YOU CAN'T JUST BLOW A LOAD INTO THE SURFACE OF THE MOON https://t.co/dXdiv55JOZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXdiv55JOZ",
+					"expanded_url": "https://twitter.com/TheAVClub/status/1371505106710097921",
+					"display_url": "twitter.com/TheAVClub/stat…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842796300936659000,
+			"id_str": "842796300936658945",
+			"name": "Civvie11",
+			"screen_name": "Civvie11",
+			"location": "Undisclosed",
+			"description": "YouTube talking head/\"professional\"/retro FPS idiot/pinnacle of online entertainment",
+			"url": "https://t.co/VOqLXWI4sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VOqLXWI4sV",
+							"expanded_url": "http://www.youtube.com/c/Civvie11",
+							"display_url": "youtube.com/c/Civvie11",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40806,
+			"friends_count": 89,
+			"listed_count": 40,
+			"created_at": "Fri Mar 17 17:54:31 +0000 2017",
+			"favourites_count": 4601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322971496181047299/vLSVfblk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322971496181047299/vLSVfblk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842796300936658945/1573335673",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371505106710098000,
+		"quoted_status_id_str": "1371505106710097921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dXdiv55JOZ",
+			"expanded": "https://twitter.com/TheAVClub/status/1371505106710097921",
+			"display": "twitter.com/TheAVClub/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 15 16:54:33 +0000 2021",
+			"id": 1371505106710098000,
+			"id_str": "1371505106710097921",
+			"full_text": "Scientists plan to shoot massive load of sperm samples onto the moon https://t.co/Q47RVkDJIX https://t.co/GXScwXPoBR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q47RVkDJIX",
+						"expanded_url": "http://dlvr.it/RvgszL",
+						"display_url": "dlvr.it/RvgszL",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1371505104654721000,
+						"id_str": "1371505104654721027",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EwiQoEqUYAMyyzi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwiQoEqUYAMyyzi.jpg",
+						"url": "https://t.co/GXScwXPoBR",
+						"display_url": "pic.twitter.com/GXScwXPoBR",
+						"expanded_url": "https://twitter.com/TheAVClub/status/1371505106710097921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1371505104654721000,
+						"id_str": "1371505104654721027",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EwiQoEqUYAMyyzi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwiQoEqUYAMyyzi.jpg",
+						"url": "https://t.co/GXScwXPoBR",
+						"display_url": "pic.twitter.com/GXScwXPoBR",
+						"expanded_url": "https://twitter.com/TheAVClub/status/1371505106710097921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16027904,
+				"id_str": "16027904",
+				"name": "The A.V. Club",
+				"screen_name": "TheAVClub",
+				"location": "U.S.A.",
+				"description": "Pop culture obsessives writing for the pop culture obsessed.  @AV_Newswire | @AVCFilm | @AVTVClub | @AVCopyDesk | @TheTakeout | @DialMForMaple",
+				"url": "http://t.co/vDM9MFGQ66",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vDM9MFGQ66",
+								"expanded_url": "http://www.avclub.com/",
+								"display_url": "avclub.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 456446,
+				"friends_count": 1120,
+				"listed_count": 8058,
+				"created_at": "Thu Aug 28 15:07:34 +0000 2008",
+				"favourites_count": 7995,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 160158,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145717993328001030/UHdt_Nam_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145717993328001030/UHdt_Nam_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16027904/1478704224",
+				"profile_link_color": "1C263C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 486,
+			"favorite_count": 1174,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1890,
+		"favorite_count": 10731,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YOU CAN'T JUST BLOW A LOAD INTO THE SURFACE OF THE MOON https://t.co/dXdiv55JOZ"
+	},
+	{
 		"created_at": "Mon Mar 15 20:35:02 +0000 2021",
 		"id": 1371551097215664000,
 		"id_str": "1371560594592120832",
