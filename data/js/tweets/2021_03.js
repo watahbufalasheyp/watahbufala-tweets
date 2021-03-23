@@ -1,6 +1,1035 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 22 12:43:57 +0000 2021",
+		"id": 1373977170993934300,
+		"id_str": "1373978756403056649",
+		"full_text": "British artist Chris Wood works with coloured glass to create prism-like mazes and mandalas #womensart https://t.co/aYXbQpVXRp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensart",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373977093302841300,
+					"id_str": "1373977093302841346",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/ExFY4v_W8AI0vsd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExFY4v_W8AI0vsd.jpg",
+					"url": "https://t.co/aYXbQpVXRp",
+					"display_url": "pic.twitter.com/aYXbQpVXRp",
+					"expanded_url": "https://twitter.com/womensart1/status/1373977170993934346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373977093302841300,
+					"id_str": "1373977093302841346",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/ExFY4v_W8AI0vsd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExFY4v_W8AI0vsd.jpg",
+					"url": "https://t.co/aYXbQpVXRp",
+					"display_url": "pic.twitter.com/aYXbQpVXRp",
+					"expanded_url": "https://twitter.com/womensart1/status/1373977170993934346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1261,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1373977138500604000,
+					"id_str": "1373977138500603906",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/ExFY7YXWEAI-QVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExFY7YXWEAI-QVX.jpg",
+					"url": "https://t.co/aYXbQpVXRp",
+					"display_url": "pic.twitter.com/aYXbQpVXRp",
+					"expanded_url": "https://twitter.com/womensart1/status/1373977170993934346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4823705386,
+			"id_str": "4823705386",
+			"name": "#WOMENSART",
+			"screen_name": "womensart1",
+			"location": "",
+			"description": "Celebrating ♀'s art & creativity, curated by freelance writer & art historian @PL_Henderson1. Images are © to respective owners",
+			"url": "https://t.co/gDV7wWbjgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gDV7wWbjgm",
+							"expanded_url": "https://womensartblog.wordpress.com/",
+							"display_url": "womensartblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326618,
+			"friends_count": 0,
+			"listed_count": 3263,
+			"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+			"favourites_count": 28189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 2236,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "British artist Chris Wood works with coloured glass to create prism-like mazes and mandalas #womensart https://t.co/aYXbQpVXRp"
+	},
+	{
+		"created_at": "Mon Mar 22 12:43:47 +0000 2021",
+		"id": 1373977715641086000,
+		"id_str": "1373978713746989069",
+		"full_text": "\"Tits\" T-shirt, 1975 by pioneering UK designer associated with punk subculture, Vivienne Westwood #womensart https://t.co/A65G1ApdRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensart",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373977440549232600,
+					"id_str": "1373977440549232647",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ExFZM9lWYAc4zQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExFZM9lWYAc4zQy.jpg",
+					"url": "https://t.co/A65G1ApdRL",
+					"display_url": "pic.twitter.com/A65G1ApdRL",
+					"expanded_url": "https://twitter.com/womensart1/status/1373977715641085958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373977440549232600,
+					"id_str": "1373977440549232647",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ExFZM9lWYAc4zQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExFZM9lWYAc4zQy.jpg",
+					"url": "https://t.co/A65G1ApdRL",
+					"display_url": "pic.twitter.com/A65G1ApdRL",
+					"expanded_url": "https://twitter.com/womensart1/status/1373977715641085958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4823705386,
+			"id_str": "4823705386",
+			"name": "#WOMENSART",
+			"screen_name": "womensart1",
+			"location": "",
+			"description": "Celebrating ♀'s art & creativity, curated by freelance writer & art historian @PL_Henderson1. Images are © to respective owners",
+			"url": "https://t.co/gDV7wWbjgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gDV7wWbjgm",
+							"expanded_url": "https://womensartblog.wordpress.com/",
+							"display_url": "womensartblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326618,
+			"friends_count": 0,
+			"listed_count": 3263,
+			"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+			"favourites_count": 28189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 832,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Tits\" T-shirt, 1975 by pioneering UK designer associated with punk subculture, Vivienne Westwood #womensart https://t.co/A65G1ApdRL"
+	},
+	{
+		"created_at": "Mon Mar 22 12:29:28 +0000 2021",
+		"id": 1373969617027235800,
+		"id_str": "1373975111955587074",
+		"full_text": "back covers https://t.co/gr3dUqIfjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373969600489078800,
+					"id_str": "1373969600489078786",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ExFSEnFWQAIxP8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExFSEnFWQAIxP8W.jpg",
+					"url": "https://t.co/gr3dUqIfjC",
+					"display_url": "pic.twitter.com/gr3dUqIfjC",
+					"expanded_url": "https://twitter.com/caffeinatedeyes/status/1373969617027235846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373969600489078800,
+					"id_str": "1373969600489078786",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ExFSEnFWQAIxP8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExFSEnFWQAIxP8W.jpg",
+					"url": "https://t.co/gr3dUqIfjC",
+					"display_url": "pic.twitter.com/gr3dUqIfjC",
+					"expanded_url": "https://twitter.com/caffeinatedeyes/status/1373969617027235846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1373969254253527000,
+		"in_reply_to_status_id_str": "1373969254253527041",
+		"in_reply_to_user_id": 2252681048,
+		"in_reply_to_user_id_str": "2252681048",
+		"in_reply_to_screen_name": "caffeinatedeyes",
+		"user": {
+			"id": 2252681048,
+			"id_str": "2252681048",
+			"name": "ella",
+			"screen_name": "caffeinatedeyes",
+			"location": "Southampton, England",
+			"description": "artist & designer • 23 • she/her • 🏳️‍🌈 • ✨COMMISSIONS OPEN!✨ ❗️DO NOT COPY, USE, OR REPOST MY ART W/O PERMISSION❗️ ig: x.hopelessheart.x",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4162,
+			"friends_count": 656,
+			"listed_count": 73,
+			"created_at": "Wed Dec 18 23:35:40 +0000 2013",
+			"favourites_count": 63142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358170894422708230/IDe2pAbD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358170894422708230/IDe2pAbD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2252681048/1614359951",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "back covers https://t.co/gr3dUqIfjC"
+	},
+	{
+		"created_at": "Mon Mar 22 12:04:40 +0000 2021",
+		"id": 1373605524965625900,
+		"id_str": "1373968870814404619",
+		"full_text": "The real question is why do big studios charge $70 for unfinished games created by abused employees? https://t.co/cReOX3cCzv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cReOX3cCzv",
+					"expanded_url": "https://twitter.com/pcgamer/status/1373596209559011331",
+					"display_url": "twitter.com/pcgamer/status…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1031933516697817100,
+			"id_str": "1031933516697817088",
+			"name": "Dallas W | Voice Director 🏳️‍⚧️",
+			"screen_name": "dallas_hawthorn",
+			"location": "stolen Abenaki land",
+			"description": "they/he | trans masc | voice actor @MoonbaseThetaOu, @WhiteVault, @SmokeSteamPod, etc | director @Fireside_Folk | soap maker @ShireSuds | white | 28",
+			"url": "https://t.co/xAwS0IZuP2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xAwS0IZuP2",
+							"expanded_url": "https://swheatpodcasts.com",
+							"display_url": "swheatpodcasts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 695,
+			"listed_count": 5,
+			"created_at": "Tue Aug 21 15:58:17 +0000 2018",
+			"favourites_count": 112971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369488604377067528/3Ehb082Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369488604377067528/3Ehb082Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031933516697817088/1612468282",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1373596209559011300,
+		"quoted_status_id_str": "1373596209559011331",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cReOX3cCzv",
+			"expanded": "https://twitter.com/pcgamer/status/1373596209559011331",
+			"display": "twitter.com/pcgamer/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 21 11:23:51 +0000 2021",
+			"id": 1373596209559011300,
+			"id_str": "1373596209559011331",
+			"full_text": "Are indie games too cheap for their own good? https://t.co/cca4JTEogO https://t.co/J5cWfTeA1w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cca4JTEogO",
+						"expanded_url": "https://trib.al/YWUCRN2",
+						"display_url": "trib.al/YWUCRN2",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1373596207923224600,
+						"id_str": "1373596207923224576",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/Ew_-eTYWYAAGcj5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ew_-eTYWYAAGcj5.jpg",
+						"url": "https://t.co/J5cWfTeA1w",
+						"display_url": "pic.twitter.com/J5cWfTeA1w",
+						"expanded_url": "https://twitter.com/pcgamer/status/1373596209559011331/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1373596207923224600,
+						"id_str": "1373596207923224576",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/Ew_-eTYWYAAGcj5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ew_-eTYWYAAGcj5.jpg",
+						"url": "https://t.co/J5cWfTeA1w",
+						"display_url": "pic.twitter.com/J5cWfTeA1w",
+						"expanded_url": "https://twitter.com/pcgamer/status/1373596209559011331/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 970,
+								"h": 546,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16736535,
+				"id_str": "16736535",
+				"name": "PC Gamer",
+				"screen_name": "pcgamer",
+				"location": "USA, Canada, UK, & AU",
+				"description": "The global authority on PC games. Tweets from our US, UK, and AU editors.",
+				"url": "https://t.co/C4FGsPswO5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C4FGsPswO5",
+								"expanded_url": "http://www.pcgamer.com",
+								"display_url": "pcgamer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2225462,
+				"friends_count": 113,
+				"listed_count": 6396,
+				"created_at": "Tue Oct 14 11:19:09 +0000 2008",
+				"favourites_count": 1013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 98698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877980023025803270/xntVDuTq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877980023025803270/xntVDuTq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16736535/1561494498",
+				"profile_link_color": "DC1E25",
+				"profile_sidebar_border_color": "939598",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "000F18",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 1320,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13560,
+		"favorite_count": 59618,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The real question is why do big studios charge $70 for unfinished games created by abused employees? https://t.co/cReOX3cCzv"
+	},
+	{
+		"created_at": "Mon Mar 22 12:01:06 +0000 2021",
+		"id": 1373967701446656000,
+		"id_str": "1373967973363417091",
+		"full_text": "[sm211_naitelveni.bsp]\n\nThe Cyborg Manifesto\nby Naitelveni (@Naitelveni1)\nreleased in 2021 https://t.co/bEfTb2szDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Naitelveni1",
+					"name": "N a i t e l v e n i",
+					"id": 839251738242740200,
+					"id_str": "839251738242740225",
+					"indices": [
+						60,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373915553077805000,
+					"id_str": "1373915553077805056",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ExEg6oyWQAAuZ3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExEg6oyWQAAuZ3P.jpg",
+					"url": "https://t.co/bEfTb2szDY",
+					"display_url": "pic.twitter.com/bEfTb2szDY",
+					"expanded_url": "https://twitter.com/Slipseer/status/1373967701446656012/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373915553077805000,
+					"id_str": "1373915553077805056",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ExEg6oyWQAAuZ3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExEg6oyWQAAuZ3P.jpg",
+					"url": "https://t.co/bEfTb2szDY",
+					"display_url": "pic.twitter.com/bEfTb2szDY",
+					"expanded_url": "https://twitter.com/Slipseer/status/1373967701446656012/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147464636242882600,
+			"id_str": "1147464636242882561",
+			"name": "Slipgate Sightseer",
+			"screen_name": "Slipseer",
+			"location": "start.bsp",
+			"description": "Peering into a million doomed dimensions...\nDaily screenshots of Quake levels\n\nPosts by @frwthr_exe, @BafuBal",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2456,
+			"friends_count": 2,
+			"listed_count": 21,
+			"created_at": "Sat Jul 06 11:17:42 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147479384502128640/uISV8-aI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147479384502128640/uISV8-aI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147464636242882561/1562990400",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 141,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[sm211_naitelveni.bsp]\n\nThe Cyborg Manifesto\nby Naitelveni (@Naitelveni1)\nreleased in 2021 https://t.co/bEfTb2szDY"
+	},
+	{
 		"created_at": "Sun Mar 21 21:05:57 +0000 2021",
 		"id": 1373742701791830000,
 		"id_str": "1373742701791830016",
@@ -36,7 +1065,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -240,7 +1269,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -336,7 +1365,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -441,7 +1470,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -537,7 +1566,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1062,7 +2091,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "emo michael cera",
 			"screen_name": "ratstep",
 			"location": "19 + he/him + 🇲🇽 ",
-			"description": "my name is atlas/ezra and i draw 🦑 ☆ ੯•́ʔ̋ ͙͛*͛ ͙͛*͛ ͙͛̋و 🏳️‍⚧️ ☆ no transphobes, no pedos, and no racist fucks ☆ 🐛🐛🐛 ☆ cw eyestrain ☆ commissions open ☆",
+			"description": "my name is atlas/ezra and i draw 🦑 ☆ ੯•́ʔ̋ ͙͛*͛ ͙͛*͛ ͙͛̋و 🏳️⚧️ ☆ no transphobes, no pedos, and no racist fucks ☆ 🐛🐛🐛 ☆ cw eyestrain ☆ commissions open ☆",
 			"url": "https://t.co/ONZ4yIELsC",
 			"entities": {
 				"url": {
@@ -1516,7 +2545,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1790,7 +2819,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
