@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 06 17:35:17 +0000 2021",
+		"id": 1379487892700065800,
+		"id_str": "1379487892700065793",
+		"full_text": "👀👀👀 https://t.co/8W1t4Ev0z8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8W1t4Ev0z8",
+					"expanded_url": "https://twitter.com/Eukaryot3K/status/1379357479046369280",
+					"display_url": "twitter.com/Eukaryot3K/sta…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2528303382,
+			"id_str": "2528303382",
+			"name": "DꕔN🌱🌲",
+			"screen_name": "watahbufala",
+			"location": "Cork, Ireland",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"url": "https://t.co/WQlPbtvFQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQlPbtvFQr",
+							"expanded_url": "https://imnotedgyiswear.carrd.co",
+							"display_url": "imnotedgyiswear.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 633,
+			"listed_count": 8,
+			"created_at": "Tue May 27 21:32:02 +0000 2014",
+			"favourites_count": 23615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163319949424771072/1AuMwFVx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2528303382/1559595753",
+			"profile_link_color": "036016",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379357479046369300,
+		"quoted_status_id_str": "1379357479046369280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8W1t4Ev0z8",
+			"expanded": "https://twitter.com/Eukaryot3K/status/1379357479046369280",
+			"display": "twitter.com/Eukaryot3K/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 06 08:57:04 +0000 2021",
+			"id": 1379357479046369300,
+			"id_str": "1379357479046369280",
+			"full_text": "Sonic 3 A.I.R. is on mobile!\nI really need to make this official now that there's a NEW BETA version for Android and iOS / Web out (v21.04.04.0).\nFind all download and information on https://t.co/pdow42j30Q - have a look at the manual as well. :) https://t.co/sx4TRQ0M5g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pdow42j30Q",
+						"expanded_url": "https://sonic3air.org",
+						"display_url": "sonic3air.org",
+						"indices": [
+							183,
+							206
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1379357311353905200,
+						"id_str": "1379357311353905152",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/EyR2KqGWYAAFrlq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyR2KqGWYAAFrlq.jpg",
+						"url": "https://t.co/sx4TRQ0M5g",
+						"display_url": "pic.twitter.com/sx4TRQ0M5g",
+						"expanded_url": "https://twitter.com/Eukaryot3K/status/1379357479046369280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1007,
+								"h": 632,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1007,
+								"h": 632,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1379357311353905200,
+						"id_str": "1379357311353905152",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/EyR2KqGWYAAFrlq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyR2KqGWYAAFrlq.jpg",
+						"url": "https://t.co/sx4TRQ0M5g",
+						"display_url": "pic.twitter.com/sx4TRQ0M5g",
+						"expanded_url": "https://twitter.com/Eukaryot3K/status/1379357479046369280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1007,
+								"h": 632,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1007,
+								"h": 632,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1033438315616329700,
+				"id_str": "1033438315616329735",
+				"name": "Eukaryot",
+				"screen_name": "Eukaryot3K",
+				"location": "",
+				"description": "Game Developer | Creating Sonic 3 - Angel Island Revisited, a widescreen PC port of Sonic 3 & Knuckles. Stay tuned for updates!",
+				"url": "https://t.co/icM9Ggwco2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/icM9Ggwco2",
+								"expanded_url": "http://sonic3air.org",
+								"display_url": "sonic3air.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4284,
+				"friends_count": 42,
+				"listed_count": 18,
+				"created_at": "Sat Aug 25 19:37:49 +0000 2018",
+				"favourites_count": 1056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1240,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033439288749379584/TOk4Zbod_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033439288749379584/TOk4Zbod_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033438315616329735/1553249223",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 255,
+			"favorite_count": 1122,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀👀👀 https://t.co/8W1t4Ev0z8"
+	},
+	{
+		"created_at": "Tue Apr 06 13:38:24 +0000 2021",
+		"id": 1378767821061120000,
+		"id_str": "1379428275953434624",
+		"full_text": "Ga la lung?\n#subjectfreeman #halflife https://t.co/kBllBcriyG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "subjectfreeman",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"text": "halflife",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1378764215515758600,
+					"id_str": "1378764215515758592",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EyJav77WQAARpsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyJav77WQAARpsn.jpg",
+					"url": "https://t.co/kBllBcriyG",
+					"display_url": "pic.twitter.com/kBllBcriyG",
+					"expanded_url": "https://twitter.com/decepticoin/status/1378767821061120002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1378764215515758600,
+					"id_str": "1378764215515758592",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EyJav77WQAARpsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyJav77WQAARpsn.jpg",
+					"url": "https://t.co/kBllBcriyG",
+					"display_url": "pic.twitter.com/kBllBcriyG",
+					"expanded_url": "https://twitter.com/decepticoin/status/1378767821061120002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288152554958917600,
+			"id_str": "1288152554958917632",
+			"name": "Decepticoin (Commissions Open)",
+			"screen_name": "decepticoin",
+			"location": "",
+			"description": "i draw stuff\nemail for commissions: decepticoin1@gmail.com",
+			"url": "https://t.co/UHvCmrLkIg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UHvCmrLkIg",
+							"expanded_url": "http://www.deviantart.com/decepticoin",
+							"display_url": "deviantart.com/decepticoin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2567,
+			"friends_count": 71,
+			"listed_count": 8,
+			"created_at": "Tue Jul 28 16:42:06 +0000 2020",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288154683987636225/zeUcT7ZV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288154683987636225/zeUcT7ZV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288152554958917632/1595957275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 552,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Ga la lung?\n#subjectfreeman #halflife https://t.co/kBllBcriyG"
+	},
+	{
+		"created_at": "Tue Apr 06 13:25:57 +0000 2021",
+		"id": 1378865599804289000,
+		"id_str": "1379425143114588162",
+		"full_text": "Watching the world https://t.co/0pP2TObaqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1378865135062823000,
+					"id_str": "1378865135062822913",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyK2iOiXMAEvTZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyK2iOiXMAEvTZb.jpg",
+					"url": "https://t.co/0pP2TObaqr",
+					"display_url": "pic.twitter.com/0pP2TObaqr",
+					"expanded_url": "https://twitter.com/jamesshedden/status/1378865599804289025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1378865135062823000,
+					"id_str": "1378865135062822913",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyK2iOiXMAEvTZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyK2iOiXMAEvTZb.jpg",
+					"url": "https://t.co/0pP2TObaqr",
+					"display_url": "pic.twitter.com/0pP2TObaqr",
+					"expanded_url": "https://twitter.com/jamesshedden/status/1378865599804289025/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EyK2iOiXMAEvTZb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23316106,
+			"id_str": "23316106",
+			"name": "James Shedden",
+			"screen_name": "jamesshedden",
+			"location": "London, UK",
+			"description": "🎨 Illustration, music, design, code\n📸 IG jamesshedden_illustration \n❤️ https://t.co/NM8O3deJOj\n🔮 https://t.co/utjLIpYm7G https://t.co/i4Cx4VcHX9",
+			"url": "https://t.co/5lSaHSZnjx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5lSaHSZnjx",
+							"expanded_url": "http://www.james.sh",
+							"display_url": "james.sh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NM8O3deJOj",
+							"expanded_url": "http://patreon.com/jamesshedden",
+							"display_url": "patreon.com/jamesshedden",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/utjLIpYm7G",
+							"expanded_url": "http://foundation.app/jamesshedden",
+							"display_url": "foundation.app/jamesshedden",
+							"indices": [
+								97,
+								120
+							]
+						},
+						{
+							"url": "https://t.co/i4Cx4VcHX9",
+							"expanded_url": "http://superrare.co/jamesshedden",
+							"display_url": "superrare.co/jamesshedden",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14145,
+			"friends_count": 3343,
+			"listed_count": 158,
+			"created_at": "Sun Mar 08 15:09:18 +0000 2009",
+			"favourites_count": 10320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0B0C13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264113992794062851/674U_lHy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264113992794062851/674U_lHy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23316106/1592255378",
+			"profile_link_color": "5F8C9B",
+			"profile_sidebar_border_color": "527A73",
+			"profile_sidebar_fill_color": "0B0C13",
+			"profile_text_color": "595959",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1853,
+		"favorite_count": 7855,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching the world https://t.co/0pP2TObaqr"
+	},
+	{
 		"created_at": "Tue Apr 06 00:58:24 +0000 2021",
 		"id": 1377360096582279200,
 		"id_str": "1379237017050095616",
