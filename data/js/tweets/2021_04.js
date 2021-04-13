@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 15:23:24 +0000 2021",
+		"id": 1381375254220640300,
+		"id_str": "1381629026817675268",
+		"full_text": "It costs $0.00 to retweet and support an artist/designer https://t.co/fnwqM8p3kN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381375239720996900,
+					"id_str": "1381375239720996866",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EyuhdjEXEAIckij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyuhdjEXEAIckij.jpg",
+					"url": "https://t.co/fnwqM8p3kN",
+					"display_url": "pic.twitter.com/fnwqM8p3kN",
+					"expanded_url": "https://twitter.com/dyinginkyoto/status/1381375254220640258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381375239720996900,
+					"id_str": "1381375239720996866",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EyuhdjEXEAIckij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyuhdjEXEAIckij.jpg",
+					"url": "https://t.co/fnwqM8p3kN",
+					"display_url": "pic.twitter.com/fnwqM8p3kN",
+					"expanded_url": "https://twitter.com/dyinginkyoto/status/1381375254220640258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1381375239708405800,
+					"id_str": "1381375239708405762",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EyuhdjBW8AIc4ko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyuhdjBW8AIc4ko.jpg",
+					"url": "https://t.co/fnwqM8p3kN",
+					"display_url": "pic.twitter.com/fnwqM8p3kN",
+					"expanded_url": "https://twitter.com/dyinginkyoto/status/1381375254220640258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1381375239758745600,
+					"id_str": "1381375239758745606",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EyuhdjNXEAYnNjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyuhdjNXEAYnNjI.jpg",
+					"url": "https://t.co/fnwqM8p3kN",
+					"display_url": "pic.twitter.com/fnwqM8p3kN",
+					"expanded_url": "https://twitter.com/dyinginkyoto/status/1381375254220640258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1381375239754498000,
+					"id_str": "1381375239754498049",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EyuhdjMWQAEZF0g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyuhdjMWQAEZF0g.jpg",
+					"url": "https://t.co/fnwqM8p3kN",
+					"display_url": "pic.twitter.com/fnwqM8p3kN",
+					"expanded_url": "https://twitter.com/dyinginkyoto/status/1381375254220640258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 881,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1503,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3238927515,
+			"id_str": "3238927515",
+			"name": "Kyoto",
+			"screen_name": "dyinginkyoto",
+			"location": "Brazil",
+			"description": "@redm1rror @garden_avenue",
+			"url": "https://t.co/EuFLc2yhXD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EuFLc2yhXD",
+							"expanded_url": "https://foundation.app/dyinginkyoto",
+							"display_url": "foundation.app/dyinginkyoto",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13448,
+			"friends_count": 840,
+			"listed_count": 90,
+			"created_at": "Wed May 06 14:47:55 +0000 2015",
+			"favourites_count": 33380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349180954888310784/REWaLtOA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349180954888310784/REWaLtOA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238927515/1618004134",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5035,
+		"favorite_count": 10991,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It costs $0.00 to retweet and support an artist/designer https://t.co/fnwqM8p3kN"
+	},
+	{
 		"created_at": "Mon Apr 12 01:00:38 +0000 2021",
 		"id": 1381401687504601000,
 		"id_str": "1381411904518692870",
@@ -765,7 +1047,7 @@ Grailbird.data.tweets_2021_04 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1123,7 +1405,7 @@ Grailbird.data.tweets_2021_04 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -1297,7 +1579,7 @@ Grailbird.data.tweets_2021_04 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
@@ -2316,7 +2598,7 @@ Grailbird.data.tweets_2021_04 =
 			"name": "DꕔN🌱🌲",
 			"screen_name": "watahbufala",
 			"location": "Cork, Ireland",
-			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙‍♂️@rasputinsboots",
+			"description": "🌱19 | he/him 🌱 Musician,  Nerd 🌱 I like music, art, and a load of nerd stuff i talk about guitars too much🌱 INFP ♌ 🧙♂️@rasputinsboots",
 			"url": "https://t.co/WQlPbtvFQr",
 			"entities": {
 				"url": {
